@@ -23,4 +23,12 @@ this is the ~~***best***~~ ***worst*** solution
 
 www.github.com
 
+[Github](www.github.com)
 
+[Github][def]
+
+[def]: www.github.com
+
+[Google]: www.google.com
+
+This is a link to [Google]
