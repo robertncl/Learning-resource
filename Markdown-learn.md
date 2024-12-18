@@ -12,3 +12,7 @@ __**also important**
 _maybe important_
 
 # Strike throught
+
+\~\~ is for strike through
+
+~~totally wrong information~~
