@@ -11,4 +11,4 @@ __**also important**
 
 _maybe important_
 
-# Strke throught
+# Strike throught
