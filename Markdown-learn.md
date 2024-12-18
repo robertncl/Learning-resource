@@ -1,3 +1,7 @@
+# Markdown style
+
+\*\* are for bold \_\_ are for italicize
+
 **Here is something important**
 
 __**also important**
@@ -6,3 +10,5 @@ __**also important**
 
 
 _maybe important_
+
+# Strke throught
