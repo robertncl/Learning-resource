@@ -16,3 +16,5 @@ _maybe important_
 \~\~ is for strike through
 
 ~~totally wrong information~~
+
+this is the ~~**best**~~ **worst** solution
