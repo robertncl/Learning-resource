@@ -4,10 +4,12 @@ Devops
 
 AI
 
-Linux
+Linux/Unix
 
 Kubernetes
 
 Agile
 
-System Desing
+System Design
+
+
