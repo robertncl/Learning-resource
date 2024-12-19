@@ -7,8 +7,9 @@
 
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 
-# Multi cloud
+# Finops
 
-[Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/)
+[Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/)
 
-![book](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png)
+
+
