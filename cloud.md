@@ -5,6 +5,8 @@
 
 # Google cloud
 
+[Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
+
 # Multi cloud
 
 [Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/)
