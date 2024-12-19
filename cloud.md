@@ -11,5 +11,5 @@
 
 [Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/)
 
-
+![Book](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492098348/files/assets/cover.png)
 
