@@ -4,15 +4,19 @@
 
 [Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 
-<img src=https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617293726/files/Images/cover.jpeg" width="350" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617293726/files/Images/cover.jpeg" width="380" height="550" />
 
 [Kubernetes: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
 
-<img src=https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098110192/files/assets/cover.png" width="350" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098110192/files/assets/cover.png" width="380" height="550" />
 
-[Kubernetes – An Enterprise Guide - Third Edition](https://learning.oreilly.com/library/view/kubernetes-an/9781835086957/)
+[Kubernetes – An Enterprise Guide - Third Edition](https://learning.oreilly.com/library/view/kubernetes-an/9781838086957/)
 
-<img src=https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835086957/files/Images/9781835086957_Cover.png" width="350" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835086957/files/Images/9781835086957_Cover.png" width="380" height="550" />
+
+[Kubernetes Patterns, 2nd Edition](https://learning.oreilly.com/library/view/kubernetes-patterns-2nd/9781098131678/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098131678/files/assets/cover.png" width="380" height="550" />
 
 # ***Courses***
 
