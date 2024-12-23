@@ -22,6 +22,8 @@
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/)
 
+[Exam AI-900 Microsoft Azure AI Fundamentals](https://learning.oreilly.com/course/exam-ai-900-microsoft/9780138202781/)
+
 # Google cloud
 
 # ***Courses***
