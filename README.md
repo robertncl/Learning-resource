@@ -1,8 +1,8 @@
 # Collection of learning resource
 
-**Devops**
+Devops
 
-**AI**
+AI
 
 Linux/Unix
 
