@@ -18,5 +18,8 @@
 
 [Learning GitHub](https://learning.oreilly.com/course/learning-github/9781491972069/)
 
+[GitHub Enterprise - Certified](https://learning.oreilly.com/videos/github-enterprise/10202023VIDEOPAIML/)
 
+[Programming with GitHub Copilot](https://learning.oreilly.com/library/view/programming-with-github/9781394263370/)
 
+[Accelerate Terraform Development with GitHub Copilot and AI](https://learning.oreilly.com/course/accelerate-terraform-development/9781837636426/)
