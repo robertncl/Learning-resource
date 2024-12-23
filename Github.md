@@ -23,3 +23,7 @@
 [Programming with GitHub Copilot](https://learning.oreilly.com/library/view/programming-with-github/9781394263370/)
 
 [Accelerate Terraform Development with GitHub Copilot and AI](https://learning.oreilly.com/course/accelerate-terraform-development/9781837636426/)
+
+[Complete Git Guide: Understand and Master Git and GitHub](https://learning.oreilly.com/course/complete-git-guide/9781800209855/)
+
+[Git and GitHub Masterclass - The Practical Bootcamp](https://learning.oreilly.com/course/git-and-github/9781805126027/)
