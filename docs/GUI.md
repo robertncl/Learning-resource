@@ -1,3 +1,5 @@
+from https://github.com/trimstray/the-book-of-secret-knowledge
+
 #### GUI Tools
 
 ##### :black_small_square: Terminal emulators

@@ -1,3 +1,5 @@
+from https://github.com/trimstray/the-book-of-secret-knowledge
+
 #### CLI Tools
 
 ##### :black_small_square: Shells
