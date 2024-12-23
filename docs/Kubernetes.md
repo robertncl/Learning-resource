@@ -20,6 +20,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098131678/files/assets/cover.png" width="380" height="550" />
 
+[The Book of Kubernetes](https://learning.oreilly.com/library/view/the-book-of/9781098141394/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098141394/files/images/Book_Kubernetes_HB_front.png" width="380" height="550" />
+
 [Learning Helm](https://learning.oreilly.com/library/view/learning-helm/9781492083641/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492083641/files/assets/cover.png" width="380" height="550" />

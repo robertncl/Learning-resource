@@ -4,13 +4,35 @@
 
 # ***Books***
 
+[(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition](https://learning.oreilly.com/library/view/isc-2-ccsp-certified/9781119909378/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119909378/files/images/9781119909392.jpg" width="380" height="550" />
+
+[Security Architecture for Hybrid Cloud](https://learning.oreilly.com/library/view/security-architecture-for/9781098157760/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098157760/files/assets/cover.png" width="380" height="550" />
+
 [Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png" width="380" height="550" />
 
+[Mastering Cloud Security Posture Management (CSPM)](https://learning.oreilly.com/library/view/mastering-cloud-security/9781837638406/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837638406/files/image/Cover.png" width="380" height="550" />
+
+[Enhancing Your Cloud Security with a CNAPP Solution](https://learning.oreilly.com/library/view/enhancing-your-cloud/9781836204879/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781836204879/files/Images/cover.png" width="380" height="550" />
+
+[Cloud Native Security Cookbook](https://learning.oreilly.com/library/view/cloud-native-security/9781098106294/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098106294/files/assets/cover.png" width="380" height="550" />
+
 # ***Courses***
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
+
+[AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/)
 
 # ***Resources***
 
