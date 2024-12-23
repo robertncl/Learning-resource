@@ -1,16 +1,16 @@
 [Back to Index](index.html)
 
-# AWS
+### AWS
 
-# Azure
+### Azure
 
-# ***Books***
+#### ***Books***
 
 [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098113315/files/assets/cover.png" width="380" height="550" />
 
-# ***Courses***
+#### ***Courses***
 
 [Azure Kubernetes Service (AKS) Essentials: Cloud Kubernetes for Developers and IT Professionals](https://learning.oreilly.com/course/azure-kubernetes-service/0636920982777/)
 
@@ -24,13 +24,13 @@
 
 [Exam AI-900 Microsoft Azure AI Fundamentals](https://learning.oreilly.com/course/exam-ai-900-microsoft/9780138202781/)
 
-# Google cloud
+### Google cloud
 
-# ***Courses***
+#### ***Courses***
 
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 
-# ***Finops***
+### Finops
 
 [Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/)
 

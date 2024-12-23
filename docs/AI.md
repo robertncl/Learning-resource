@@ -24,6 +24,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098153427/files/assets/cover.png" width="380" height="550" />
 
+[Hands-On Large Language Models](https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098150952/files/assets/cover.png" width="380" height="550" />
+
 [Generative AI in Action](https://learning.oreilly.com/library/view/generative-ai-in/9781633436947/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633436947/files/Images/cover.jpg" width="380" height="550" />
