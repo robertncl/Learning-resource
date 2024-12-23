@@ -6,11 +6,23 @@
 
 [The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098182281/files/images/Cover.jpg" width="380" height="550" />  
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781457191350/files/image/cover.jpg" width="380" height="550" />  
+
+[The Unicorn Project](https://learning.oreilly.com/library/view/the-unicorn-project/9781098124175/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098124175/files/images/Cover.jpg" width="380" height="550" />
 
 [The DevOps Handbook, 2nd Edition](https://learning.oreilly.com/library/view/the-devops-handbook/9781098182281/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098182281/files/images/Cover.jpg" width="380" height="550" />
+
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321670250/files/graphics/9780321670229.jpg" width="380" height="550" />
+
+[Modern Software Engineering: Doing What Works to Build Better Software Faster](https://learning.oreilly.com/library/view/modern-software-engineering/9780137314942/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137314942/files/graphics/9780137314867.jpg" width="380" height="550" />
 
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435/)
 
@@ -28,4 +40,6 @@
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)
+
+[Learning GitHub Actions for DevOps CI/CD](https://learning.oreilly.com/course/learning-github-actions/9781837639137/)
 
