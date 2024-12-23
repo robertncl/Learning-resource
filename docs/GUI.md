@@ -1,4 +1,6 @@
-from https://github.com/trimstray/the-book-of-secret-knowledge
+[Back to Index](index.html)
+
+rom https://github.com/trimstray/the-book-of-secret-knowledge
 
 #### GUI Tools
 

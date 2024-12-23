@@ -1,3 +1,5 @@
+[Back to Index](index.html)
+
 # Kubernetes
 
 # ***Books***
@@ -27,6 +29,8 @@
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
 
 [Automating Kubernetes with GitOps](https://learning.oreilly.com/videos/-/9780138230258/)
+
+[Docker and Kubernetes Masterclass: From Beginner to Advanced](https://learning.oreilly.com/course/docker-and-kubernetes/9781837025077/)
 
 # ***Resources***
 
