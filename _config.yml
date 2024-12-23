@@ -5,6 +5,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robertncl.github.io/Learning-resource/" # the base hostname & protocol for your site
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 # ...existing code...
