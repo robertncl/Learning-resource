@@ -6,7 +6,7 @@
 
 [Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png" width="350" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png" width="380" height="550" />
 
 # ***Courses***
 
