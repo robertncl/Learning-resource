@@ -17,3 +17,5 @@
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633437364/files/cover.jpeg" width="350" height="550" />
 
 # ***Courses***
+
+[AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
