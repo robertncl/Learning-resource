@@ -1,5 +1,17 @@
 [Back to Index](index.html)
 
+### Multicloud
+
+#### ***Books***
+
+[Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition](https://learning.oreilly.com/library/view/cloud-computing-concepts/9780138052287/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780138052287/files/graphics/9780138052188.jpg" width="380" height="550" />
+
+[Multi-Cloud Strategy for Cloud Architects - Second Edition](https://learning.oreilly.com/library/view/multi-cloud-strategy-for/9781804616734/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804616734/files/Images/Cover.png" width="380" height="550" />
+
 ### AWS
 
 ### Azure
