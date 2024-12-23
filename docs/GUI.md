@@ -2,7 +2,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 
 #### GUI Tools
 
-##### :black_small_square: Terminal emulators
+##### Terminal emulators
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/Guake/guake"><b>Guake</b></a> - is a dropdown terminal made for the GNOME desktop environment.<br>
@@ -11,7 +11,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
 </p>
 
-##### :black_small_square: Network
+##### Network
 
 <p>
 &nbsp;&nbsp; <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
@@ -23,13 +23,13 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/locustio/locust"><b>locust</b></a> - scalable user load testing tool written in Python.<br>
 </p>
 
-##### :black_small_square: Browsers
+##### Browsers
 
 <p>
 &nbsp;&nbsp; <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
 </p>
 
-##### :black_small_square: Password Managers
+##### Password Managers
 
 <p>
 &nbsp;&nbsp; <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
@@ -37,14 +37,14 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br>
 </p>
 
-##### :black_small_square: Messengers/IRC Clients
+##### Messengers/IRC Clients
 
 <p>
 &nbsp;&nbsp; <a href="https://hexchat.github.io/index.html"><b>HexChat</b></a> - is an IRC client based on XChat.<br>
 &nbsp;&nbsp; <a href="https://pidgin.im/"><b>Pidgin</b></a> - is an easy to use and free chat client used by millions.<br>
 </p>
 
-##### :black_small_square: Messengers (end-to-end encryption)
+##### Messengers (end-to-end encryption)
 
 <p>
 &nbsp;&nbsp; <a href="https://www.signal.org/"><b>Signal</b></a> - is an encrypted communications app.<br>
@@ -53,7 +53,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
 </p>
 
-##### :black_small_square: Text editors
+##### Text editors
 
 <p>
 &nbsp;&nbsp; <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
@@ -63,7 +63,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### :black_small_square: Browsers
+##### Browsers
 
 <p>
 &nbsp;&nbsp; <a href="https://www.ssllabs.com/ssltest/viewMyClient.html"><b>SSL/TLS Capabilities of Your Browser</b></a> - test your browser's SSL implementation.<br>
@@ -75,7 +75,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://suche.org/sslClientInfo"><b>sslClientInfo</b></a> - client test (incl TLSv1.3 information).<br>
 </p>
 
-##### :black_small_square: SSL/Security
+##### SSL/Security
 
 <p>
 &nbsp;&nbsp; <a href="https://www.ssllabs.com/ssltest/"><b>SSLLabs Server Test</b></a> - performs a deep analysis of the configuration of any SSL web server.<br>
@@ -106,7 +106,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br>
 </p>
 
-##### :black_small_square: HTTP Headers & Web Linters
+##### HTTP Headers & Web Linters
 
 <p>
 &nbsp;&nbsp; <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
@@ -114,7 +114,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security, and more.<br>
 </p>
 
-##### :black_small_square: DNS
+##### DNS
 
 <p>
 &nbsp;&nbsp; <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
@@ -138,7 +138,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
 </p>
 
-##### :black_small_square: Mail
+##### Mail
 
 <p>
 &nbsp;&nbsp; <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
@@ -149,7 +149,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
-##### :black_small_square: Encoders/Decoders and Regex testing
+##### Encoders/Decoders and Regex testing
 
 <p>
 &nbsp;&nbsp; <a href="https://www.url-encode-decode.com/"><b>URL Encode/Decode</b></a> - tool from above to either encode or decode a string of text.<br>
@@ -161,7 +161,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
 </p>
 
-##### :black_small_square: Net-tools
+##### Net-tools
 
 <p>
 &nbsp;&nbsp; <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> - detailed report about the site, helping you to make informed choices about their integrity.<b>*</b><br>
@@ -178,14 +178,14 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
 </p>
 
-##### :black_small_square: Privacy
+##### Privacy
 
 <p>
 &nbsp;&nbsp; <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
 &nbsp;&nbsp; <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers"><b>DNS Privacy Test Servers</b></a> - DNS privacy recursive servers list (with a 'no logging' policy).<br>
 </p>
 
-##### :black_small_square: Code parsers/playgrounds
+##### Code parsers/playgrounds
 
 <p>
 &nbsp;&nbsp; <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs in your shell scripts.<br>
@@ -198,7 +198,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
 </p>
 
-##### :black_small_square: Performance
+##### Performance
 
 <p>
 &nbsp;&nbsp; <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
@@ -211,7 +211,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a> - automated auditing, performance metrics, and best practices for the web.<br>
 </p>
 
-##### :black_small_square: Mass scanners (search engines)
+##### Mass scanners (search engines)
 
 <p>
 &nbsp;&nbsp; <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
@@ -256,7 +256,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://labs.inquest.net"><b>InQuest Labs</b></a> - InQuest Labs is an open, interactive, and API driven data portal for security researchers.<br>
 </p>
 
-##### :black_small_square: Generators
+##### Generators
 
 <p>
 &nbsp;&nbsp; <a href="https://thispersondoesnotexist.com/"><b>thispersondoesnotexist</b></a> - generate fake faces in one click - endless possibilities.<br>
@@ -265,7 +265,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
 </p>
 
-##### :black_small_square: Passwords
+##### Passwords
 
 <p>
 &nbsp;&nbsp; <a href="https://haveibeenpwned.com/"><b>have i been pwned?</b></a> - check if you have an account that has been compromised in a data breach.<br>
@@ -273,7 +273,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 </p>
 
-##### :black_small_square: CVE/Exploits databases
+##### CVE/Exploits databases
 
 <p>
 &nbsp;&nbsp; <a href="https://cve.mitre.org/"><b>CVE Mitre</b></a> - list of publicly known cybersecurity vulnerabilities.<br>
@@ -286,7 +286,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://cveapi.com/"><b>cveapi</b></a> - free API for CVE data.<br>
 </p>
 
-##### :black_small_square: Mobile apps scanners
+##### Mobile apps scanners
 
 <p>
 &nbsp;&nbsp; <a href="https://www.immuniweb.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
@@ -294,7 +294,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
 </p>
 
-##### :black_small_square: Private Search Engines
+##### Private Search Engines
 
 <p>
 &nbsp;&nbsp; <a href="https://www.startpage.com/"><b>Startpage</b></a> - the world's most private search engine.<br>
@@ -307,7 +307,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br>
 </p>
 
-##### :black_small_square: Secure Webmail Providers
+##### Secure Webmail Providers
 
 <p>
 &nbsp;&nbsp; <a href="https://countermail.com/"><b>CounterMail</b></a> - online email service, designed to provide maximum security and privacy.<br>
@@ -317,13 +317,13 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.startmail.com/en/"><b>Startmail</b></a> - private & encrypted email made easy.<br>
 </p>
 
-##### :black_small_square: Crypto
+##### Crypto
 
 <p>
 &nbsp;&nbsp; <a href="https://keybase.io/"><b>Keybase</b></a> - it's open source and powered by public-key cryptography.<br>
 </p>
 
-##### :black_small_square: PGP Keyservers
+##### PGP Keyservers
 
 <p>
 &nbsp;&nbsp; <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - services for the SKS keyservers used by OpenPGP.<br>

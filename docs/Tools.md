@@ -2,7 +2,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 
 #### CLI Tools
 
-##### :black_small_square: Shells
+##### Shells
 
 <p>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
@@ -15,7 +15,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
 </p>
 
-##### :black_small_square: Shell plugins
+##### Shell plugins
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br>
@@ -25,7 +25,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
 </p>
 
-##### :black_small_square: Managers
+##### Managers
 
 <p>
 &nbsp;&nbsp; <a href="https://midnight-commander.org/"><b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
@@ -36,7 +36,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
 </p>
 
-##### :black_small_square: Text editors
+##### Text editors
 
 <p>
 &nbsp;&nbsp; <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
@@ -48,14 +48,14 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
 </p>
 
-##### :black_small_square: Files and directories
+##### Files and directories
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
 &nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
 </p>
 
-##### :black_small_square: Network
+##### Network
 
 <p>
 &nbsp;&nbsp; <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
@@ -97,7 +97,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
 </p>
 
-##### :black_small_square: Network (DNS)
+##### Network (DNS)
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a> - is a DNS diagnostics and performance measurement tools.<br>
@@ -112,10 +112,10 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
 &nbsp;&nbsp; <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a> - API client providing access to passive DNS database systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/looterz/grimd"><b>grimd</b></a> - fast dns proxy, built to black-hole internet advertisements and malware servers.<br>
-  &nbsp;&nbsp; <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
+&nbsp;&nbsp; <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
 </p>
 
-##### :black_small_square: Network (HTTP)
+##### Network (HTTP)
 
 <p>
 &nbsp;&nbsp; <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
@@ -146,7 +146,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
 </p>
 
-##### :black_small_square: SSL
+##### SSL
 
 <p>
 &nbsp;&nbsp; <a href="https://www.openssl.org/"><b>openssl</b></a> - is a robust, commercial-grade, and full-featured toolkit for the TLS and SSL protocols.<br>
@@ -165,7 +165,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
 </p>
 
-##### :black_small_square: Security
+##### Security
 
 <p>
 &nbsp;&nbsp; <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux"><b>SELinux</b></a> - provides a flexible Mandatory Access Control (MAC) system built into the Linux kernel.<br>
@@ -174,7 +174,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
 </p>
 
-##### :black_small_square: Auditing Tools
+##### Auditing Tools
 
 <p>
 &nbsp;&nbsp; <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
@@ -187,7 +187,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
 </p>
 
-##### :black_small_square: System Diagnostics/Debuggers
+##### System Diagnostics/Debuggers
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
@@ -213,7 +213,7 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
 </p>
 
-##### :black_small_square: Log Analyzers
+##### Log Analyzers
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a> - slice and dice log files on the command line.<br>
@@ -222,41 +222,41 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a> - real-time metrics for nginx server.<br>
 </p>
 
-##### :black_small_square: Databases
+##### Databases
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/xo/usql"><b>usql</b></a> - universal command-line interface for SQL databases.<br>
 &nbsp;&nbsp; <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a> - postgres CLI with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp; <a href="https://github.com/dbcli/mycli"><b>mycli</b></a> - terminal client for MySQL with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp; <a href="https://github.com/dbcli/litecli"><b>litecli</b></a> - SQLite CLI with autocompletion and syntax highlighting.<br>
-  &nbsp;&nbsp; <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a> - SQL Server CLI with autocompletion and syntax highlighting.<br>
+&nbsp;&nbsp; <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a> - SQL Server CLI with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp; <a href="https://github.com/osquery/osquery"><b>OSQuery</b></a> - is a SQL powered operating system instrumentation, monitoring, and analytics framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a> - sync data from one Postgres database to another.<br>
 &nbsp;&nbsp; <a href="https://github.com/laixintao/iredis"><b>iredis</b></a> - a terminal client for redis with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp; <a href="https://www.schemacrawler.com/diagramming.html"><b>SchemaCrawler</b></a> - generates an E-R diagram of your database.<br>
 </p>
 
-##### :black_small_square: TOR
+##### TOR
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a> - script to make Tor Network your default gateway.<br>
 &nbsp;&nbsp; <a href="https://github.com/trimstray/multitor"><b>multitor</b></a> - a tool that lets you create multiple TOR instances with a load-balancing.<br>
 </p>
 
-##### :black_small_square: Messengers/IRC Clients
+##### Messengers/IRC Clients
 
 <p>
 &nbsp;&nbsp; <a href="https://irssi.org"><b>Irssi</b></a> - is a free open source terminal based IRC client.<br>
 &nbsp;&nbsp; <a href="https://weechat.org/"><b>WeeChat</b></a> - is an extremely extensible and lightweight IRC client.<br>
 </p>
 
-##### :black_small_square: Productivity
+##### Productivity
 
 <p>
 &nbsp;&nbsp; <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
 </p>
 
-##### :black_small_square: Other
+##### Other
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
