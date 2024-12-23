@@ -20,7 +20,11 @@
 
 [Exam AZ-104 Microsoft Azure Administrator (Video), 2nd Edition](https://learning.oreilly.com/videos/-/9780137590001/)
 
+[AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/)
+
 # Google cloud
+
+# ***Courses***
 
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 
