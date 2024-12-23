@@ -1,17 +1,13 @@
 # Collection of learning resource
 
-Devops
+With the following subjects
 
-AI
-
-Linux/Unix
-
-Cloud
-
-Kubernetes
-
-Agile
-
-System Design
-
+#### Devops
+#### AI
+#### Linux/Unix
+#### Cloud
+#### Kubernetes
+#### Agile
+#### System Design
+#### Security
 
