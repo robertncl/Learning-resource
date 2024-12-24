@@ -50,6 +50,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098113315/files/assets/cover.png" width="380" height="550" />
 
+[Azure Architecture Explained](https://learning.oreilly.com/library/view/azure-architecture-explained/9781837634811/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837634811/files/image/Cover.png" width="380" height="550" />
+
 [Cloud Observability with Azure Monitor](https://learning.oreilly.com/library/view/cloud-observability-with/9781835881187/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835881187/files/image/Cover.jpg" width="380" height="550" />
