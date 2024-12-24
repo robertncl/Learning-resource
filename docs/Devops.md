@@ -41,5 +41,4 @@
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)
 
-[Learning GitHub Actions for DevOps CI/CD](https://learning.oreilly.com/course/learning-github-actions/9781837639137/)
 
