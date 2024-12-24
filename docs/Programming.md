@@ -83,7 +83,7 @@
 
 [Learning React, 2nd Edition](https://learning.oreilly.com/library/view/learning-react-2nd/9781492051718/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492051718/files/assets/cover.pngg" width="380" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492051718/files/assets/cover.png" width="380" height="550" />
 
 [Fluent React](https://learning.oreilly.com/library/view/fluent-react/9781098138707/)
 
