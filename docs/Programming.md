@@ -41,6 +41,26 @@
 
 [Rust Programming Masterclass from Beginner to Expert](https://learning.oreilly.com/course/rust-programming-masterclass/9781804612187/)
 
+### Java
+
+#### ***Books***
+
+[Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098145521/files/assets/cover.png" width="380" height="550" />
+
+[Java: The Complete Reference, Thirteenth Edition, 13th Edition](https://learning.oreilly.com/library/view/java-the-complete/9781265062705/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781265062705/files/9781265058432.jpg" width="380" height="550" />
+
+[Java in a Nutshell, 8th Edition](https://learning.oreilly.com/library/view/java-in-a/9781098130992/)
+
+<img src="https://learning.oreilly.com/covers/urn:orm:book:9781098130992/400w/" width="380" height="550" />
+
+#### ***Courses***
+
+[The Complete Java Developer Course: From Beginner to Master](https://learning.oreilly.com/course/the-complete-java/9781801075190/)
+
 ### GO
 
 #### ***Books***
