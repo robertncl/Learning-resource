@@ -61,6 +61,54 @@
 
 [The Complete Java Developer Course: From Beginner to Master](https://learning.oreilly.com/course/the-complete-java/9781801075190/)
 
+### Javascript
+
+#### ***Books***
+
+[JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491952016/files/assets/cover.png" width="380" height="550" />
+
+[Head First JavaScript Programming, 2nd Edition](https://learning.oreilly.com/library/view/head-first-javascript/9781098147938/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098147938/files/assets/cover.png" width="380" height="550" />
+
+[Eloquent JavaScript, 4th Edition](https://learning.oreilly.com/library/view/eloquent-javascript-4th/9781098182502/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098182502/files/images/9781718504110.jpg" width="380" height="550" />
+
+[Pro Angular 16](https://learning.oreilly.com/library/view/pro-angular-16/9781633436695/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633436695/files/Images/cover0001.jpg" width="380" height="550" />
+
+[Learning React, 2nd Edition](https://learning.oreilly.com/library/view/learning-react-2nd/9781492051718/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492051718/files/assets/cover.pngg" width="380" height="550" />
+
+[Fluent React](https://learning.oreilly.com/library/view/fluent-react/9781098138707/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098138707/files/assets/cover.png" width="380" height="550" />
+
+[Vue.js 3 for Beginners](https://learning.oreilly.com/library/view/vue-js-3-for/9781805126775/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781805126775/files/image/cover.png" width="380" height="550" />
+
+#### ***Courses***
+
+[Modern JavaScript from the Beginning - Second Edition](https://learning.oreilly.com/course/modern-javascript-from/9781805127826/)
+
+[Expert JavaScript](https://learning.oreilly.com/course/expert-javascript/9780137333134/)
+
+[Learn JavaScript: Write Modern Code with JavaScript ESNext, 2nd Edition](https://learning.oreilly.com/course/learn-javascript-write/9780135397398/)
+
+[Angular - The Complete Guide [2024 Edition]](https://learning.oreilly.com/course/angular-the/9781788998437/)
+
+[React Native - The Practical Guide](https://learning.oreilly.com/course/react-native/9781789139747/)
+
+[React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition](https://learning.oreilly.com/course/react-the/9781801812603/)
+
+[Vue - The Complete Guide (Including Vue Router, Vuex, and Composition API)](https://learning.oreilly.com/course/vue-the/9781788992817/)
+
 ### GO
 
 #### ***Books***
