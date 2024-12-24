@@ -12,7 +12,35 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804616734/files/Images/Cover.png" width="380" height="550" />
 
+[Designing Cloud Data Platforms](https://learning.oreilly.com/library/view/designing-cloud-data/9781617296444/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617296444/files/OEBPS/Images/cover.jpeg" width="380" height="550" />
+
+[Enterprise-Grade Hybrid and Multi-Cloud Strategies](https://learning.oreilly.com/library/view/enterprise-grade-hybrid-and/9781804615119/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
+
 ### AWS
+
+#### ***Books***
+
+[AWS Cookbook](https://learning.oreilly.com/library/view/aws-cookbook/9781492092599/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492092599/files/assets/cover.png" width="380" height="550" />
+
+[Generative AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098159214/files/assets/cover.png" width="380" height="550" />
+
+#### ***Courses***
+
+[Amazon Web Services (AWS), 3rd Edition](https://learning.oreilly.com/course/amazon-web-services/9780137928521/)
+
+[AWS Certified Cloud Practitioner (CLF-C02)](https://learning.oreilly.com/videos/-/9780138314934/)
+
+[AWS Certified Solutions Architect Associate (SAA-C03)](https://learning.oreilly.com/course/aws-certified-solutions/9780138057374/)
+
+[Amazon S3 Deep Dive: The Ultimate Guide to AWS Cloud Storage](https://learning.oreilly.com/course/amazon-s3-deep/9781836203414/)
 
 ### Azure
 
@@ -22,9 +50,23 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098113315/files/assets/cover.png" width="380" height="550" />
 
+[Azure Architecture Explained](https://learning.oreilly.com/library/view/azure-architecture-explained/9781837634811/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837634811/files/image/Cover.png" width="380" height="550" />
+
+[Cloud Observability with Azure Monitor](https://learning.oreilly.com/library/view/cloud-observability-with/9781835881187/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835881187/files/image/Cover.jpg" width="380" height="550" />
+
+[Azure Data Factory by Example: Practical Implementation for Data Engineers](https://learning.oreilly.com/library/view/azure-data-factory/9798868802188/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868802188/files/images/979-8-8688-0218-8_CoverFigure.jpg" width="380" height="550" />
+
 #### ***Courses***
 
 [Azure Kubernetes Service (AKS) Essentials: Cloud Kubernetes for Developers and IT Professionals](https://learning.oreilly.com/course/azure-kubernetes-service/0636920982777/)
+
+[Designing Microsoft Azure Infrastructure Solutions (AZ-305)](https://learning.oreilly.com/course/designing-microsoft-azure/9781836200659/)
 
 [AZ-204 Developing Solutions for Microsoft Azure](https://learning.oreilly.com/course/az-204-developing-solutions/9781838989293/)
 
@@ -37,6 +79,12 @@
 [Exam AI-900 Microsoft Azure AI Fundamentals](https://learning.oreilly.com/course/exam-ai-900-microsoft/9780138202781/)
 
 ### Google cloud
+
+#### ***Books***
+
+[Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://learning.oreilly.com/library/view/official-google-cloud/9781119944461/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119944461/files/images/9781119981565.jpg" width="380" height="550" />
 
 #### ***Courses***
 
