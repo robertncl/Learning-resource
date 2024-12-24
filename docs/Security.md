@@ -28,11 +28,19 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098106294/files/assets/cover.png" width="380" height="550" />
 
+[Security in Computing, 6th Edition](https://learning.oreilly.com/library/view/security-in-computing/9780137891375/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137891375/files/graphics/9780137891252.jpg" width="380" height="550" />
+
 # ***Courses***
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/)
+
+[CompTIA Security+ SY0-701](https://learning.oreilly.com/course/comptia-security-sy0-701/9780138251062/)
+
+[AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
 
 # ***Resources***
 
