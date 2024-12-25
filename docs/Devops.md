@@ -2,7 +2,7 @@
 
 # Devops training resources
 
-#### ***Books*** 
+#### ***Books*** :books:
 
 [The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 
@@ -33,7 +33,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835087732/files/image/Cover.png" width="380" height="550" />
 
-#### ***Courses*** 
+#### ***Courses*** :computer:
 
 [Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/)
 
