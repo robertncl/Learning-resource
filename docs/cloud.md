@@ -2,7 +2,7 @@
 
 ### Multicloud
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition](https://learning.oreilly.com/library/view/cloud-computing-concepts/9780138052287/)
 
@@ -22,7 +22,7 @@
 
 ### AWS
 
-#### ***Books*** :books:
+#### ***Books***
 
 [AWS Cookbook](https://learning.oreilly.com/library/view/aws-cookbook/9781492092599/)
 
@@ -32,7 +32,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098159214/files/assets/cover.png" width="380" height="550" />
 
-#### ***Courses*** :computer:
+#### ***Courses***
 
 [Amazon Web Services (AWS), 3rd Edition](https://learning.oreilly.com/course/amazon-web-services/9780137928521/)
 
@@ -44,7 +44,7 @@
 
 ### Azure
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
 
@@ -62,7 +62,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868802188/files/images/979-8-8688-0218-8_CoverFigure.jpg" width="380" height="550" />
 
-#### ***Courses*** :computer:
+#### ***Courses***
 
 [Azure Kubernetes Service (AKS) Essentials: Cloud Kubernetes for Developers and IT Professionals](https://learning.oreilly.com/course/azure-kubernetes-service/0636920982777/)
 
@@ -80,13 +80,13 @@
 
 ### Google cloud
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://learning.oreilly.com/library/view/official-google-cloud/9781119944461/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119944461/files/images/9781119981565.jpg" width="380" height="550" />
 
-#### ***Courses*** :computer:
+#### ***Courses***
 
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 

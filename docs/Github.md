@@ -2,7 +2,7 @@
 
 # Github 
 
-# ***Books*** :books:
+# ***Books***
 
 [GitHub for Next-Generation Coders](https://learning.oreilly.com/library/view/github-for-next-generation/9781835463048/)
 
@@ -26,7 +26,7 @@
 
 
 
-# ***Courses*** :computer:
+# ***Courses***
 
 [Learning GitHub](https://learning.oreilly.com/course/learning-github/9781491972069/)
 

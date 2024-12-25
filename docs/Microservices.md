@@ -2,7 +2,7 @@
 
 # Microservices
 
-# ***Books*** :books:
+# ***Books***
 
 [Building Microservices, 2nd Edition](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 

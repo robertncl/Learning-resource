@@ -2,7 +2,7 @@
 
 # Kubernetes
 
-# ***Books*** :books:
+# ***Books***
 
 [Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 
@@ -28,7 +28,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492083641/files/assets/cover.png" width="380" height="550" />
 
-# ***Courses*** :computer:
+# ***Courses***
 
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
 
@@ -38,7 +38,7 @@
 
 [Docker Deep Dive - Third Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781835884386/)
 
-# ***Resources*** :bookmark_tabs:
+# ***Resources***
 
 * [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg/edit?usp=sharing) by [Ihor Dvoretskyi](https://twitter.com/idvoretskyi/)
 * [Are you Ready to Manage your Infrastructure like Google?](https://www.linkedin.com/pulse/you-ready-manage-your-infrastructure-like-google-matthew-bates/)

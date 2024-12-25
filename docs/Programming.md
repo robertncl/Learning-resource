@@ -4,7 +4,7 @@
 
 ### Python
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Python Crash Course, 3rd Edition](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/)
 
@@ -23,7 +23,7 @@
 
 ### Rust
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
@@ -43,7 +43,7 @@
 
 ### Java
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/)
 
@@ -63,7 +63,7 @@
 
 ### Javascript
 
-#### ***Books*** :books:
+#### ***Books***
 
 [JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
@@ -111,7 +111,7 @@
 
 ### GO
 
-#### ***Books*** :books:
+#### ***Books***
 
 [Learning Go, 2nd Edition](https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/)
 
