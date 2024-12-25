@@ -2,7 +2,7 @@
 
 # Cloud Security
 
-# ***Books***
+# ***Books*** :books:
 
 [(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition](https://learning.oreilly.com/library/view/isc-2-ccsp-certified/9781119909378/)
 
@@ -32,7 +32,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137891375/files/graphics/9780137891252.jpg" width="380" height="550" />
 
-# ***Courses***
+# ***Courses*** :computer:
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
@@ -42,7 +42,7 @@
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
 
-# ***Resources***
+# ***Resources*** :bookmark_tabs:
 
 <p>
 &nbsp;&nbsp; <a href="https://thehackernews.com/"><b>The Hacker News</b></a> - leading news source dedicated to promoting awareness for security experts and hackers.<br>

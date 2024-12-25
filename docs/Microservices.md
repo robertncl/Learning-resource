@@ -2,7 +2,7 @@
 
 # Microservices
 
-# ***Books***
+# ***Books*** :books:
 
 [Building Microservices, 2nd Edition](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
@@ -16,7 +16,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617294549/files/cover.jpeg" width="380" height="550" />
 
-# ***Courses***
+# ***Courses*** :computer:
 
 [Design Microservices Architecture with Patterns and Principles](https://learning.oreilly.com/course/design-microservices-architecture/9781805126782/)
 

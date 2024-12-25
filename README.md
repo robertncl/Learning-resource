@@ -1,6 +1,6 @@
-# Collection of learning resource
+# Collection of learning resource :memo:
 
-With the following subjects
+With the following subjects :white_check_mark:
 
 * Devops
 * AI

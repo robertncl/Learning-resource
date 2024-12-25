@@ -3,7 +3,7 @@
 ### Linux
 
 
-#### ***Books***
+#### ***Books*** :books:
 
 [Linux System Programming, 2nd Edition](https://learning.oreilly.com/library/view/linux-system-programming/9781449341527/)
 
@@ -35,7 +35,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780134278308/files/image/Front-Cover.jpg" width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/)
 

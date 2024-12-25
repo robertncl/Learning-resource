@@ -4,7 +4,7 @@
 
 ### Python
 
-#### ***Books***
+#### ***Books*** :books:
 
 [Python Crash Course, 3rd Edition](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/)
 
@@ -14,7 +14,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492056348/files/assets/cover.png" width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
 
@@ -23,7 +23,7 @@
 
 ### Rust
 
-#### ***Books***
+#### ***Books*** :books:
 
 [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
@@ -37,13 +37,13 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098151393/files/assets/cover.png   " width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [Rust Programming Masterclass from Beginner to Expert](https://learning.oreilly.com/course/rust-programming-masterclass/9781804612187/)
 
 ### Java
 
-#### ***Books***
+#### ***Books*** :books:
 
 [Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/)
 
@@ -57,13 +57,13 @@
 
 <img src="https://learning.oreilly.com/covers/urn:orm:book:9781098130992/400w/" width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [The Complete Java Developer Course: From Beginner to Master](https://learning.oreilly.com/course/the-complete-java/9781801075190/)
 
 ### Javascript
 
-#### ***Books***
+#### ***Books*** :books:
 
 [JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
@@ -93,7 +93,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781805126775/files/image/cover.png" width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [Modern JavaScript from the Beginning - Second Edition](https://learning.oreilly.com/course/modern-javascript-from/9781805127826/)
 
@@ -111,7 +111,7 @@
 
 ### GO
 
-#### ***Books***
+#### ***Books*** :books:
 
 [Learning Go, 2nd Edition](https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/)
 
@@ -121,7 +121,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781805127147/files/Images/cover.png" width="380" height="550" />
 
-#### ***Courses***
+#### ***Courses*** :computer:
 
 [Ultimate Go Programming, Second Edition](https://learning.oreilly.com/course/ultimate-go-programming/9780135261651/)
 
