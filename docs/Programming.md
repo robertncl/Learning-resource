@@ -14,6 +14,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492056348/files/assets/cover.png" width="380" height="550" />
 
+[Learn AI-Assisted Python Programming, Second Edition](https://learning.oreilly.com/library/view/learn-ai-assisted-python/9781633435995/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633435995/files/Images/cover.jpg" width="380" height="550" />
+
 #### ***Courses*** :computer:
 
 [Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
