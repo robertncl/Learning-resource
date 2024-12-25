@@ -7,6 +7,6 @@ url: "https://robertncl.github.io" # the base hostname & protocol for your site
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gems: ["jemoji"]
+- jekyll-remote-theme
+- jekyll-emojis # add this line to enable emoji support
 # ...existing code...
