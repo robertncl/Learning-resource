@@ -6,13 +6,31 @@
 
 #### ***Books*** :books:
 
+
+[Art of Computer Programming, The: Volume 1: Fundamental Algorithms, 3rd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635754/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635754/files/graphics/9780321635747.jpg" width="380" height="550" />
+
+[Art of Computer Programming, Volume 2: Seminumerical Algorithms, 3rd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635778/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635778/files/graphics/9780321635761.jpg" width="380" height="550" />
+
+[Art of Computer Programming, The: Volume 3: Sorting and Searching, 2nd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635792/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635792/files/graphics/9780321635785.jpg" width="380" height="550" />
+
+[Art of Computer Programming, Volume 4A, The: Combinatorial Algorithms, Part 1](https://learning.oreilly.com/library/view/art-of-computer/9780133488869/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780133488869/files/graphics/9780133488852.jpg" width="380" height="550" />
+
+[The Art of Computer Programming, Volume 4B: Combinatorial Algorithms](https://learning.oreilly.com/library/view/the-art-of/9780137926862/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137926862/files/graphics/9780137926817.jpg" width="380" height="550" />
+
+
 [Test Driven Development: By Example](https://learning.oreilly.com/library/view/test-driven-development/0321146530/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0321146530/files/graphics/9780137585236.jpg" width="380" height="550" />
-
-[Hunt/The Pragmatic Programmer, First Edition](https://learning.oreilly.com/library/view/hunt-the-pragmatic-programmer/020161622X/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:020161622X/files/graphics/9780132119177.jpg" width="380" height="550" />
 
 [97 Things Every Programmer Should Know](https://learning.oreilly.com/library/view/97-things-every/9780596809515/)
 
