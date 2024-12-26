@@ -50,6 +50,8 @@
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
 
+[CISSP, 4th Edition](https://learning.oreilly.com/course/cissp-4th-edition/9780135328613/)
+
 # ***Resources*** :bookmark_tabs:
 
 <p>
