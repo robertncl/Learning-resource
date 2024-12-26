@@ -42,7 +42,10 @@
 
 # ***Courses*** :computer:
 
+[The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
+
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
+
 
 
 # ***Resources***
