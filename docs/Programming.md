@@ -36,6 +36,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780596809515/files/orm_front_cover.jpg" width="380" height="550" />
 
+[Clean Craftsmanship: Disciplines, Standards, and Ethics](https://learning.oreilly.com/library/view/clean-craftsmanship-disciplines/9780136915805/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780136915805/files/graphics/9780136915836.jpg" width="380" height="550" />
+
 [Taming Your Dragon: Addressing Your Technical Debt](https://learning.oreilly.com/library/view/taming-your-dragon/9798868802645/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868802645/files/images/979-8-8688-0264-5_CoverFigure.jpg" width="380" height="550" />
