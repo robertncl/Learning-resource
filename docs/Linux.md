@@ -5,7 +5,7 @@
 
 #### ***Books*** :books:
 
-[Linux System Programming, 2nd Edition](https://learning.oreilly.com/library/view/linux-system-programming/9781449341527/)
+[Linux System Programming, 2nd Edition](https://learning.oreilly.com/library/view/linux-system-programming/9781449341527/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781449341527/files/orm_front_cover.jpg" width="380" height="550" />
 
@@ -19,7 +19,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781593272203/files/images/cover.png" width="380" height="550" />
 
-[Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
+[Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780136821694/files/graphics/9780136821656.jpg" width="380" height="550" />
 
@@ -37,7 +37,7 @@
 
 #### ***Courses*** :computer:
 
-[Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/)
+[Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/) :star:
 
 
 [RHCSA (RHEL 9) Complete Course with Exam Labs (Video Collection)](https://learning.oreilly.com/course/rhcsa-rhel-9/9780135397237/)

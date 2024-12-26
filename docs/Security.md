@@ -36,9 +36,13 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098139179/files/assets/cover_final.png" width="380" height="550" />
 
-[Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://learning.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/)
+[Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://learning.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137929214/files/graphics/9780137929153.jpg" width="380" height="550" />
+
+[Software Supply Chain Security](https://learning.oreilly.com/library/view/software-supply-chain/9781098133696/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098133696/files/assets/cover.png" width="380" height="550" />
 
 # ***Courses*** :computer:
 
@@ -49,6 +53,8 @@
 [CompTIA Security+ SY0-701](https://learning.oreilly.com/course/comptia-security-sy0-701/9780138251062/)
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
+
+[CISSP, 4th Edition](https://learning.oreilly.com/course/cissp-4th-edition/9780135328613/)
 
 # ***Resources*** :bookmark_tabs:
 

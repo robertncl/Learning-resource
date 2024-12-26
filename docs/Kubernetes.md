@@ -4,11 +4,11 @@
 
 # ***Books*** :books:
 
-[Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
+[Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617293726/files/Images/cover.jpeg" width="380" height="550" />
 
-[Kubernetes: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
+[Kubernetes: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/kubernetes-up-and/9781098110192/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098110192/files/assets/cover.png" width="380" height="550" />
 
