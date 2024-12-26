@@ -32,6 +32,14 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137891375/files/graphics/9780137891252.jpg" width="380" height="550" />
 
+[Policy as Code](https://learning.oreilly.com/library/view/policy-as-code/9781098139179/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098139179/files/assets/cover_final.png" width="380" height="550" />
+
+[Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us](https://learning.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137929214/files/graphics/9780137929153.jpg" width="380" height="550" />
+
 # ***Courses*** :computer:
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)

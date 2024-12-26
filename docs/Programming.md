@@ -2,6 +2,56 @@
 
 # Programming
 
+### General
+
+#### ***Books*** :books:
+
+
+[Art of Computer Programming, The: Volume 1: Fundamental Algorithms, 3rd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635754/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635754/files/graphics/9780321635747.jpg" width="380" height="550" />
+
+[Art of Computer Programming, Volume 2: Seminumerical Algorithms, 3rd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635778/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635778/files/graphics/9780321635761.jpg" width="380" height="550" />
+
+[Art of Computer Programming, The: Volume 3: Sorting and Searching, 2nd Edition](https://learning.oreilly.com/library/view/art-of-computer/9780321635792/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321635792/files/graphics/9780321635785.jpg" width="380" height="550" />
+
+[Art of Computer Programming, Volume 4A, The: Combinatorial Algorithms, Part 1](https://learning.oreilly.com/library/view/art-of-computer/9780133488869/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780133488869/files/graphics/9780133488852.jpg" width="380" height="550" />
+
+[The Art of Computer Programming, Volume 4B: Combinatorial Algorithms](https://learning.oreilly.com/library/view/the-art-of/9780137926862/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137926862/files/graphics/9780137926817.jpg" width="380" height="550" />
+
+
+[Test Driven Development: By Example](https://learning.oreilly.com/library/view/test-driven-development/0321146530/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0321146530/files/graphics/9780137585236.jpg" width="380" height="550" />
+
+[97 Things Every Programmer Should Know](https://learning.oreilly.com/library/view/97-things-every/9780596809515/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780596809515/files/orm_front_cover.jpg" width="380" height="550" />
+
+[Taming Your Dragon: Addressing Your Technical Debt](https://learning.oreilly.com/library/view/taming-your-dragon/9798868802645/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868802645/files/images/979-8-8688-0264-5_CoverFigure.jpg" width="380" height="550" />
+
+[Modern Software Engineering: Doing What Works to Build Better Software Faster](https://learning.oreilly.com/library/view/modern-software-engineering/9780137314942/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137314942/files/graphics/9780137314867.jpg" width="380" height="550" />
+
+["Looks Good to Me"](https://learning.oreilly.com/library/view/looks-good-to/9781633438125/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633438125/files/Images/cover.jpg" width="380" height="550" />
+
+#### ***Courses*** :computer:
+
+[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/)
+
 ### Python
 
 #### ***Books*** :books:
@@ -14,9 +64,9 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492056348/files/assets/cover.png" width="380" height="550" />
 
-[Learn AI-Assisted Python Programming, Second Edition](https://learning.oreilly.com/library/view/learn-ai-assisted-python/9781633435995/)
+[Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition](https://learning.oreilly.com/library/view/learn-python-the/9780138270711/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633435995/files/Images/cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780138270711/files/graphics/9780138270612.jpg" width="380" height="550" />
 
 #### ***Courses*** :computer:
 

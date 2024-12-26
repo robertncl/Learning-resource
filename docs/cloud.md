@@ -20,6 +20,14 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
 
+[An Insider’s Guide to Cloud Computing](https://learning.oreilly.com/library/view/an-insiders-guide/9780137935819/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137935819/files/graphics/9780137935789.jpg" width="380" height="550" />
+
+[Mastering OpenTelemetry and Observability](https://learning.oreilly.com/library/view/mastering-opentelemetry-and/9781394253128/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781394253128/files/images/9781394253135.jpg" width="380" height="550" />
+
 ### AWS
 
 #### ***Books*** :books:
@@ -92,8 +100,16 @@
 
 ### Finops
 
+#### ***Books*** :books:
+
 [Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492098348/files/assets/cover.png" width="380" height="550" />
 
+[Scaling Cloud FinOps: Proven Strategies to Accelerate Financial Success](https://learning.oreilly.com/library/view/scaling-cloud-finops/9798868803888/)
 
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803888/files/images/979-8-8688-0388-8_CoverFigure.jpg" width="380" height="550" />
+
+[FinOps Handbook for Microsoft Azure](https://learning.oreilly.com/library/view/finops-handbook-for/9781801810166/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781801810166/files/image/Cover.png" width="380" height="550" />

@@ -20,22 +20,19 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321670250/files/graphics/9780321670229.jpg" width="380" height="550" />
 
-[Modern Software Engineering: Doing What Works to Build Better Software Faster](https://learning.oreilly.com/library/view/modern-software-engineering/9780137314942/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137314942/files/graphics/9780137314867.jpg" width="380" height="550" />
-
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781457191435/files/images/cover.jpg" width="380" height="550" />
 
+[Lean DevOps: A Practical Guide to On Demand Service Delivery](https://learning.oreilly.com/library/view/lean-devops-a/9780133853643/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780133853643/files/graphics/9780133853667.jpg" width="380" height="550" />
 
 [Learning Continuous Integration with Jenkins - Third Edition](https://learning.oreilly.com/library/view/learning-continuous-integration/9781835087732/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835087732/files/image/Cover.png" width="380" height="550" />
 
 #### ***Courses*** :computer:
-
-[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/)
 
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
