@@ -35,8 +35,6 @@
 
 #### ***Courses*** :computer:
 
-[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/)
-
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)

@@ -28,6 +28,8 @@
 
 #### ***Courses*** :computer:
 
+[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/)
+
 ### Python
 
 #### ***Books*** :books:
