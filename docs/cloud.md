@@ -20,6 +20,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
 
+[Mastering OpenTelemetry and Observability](https://learning.oreilly.com/library/view/mastering-opentelemetry-and/9781394253128/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781394253128/files/images/9781394253135.jpg" width="380" height="550" />
+
 ### AWS
 
 #### ***Books*** :books:
