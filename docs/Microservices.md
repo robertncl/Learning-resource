@@ -4,7 +4,7 @@
 
 # ***Books***
 
-[Building Microservices, 2nd Edition](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+[Building Microservices, 2nd Edition](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492034018/files/assets/cover.png" width="380" height="550" />
 
@@ -20,7 +20,6 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137355600/files/graphics/9780137355501.jpg" width="380" height="550" />
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617294549/files/cover.jpeg" width="380" height="550" />
 
 # ***Courses*** :computer:
 
