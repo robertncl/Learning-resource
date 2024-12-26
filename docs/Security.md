@@ -40,6 +40,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137929214/files/graphics/9780137929153.jpg" width="380" height="550" />
 
+[Software Supply Chain Security](https://learning.oreilly.com/library/view/software-supply-chain/9781098133696/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098133696/files/assets/cover.png" width="380" height="550" />
+
 # ***Courses*** :computer:
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
