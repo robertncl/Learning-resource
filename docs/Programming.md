@@ -10,9 +10,17 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0321146530/files/graphics/9780137585236.jpg" width="380" height="550" />
 
+[Hunt/The Pragmatic Programmer, First Edition](https://learning.oreilly.com/library/view/hunt-the-pragmatic-programmer/020161622X/)
 
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:020161622X/files/graphics/9780132119177.jpg" width="380" height="550" />
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633438125/files/Images/cover.jpg" width="380" height="550" />
+[97 Things Every Programmer Should Know](https://learning.oreilly.com/library/view/97-things-every/9780596809515/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780596809515/files/orm_front_cover.jpg" width="380" height="550" />
+
+[Taming Your Dragon: Addressing Your Technical Debt](https://learning.oreilly.com/library/view/taming-your-dragon/9798868802645/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868802645/files/images/979-8-8688-0264-5_CoverFigure.jpg" width="380" height="550" />
 
 ["Looks Good to Me"](https://learning.oreilly.com/library/view/looks-good-to/9781633438125/)
 
