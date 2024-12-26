@@ -6,7 +6,17 @@
 
 #### ***Books*** :books:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098156664/files/image_fi/book_art/cover.png" width="380" height="550" />
+[Test Driven Development: By Example](https://learning.oreilly.com/library/view/test-driven-development/0321146530/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0321146530/files/graphics/9780137585236.jpg" width="380" height="550" />
+
+
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633438125/files/Images/cover.jpg" width="380" height="550" />
+
+["Looks Good to Me"](https://learning.oreilly.com/library/view/looks-good-to/9781633438125/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633438125/files/Images/cover.jpg" width="380" height="550" />
 
 #### ***Courses*** :computer:
 
