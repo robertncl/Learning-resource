@@ -2,6 +2,14 @@
 
 # Programming
 
+### General
+
+#### ***Books*** :books:
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098156664/files/image_fi/book_art/cover.png" width="380" height="550" />
+
+#### ***Courses*** :computer:
+
 ### Python
 
 #### ***Books*** :books:
@@ -13,10 +21,6 @@
 [Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492056348/files/assets/cover.png" width="380" height="550" />
-
-[Learn AI-Assisted Python Programming, Second Edition](https://learning.oreilly.com/library/view/learn-ai-assisted-python/9781633435995/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633435995/files/Images/cover.jpg" width="380" height="550" />
 
 #### ***Courses*** :computer:
 
