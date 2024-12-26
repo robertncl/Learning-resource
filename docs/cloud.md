@@ -102,4 +102,6 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492098348/files/assets/cover.png" width="380" height="550" />
 
+[Scaling Cloud FinOps: Proven Strategies to Accelerate Financial Success](https://learning.oreilly.com/library/view/scaling-cloud-finops/9798868803888/)
 
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803888/files/images/979-8-8688-0388-8_CoverFigure.jpg" width="380" height="550" />
