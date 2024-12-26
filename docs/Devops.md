@@ -34,6 +34,8 @@
 
 #### ***Courses*** :computer:
 
+[DevOps Complete Course](https://learning.oreilly.com/course/devops-complete-course/9781804615508/)
+
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)
