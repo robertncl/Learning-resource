@@ -20,7 +20,7 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
 
-[An Insider’s Guide to Cloud Computing](https://learning.oreilly.com/library/view/an-insiders-guide/9780137935819/)
+[An Insider’s Guide to Cloud Computing](https://learning.oreilly.com/library/view/an-insiders-guide/9780137935819/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137935819/files/graphics/9780137935789.jpg" width="380" height="550" />
 
