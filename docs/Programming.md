@@ -42,6 +42,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492056348/files/assets/cover.png" width="380" height="550" />
 
+[Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition](https://learning.oreilly.com/library/view/learn-python-the/9780138270711/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780138270711/files/graphics/9780138270612.jpg" width="380" height="550" />
+
 #### ***Courses*** :computer:
 
 [Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
