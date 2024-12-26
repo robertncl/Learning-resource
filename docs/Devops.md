@@ -4,11 +4,11 @@
 
 #### ***Books*** :books:
 
-[The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/)
+[The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781457191350/files/image/cover.jpg" width="380" height="550" />  
 
-[The Unicorn Project](https://learning.oreilly.com/library/view/the-unicorn-project/9781098124175/)
+[The Unicorn Project](https://learning.oreilly.com/library/view/the-unicorn-project/9781098124175/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098124175/files/images/Cover.jpg" width="380" height="550" />
 
