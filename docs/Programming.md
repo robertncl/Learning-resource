@@ -139,6 +139,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633436695/files/Images/cover0001.jpg" width="380" height="550" />
 
+[Modern Angular](https://learning.oreilly.com/library/view/modern-angular/9781633436923/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633436923/files/Images/cover0001.jpg" width="380" height="550" />
+
 [Learning React, 2nd Edition](https://learning.oreilly.com/library/view/learning-react-2nd/9781492051718/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492051718/files/assets/cover.png" width="380" height="550" />
