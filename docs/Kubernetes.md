@@ -28,6 +28,10 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492083641/files/assets/cover.png" width="380" height="550" />
 
+[Docker Deep Dive - Fourth Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781837028351/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837028351/files/images/title_page.jpg" width="380" height="550" />
+
 # ***Courses*** :computer:
 
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
