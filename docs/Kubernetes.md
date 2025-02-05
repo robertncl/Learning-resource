@@ -38,6 +38,8 @@
 
 [Automating Kubernetes with GitOps](https://learning.oreilly.com/videos/-/9780138230258/)
 
+[Helm Masterclass - From Beginner to Advanced](https://learning.oreilly.com/course/helm-masterclass/9781837025374/)
+
 [Docker and Kubernetes Masterclass: From Beginner to Advanced](https://learning.oreilly.com/course/docker-and-kubernetes/9781837025077/)
 
 [Docker Deep Dive - Third Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781835884386/)
