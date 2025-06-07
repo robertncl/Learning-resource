@@ -28,9 +28,9 @@
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492083641/files/assets/cover.png" width="380" height="550" />
 
-[Docker Deep Dive - Fourth Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781837028351/)
+[Docker Deep Dive - Fifth Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781806024032/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837028351/files/images/title_page.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781806024032/files/images/Covers.jpg" width="380" height="550" />
 
 # ***Courses*** :computer:
 
