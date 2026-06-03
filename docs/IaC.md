@@ -4,9 +4,9 @@
 
 Provision and manage infrastructure through versioned, reviewable code — with Terraform/OpenTofu, configuration management with Ansible, and multi-language IaC with Pulumi. :star: marks standout, widely recommended titles.
 
-### Foundations
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Foundations
 
 [Infrastructure as Code, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098150341/) :star:
 
@@ -15,8 +15,6 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 > Kief Morris's foundational, tool-agnostic guide to IaC principles and patterns for reliable, change-friendly infrastructure.
 
 ### Terraform & OpenTofu
-
-#### ***Books*** :books:
 
 [Terraform: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098116736/) :star:
 
@@ -38,8 +36,6 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 ### Configuration Management (Ansible)
 
-#### ***Books*** :books:
-
 [Ansible: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098109141/) :star:
 
 <img src="https://learning.oreilly.com/covers/9781098109141/" width="380" height="550" />
@@ -48,15 +44,13 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 ### Multi-language IaC (Pulumi)
 
-#### ***Books*** :books:
-
 [Infrastructure as Code with Pulumi](https://learning.oreilly.com/library/view/-/9781835467527/)
 
 <img src="https://learning.oreilly.com/covers/9781835467527/" width="380" height="550" />
 
 > Define and manage cloud infrastructure using real programming languages (TypeScript, Python, Go) with Pulumi.
 
-#### ***Courses*** :computer:
+# ***Courses*** :computer:
 
 [HashiCorp Certified Terraform Associate (004)](https://learning.oreilly.com/videos/-/9780135909560/) :star:
 

@@ -4,9 +4,9 @@
 
 A focused collection for the four languages this repo prioritises — **Python, JavaScript/TypeScript, Java, and Go** — preceded by a short shelf of language-agnostic foundations. :star: marks standout, widely recommended titles.
 
-### General & Foundations
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### General & Foundations
 
 [The Art of Computer Programming](https://learning.oreilly.com/library/view/art-of-computer/9780321635754/) — Knuth's legendary series: [Vol 1: Fundamental Algorithms](https://learning.oreilly.com/library/view/art-of-computer/9780321635754/), [Vol 2: Seminumerical Algorithms](https://learning.oreilly.com/library/view/art-of-computer/9780321635778/), [Vol 3: Sorting and Searching](https://learning.oreilly.com/library/view/art-of-computer/9780321635792/), [Vol 4A: Combinatorial Algorithms, Part 1](https://learning.oreilly.com/library/view/art-of-computer/9780133488869/), [Vol 4B: Combinatorial Algorithms](https://learning.oreilly.com/library/view/the-art-of/9780137926862/).
 
@@ -50,17 +50,7 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > How to give and receive effective code reviews that improve quality without slowing teams down.
 
-#### ***Courses*** :computer:
-
-[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/) :star:
-
-<img src="https://learning.oreilly.com/covers/9780134661742/" width="380" height="550" />
-
-> Uncle Bob's classic video series on writing readable, maintainable, professional-grade code.
-
 ### Python
-
-#### ***Books*** :books:
 
 [Python Crash Course, 3rd Edition](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/) :star:
 
@@ -98,35 +88,7 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > Zed Shaw's drill-based approach that builds programming muscle memory through deliberate, repeated practice.
 
-#### ***Courses*** :computer:
-
-[Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
-
-<img src="https://learning.oreilly.com/covers/9780135917411/" width="380" height="550" />
-
-> A thorough, example-rich video introduction to the Python language and standard library.
-
-[Python for Software Engineering Bootcamp](https://learning.oreilly.com/videos/-/9781804617205/)
-
-<img src="https://learning.oreilly.com/covers/9781804617205/" width="380" height="550" />
-
-> A long-form, project-based bootcamp that takes you from Python basics to writing professional, tested software.
-
-[Learn to Code with Python](https://learning.oreilly.com/videos/-/9781807307813/)
-
-<img src="https://learning.oreilly.com/covers/9781807307813/" width="380" height="550" />
-
-> Boris Paskhaver's friendly, comprehensive course covering Python syntax, data structures, OOP, and functional programming.
-
-[The Complete Python Course](https://learning.oreilly.com/course/the-complete-python/9781839217289/)
-
-<img src="https://learning.oreilly.com/covers/9781839217289/" width="380" height="550" />
-
-> A broad, hands-on course spanning Python fundamentals through web scraping, APIs, and automation.
-
 ### JavaScript & TypeScript
-
-#### ***Books*** :books:
 
 [Eloquent JavaScript, 4th Edition](https://learning.oreilly.com/library/view/eloquent-javascript-4th/9781098182502/) :star:
 
@@ -200,7 +162,119 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > A gentle, practical start with Vue 3 and the Composition API for building reactive interfaces.
 
-#### ***Courses*** :computer:
+### Java
+
+[Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/) :star:
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098145521/files/assets/cover.png" width="380" height="550" />
+
+> A thorough, up-to-date introduction to the Java language and platform, suitable for newcomers and reference alike.
+
+[Core Java, Vol. I: Fundamentals, 14th Edition](https://learning.oreilly.com/library/view/-/9780135558553/) :star:
+
+<img src="https://learning.oreilly.com/covers/9780135558553/" width="380" height="550" />
+
+> Cay Horstmann's rigorous, example-driven standard reference on core Java fundamentals, refreshed for modern Java.
+
+[Java: The Complete Reference, Thirteenth Edition](https://learning.oreilly.com/library/view/java-the-complete/9781265062705/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781265062705/files/9781265058432.jpg" width="380" height="550" />
+
+> Herbert Schildt's comprehensive single-volume reference covering the language, key APIs, and the JDK.
+
+[Java in a Nutshell, 8th Edition](https://learning.oreilly.com/library/view/java-in-a/9781098130992/)
+
+<img src="https://learning.oreilly.com/covers/urn:orm:book:9781098130992/400w/" width="380" height="550" />
+
+> A fast, dense desktop reference to the Java language and its most-used libraries.
+
+[The Well-Grounded Java Developer](https://learning.oreilly.com/library/view/-/9781617290060/)
+
+<img src="https://learning.oreilly.com/covers/9781617290060/" width="380" height="550" />
+
+> Sharpens working Java developers on the JVM, modern language features, concurrency, and the wider ecosystem.
+
+[Modern Concurrency in Java](https://learning.oreilly.com/library/view/-/9781098165406/)
+
+<img src="https://learning.oreilly.com/covers/9781098165406/" width="380" height="550" />
+
+> A current take on Java concurrency, including virtual threads and structured concurrency from Project Loom.
+
+[Java Performance, 2nd Edition](https://learning.oreilly.com/library/view/-/9781492056102/)
+
+<img src="https://learning.oreilly.com/covers/9781492056102/" width="380" height="550" />
+
+> Scott Oaks on diagnosing and tuning JVM performance — garbage collection, JIT, threading, and memory.
+
+### Go
+
+[Learning Go, 2nd Edition](https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/) :star:
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098139285/files/assets/cover.png" width="380" height="550" />
+
+> Jon Bodner's idiomatic introduction to Go — the language, its philosophy, and how to write Go the way Go wants.
+
+[100 Go Mistakes and How to Avoid Them](https://learning.oreilly.com/library/view/-/9781617299599/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781617299599/" width="380" height="550" />
+
+> Teiva Harsanyi catalogs the most common Go pitfalls — concurrency, error handling, performance — and how to sidestep them.
+
+[Efficient Go](https://learning.oreilly.com/library/view/-/9781098105709/)
+
+<img src="https://learning.oreilly.com/covers/9781098105709/" width="380" height="550" />
+
+> A rigorous, data-driven guide to writing Go that is fast and resource-efficient without sacrificing clarity.
+
+[Mastering Go - Fourth Edition](https://learning.oreilly.com/library/view/mastering-go/9781805127147/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781805127147/files/Images/cover.png" width="380" height="550" />
+
+> A wide-ranging, advanced tour of Go — systems programming, concurrency, generics, and the standard library.
+
+[Network Programming with Go](https://learning.oreilly.com/library/view/-/9781098128890/)
+
+<img src="https://learning.oreilly.com/covers/9781098128890/" width="380" height="550" />
+
+> Build secure, performant networked services in Go, from sockets and protocols up to production concerns.
+
+# ***Courses*** :computer:
+
+### General & Foundations
+
+[Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/) :star:
+
+<img src="https://learning.oreilly.com/covers/9780134661742/" width="380" height="550" />
+
+> Uncle Bob's classic video series on writing readable, maintainable, professional-grade code.
+
+### Python
+
+[Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
+
+<img src="https://learning.oreilly.com/covers/9780135917411/" width="380" height="550" />
+
+> A thorough, example-rich video introduction to the Python language and standard library.
+
+[Python for Software Engineering Bootcamp](https://learning.oreilly.com/videos/-/9781804617205/)
+
+<img src="https://learning.oreilly.com/covers/9781804617205/" width="380" height="550" />
+
+> A long-form, project-based bootcamp that takes you from Python basics to writing professional, tested software.
+
+[Learn to Code with Python](https://learning.oreilly.com/videos/-/9781807307813/)
+
+<img src="https://learning.oreilly.com/covers/9781807307813/" width="380" height="550" />
+
+> Boris Paskhaver's friendly, comprehensive course covering Python syntax, data structures, OOP, and functional programming.
+
+[The Complete Python Course](https://learning.oreilly.com/course/the-complete-python/9781839217289/)
+
+<img src="https://learning.oreilly.com/covers/9781839217289/" width="380" height="550" />
+
+> A broad, hands-on course spanning Python fundamentals through web scraping, APIs, and automation.
+
+### JavaScript & TypeScript
 
 [Modern JavaScript from the Beginning - Second Edition](https://learning.oreilly.com/course/modern-javascript-from/9781805127826/) :star:
 
@@ -246,52 +320,6 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 ### Java
 
-#### ***Books*** :books:
-
-[Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/) :star:
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098145521/files/assets/cover.png" width="380" height="550" />
-
-> A thorough, up-to-date introduction to the Java language and platform, suitable for newcomers and reference alike.
-
-[Core Java, Vol. I: Fundamentals, 14th Edition](https://learning.oreilly.com/library/view/-/9780135558553/) :star:
-
-<img src="https://learning.oreilly.com/covers/9780135558553/" width="380" height="550" />
-
-> Cay Horstmann's rigorous, example-driven standard reference on core Java fundamentals, refreshed for modern Java.
-
-[Java: The Complete Reference, Thirteenth Edition](https://learning.oreilly.com/library/view/java-the-complete/9781265062705/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781265062705/files/9781265058432.jpg" width="380" height="550" />
-
-> Herbert Schildt's comprehensive single-volume reference covering the language, key APIs, and the JDK.
-
-[Java in a Nutshell, 8th Edition](https://learning.oreilly.com/library/view/java-in-a/9781098130992/)
-
-<img src="https://learning.oreilly.com/covers/urn:orm:book:9781098130992/400w/" width="380" height="550" />
-
-> A fast, dense desktop reference to the Java language and its most-used libraries.
-
-[The Well-Grounded Java Developer](https://learning.oreilly.com/library/view/-/9781617290060/)
-
-<img src="https://learning.oreilly.com/covers/9781617290060/" width="380" height="550" />
-
-> Sharpens working Java developers on the JVM, modern language features, concurrency, and the wider ecosystem.
-
-[Modern Concurrency in Java](https://learning.oreilly.com/library/view/-/9781098165406/)
-
-<img src="https://learning.oreilly.com/covers/9781098165406/" width="380" height="550" />
-
-> A current take on Java concurrency, including virtual threads and structured concurrency from Project Loom.
-
-[Java Performance, 2nd Edition](https://learning.oreilly.com/library/view/-/9781492056102/)
-
-<img src="https://learning.oreilly.com/covers/9781492056102/" width="380" height="550" />
-
-> Scott Oaks on diagnosing and tuning JVM performance — garbage collection, JIT, threading, and memory.
-
-#### ***Courses*** :computer:
-
 [The Complete Java Developer Course: From Beginner to Master](https://learning.oreilly.com/course/the-complete-java/9781801075190/)
 
 <img src="https://learning.oreilly.com/covers/9781801075190/" width="380" height="550" />
@@ -305,40 +333,6 @@ A focused collection for the four languages this repo prioritises — **Python, 
 > A focused, hands-on course on Java threads, synchronization, the concurrency utilities, and parallel streams.
 
 ### Go
-
-#### ***Books*** :books:
-
-[Learning Go, 2nd Edition](https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/) :star:
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098139285/files/assets/cover.png" width="380" height="550" />
-
-> Jon Bodner's idiomatic introduction to Go — the language, its philosophy, and how to write Go the way Go wants.
-
-[100 Go Mistakes and How to Avoid Them](https://learning.oreilly.com/library/view/-/9781617299599/) :star:
-
-<img src="https://learning.oreilly.com/covers/9781617299599/" width="380" height="550" />
-
-> Teiva Harsanyi catalogs the most common Go pitfalls — concurrency, error handling, performance — and how to sidestep them.
-
-[Efficient Go](https://learning.oreilly.com/library/view/-/9781098105709/)
-
-<img src="https://learning.oreilly.com/covers/9781098105709/" width="380" height="550" />
-
-> A rigorous, data-driven guide to writing Go that is fast and resource-efficient without sacrificing clarity.
-
-[Mastering Go - Fourth Edition](https://learning.oreilly.com/library/view/mastering-go/9781805127147/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781805127147/files/Images/cover.png" width="380" height="550" />
-
-> A wide-ranging, advanced tour of Go — systems programming, concurrency, generics, and the standard library.
-
-[Network Programming with Go](https://learning.oreilly.com/library/view/-/9781098128890/)
-
-<img src="https://learning.oreilly.com/covers/9781098128890/" width="380" height="550" />
-
-> Build secure, performant networked services in Go, from sockets and protocols up to production concerns.
-
-#### ***Courses*** :computer:
 
 [Ultimate Go Programming, Second Edition](https://learning.oreilly.com/course/ultimate-go-programming/9780135261651/) :star:
 

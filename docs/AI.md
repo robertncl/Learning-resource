@@ -4,9 +4,9 @@
 
 A curated path through modern artificial intelligence — from the math foundations and classic machine learning, through deep learning, to today's generative AI, large language models, and autonomous agents. :star: marks standout, widely recommended titles.
 
-### Foundations & Math
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Foundations & Math
 
 [How AI Works](https://learning.oreilly.com/library/view/how-ai-works/9781098168568/)
 
@@ -21,8 +21,6 @@ A curated path through modern artificial intelligence — from the math foundati
 > Builds the linear algebra, calculus, probability, and optimization you need to understand and apply AI with confidence.
 
 ### Machine Learning & Deep Learning
-
-#### ***Books*** :books:
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098125967/) :star:
 
@@ -43,8 +41,6 @@ A curated path through modern artificial intelligence — from the math foundati
 > A highly visual, math-light yet rigorous introduction to how deep neural networks learn.
 
 ### Generative AI & Large Language Models
-
-#### ***Books*** :books:
 
 [Hands-On Large Language Models](https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/) :star:
 
@@ -90,8 +86,6 @@ A curated path through modern artificial intelligence — from the math foundati
 
 ### AI Agents
 
-#### ***Books*** :books:
-
 [Building Applications with AI Agents](https://learning.oreilly.com/library/view/-/9781098176495/)
 
 <img src="https://learning.oreilly.com/covers/9781098176495/" width="380" height="550" />
@@ -105,8 +99,6 @@ A curated path through modern artificial intelligence — from the math foundati
 > Combine LLMs, retrieval, and knowledge graphs to build capable, well-grounded autonomous agents.
 
 ### AI Engineering & Production
-
-#### ***Books*** :books:
 
 [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/) :star:
 
@@ -132,9 +124,7 @@ A curated path through modern artificial intelligence — from the math foundati
 
 > Use generative AI to design, generate, and maintain better software tests.
 
-### Courses & Video
-
-#### ***Courses*** :computer:
+# ***Courses*** :computer:
 
 [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 

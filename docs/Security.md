@@ -4,9 +4,9 @@
 
 Focused on the two areas this repo prioritises — **Application Security** (secure coding, APIs, supply chain, policy-as-code) and **Azure Cloud Security** (Defender, Sentinel, SC-100/SC-200) — with a lean set of cloud-security foundations and a curated news/tools list at the end. :star: marks standout, widely recommended titles.
 
-### Application Security
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Application Security
 
 [Software Security for Developers](https://learning.oreilly.com/library/view/-/9781617298585/) :star:
 
@@ -39,8 +39,6 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 > Codify and automate security and compliance guardrails (e.g. with OPA) so policy is enforced continuously across pipelines.
 
 ### Azure Cloud Security
-
-#### ***Books*** :books:
 
 [Microsoft Cybersecurity Architect Exam Ref SC-100 - Second Edition](https://learning.oreilly.com/library/view/-/9781836208518/) :star:
 
@@ -80,8 +78,6 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 ### Cloud Security Foundations
 
-#### ***Books*** :books:
-
 [Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png" width="380" height="550" />
@@ -118,7 +114,7 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 > A comprehensive academic foundation spanning the breadth of information security.
 
-#### ***Courses*** :computer:
+# ***Courses*** :computer:
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/) :star:
 

@@ -4,9 +4,9 @@
 
 Git and GitHub for everyday collaboration, GitHub Actions for CI/CD, enterprise administration — and a dedicated section on **GitHub Copilot**, the AI pair programmer. :star: marks standout, widely recommended titles.
 
-### Git & GitHub Fundamentals
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Git & GitHub Fundamentals
 
 [GitHub for Next-Generation Coders](https://learning.oreilly.com/library/view/github-for-next-generation/9781835463048/)
 
@@ -14,29 +14,7 @@ Git and GitHub for everyday collaboration, GitHub Actions for CI/CD, enterprise 
 
 > A beginner-friendly introduction to coding collaboratively on GitHub — repos, branches, pull requests, and pages.
 
-#### ***Courses*** :computer:
-
-[Learning GitHub](https://learning.oreilly.com/course/learning-github/9781491972069/)
-
-<img src="https://learning.oreilly.com/covers/9781491972069/" width="380" height="550" />
-
-> A practical video introduction to using GitHub for version control and team collaboration.
-
-[Complete Git Guide: Understand and Master Git and GitHub](https://learning.oreilly.com/course/complete-git-guide/9781800209855/)
-
-<img src="https://learning.oreilly.com/covers/9781800209855/" width="380" height="550" />
-
-> A thorough course on Git internals and everyday GitHub workflows, from commits to rebasing.
-
-[Git and GitHub Masterclass - The Practical Bootcamp](https://learning.oreilly.com/course/git-and-github/9781805126027/)
-
-<img src="https://learning.oreilly.com/covers/9781805126027/" width="380" height="550" />
-
-> A hands-on bootcamp covering Git and GitHub from basics through real-world team workflows.
-
 ### GitHub Actions & CI/CD
-
-#### ***Books*** :books:
 
 [GitHub Actions in Action](https://learning.oreilly.com/library/view/github-actions-in/9781633437302/) :star:
 
@@ -56,25 +34,9 @@ Git and GitHub for everyday collaboration, GitHub Actions for CI/CD, enterprise 
 
 > Puts Git and GitHub at the center of a modern DevOps toolchain — automation, collaboration, and delivery.
 
-#### ***Courses*** :computer:
-
-[Learning GitHub Actions for DevOps CI/CD](https://learning.oreilly.com/course/learning-github-actions/9781837639137/)
-
-<img src="https://learning.oreilly.com/covers/9781837639137/" width="380" height="550" />
-
-> A focused course on building continuous integration and delivery pipelines with GitHub Actions.
-
-[Hands-On CI/CD with GitHub Actions - Absolute Practical](https://learning.oreilly.com/videos/-/9781807603472/)
-
-<img src="https://learning.oreilly.com/covers/9781807603472/" width="380" height="550" />
-
-> A practical, lab-driven course that builds real-world CI/CD pipelines with GitHub Actions step by step.
-
 ### GitHub Copilot
 
 GitHub's AI pair programmer — these books and courses cover prompting, chat, and integrating Copilot across the development lifecycle.
-
-#### ***Books*** :books:
 
 [Learning GitHub Copilot](https://learning.oreilly.com/library/view/-/9781098164645/) :star:
 
@@ -106,7 +68,51 @@ GitHub's AI pair programmer — these books and courses cover prompting, chat, a
 
 > Focused preparation for the GitHub Copilot certification, covering features, prompting, and responsible use.
 
-#### ***Courses*** :computer:
+### GitHub Enterprise & Administration
+
+[Mastering GitHub Enterprise Management and Administration](https://learning.oreilly.com/library/view/mastering-github-enterprise/9798868803697/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803697/files/images/979-8-8688-0369-7_CoverFigure.jpg" width="380" height="550" />
+
+> A guide to administering, securing, and scaling GitHub Enterprise across an organization.
+
+# ***Courses*** :computer:
+
+### Git & GitHub Fundamentals
+
+[Learning GitHub](https://learning.oreilly.com/course/learning-github/9781491972069/)
+
+<img src="https://learning.oreilly.com/covers/9781491972069/" width="380" height="550" />
+
+> A practical video introduction to using GitHub for version control and team collaboration.
+
+[Complete Git Guide: Understand and Master Git and GitHub](https://learning.oreilly.com/course/complete-git-guide/9781800209855/)
+
+<img src="https://learning.oreilly.com/covers/9781800209855/" width="380" height="550" />
+
+> A thorough course on Git internals and everyday GitHub workflows, from commits to rebasing.
+
+[Git and GitHub Masterclass - The Practical Bootcamp](https://learning.oreilly.com/course/git-and-github/9781805126027/)
+
+<img src="https://learning.oreilly.com/covers/9781805126027/" width="380" height="550" />
+
+> A hands-on bootcamp covering Git and GitHub from basics through real-world team workflows.
+
+### GitHub Actions & CI/CD
+
+[Learning GitHub Actions for DevOps CI/CD](https://learning.oreilly.com/course/learning-github-actions/9781837639137/)
+
+<img src="https://learning.oreilly.com/covers/9781837639137/" width="380" height="550" />
+
+> A focused course on building continuous integration and delivery pipelines with GitHub Actions.
+
+[Hands-On CI/CD with GitHub Actions - Absolute Practical](https://learning.oreilly.com/videos/-/9781807603472/)
+
+<img src="https://learning.oreilly.com/covers/9781807603472/" width="380" height="550" />
+
+> A practical, lab-driven course that builds real-world CI/CD pipelines with GitHub Actions step by step.
+
+### GitHub Copilot
 
 [Learn GitHub Copilot by Example](https://learning.oreilly.com/videos/-/9780135315651/) :star:
 
@@ -127,16 +133,6 @@ GitHub's AI pair programmer — these books and courses cover prompting, chat, a
 > A concise, hands-on course on applying Copilot to real coding workflows.
 
 ### GitHub Enterprise & Administration
-
-#### ***Books*** :books:
-
-[Mastering GitHub Enterprise Management and Administration](https://learning.oreilly.com/library/view/mastering-github-enterprise/9798868803697/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803697/files/images/979-8-8688-0369-7_CoverFigure.jpg" width="380" height="550" />
-
-> A guide to administering, securing, and scaling GitHub Enterprise across an organization.
-
-#### ***Courses*** :computer:
 
 [GitHub Enterprise - Certified](https://learning.oreilly.com/videos/github-enterprise/10202023VIDEOPAIML/) :star:
 

@@ -4,9 +4,9 @@
 
 DevOps unites development and operations through automation, fast feedback, and a culture of shared ownership. Start with the story-driven culture books, move into continuous delivery, then go deep on reliability, observability, and platform engineering. :star: marks standout, widely recommended titles.
 
-### Culture & Foundations
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Culture & Foundations
 
 [The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/) :star:
 
@@ -46,8 +46,6 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 ### Continuous Delivery & CI/CD
 
-#### ***Books*** :books:
-
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321670250/files/graphics/9780321670229.jpg" width="380" height="550" />
@@ -61,8 +59,6 @@ DevOps unites development and operations through automation, fast feedback, and 
 > A hands-on guide to building robust CI/CD pipelines with Jenkins, updated for modern cloud-native workflows.
 
 ### SRE, Observability & Platform Engineering
-
-#### ***Books*** :books:
 
 [Site Reliability Engineering](https://learning.oreilly.com/library/view/-/9781491929117/) :star:
 
@@ -88,7 +84,7 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 > The engineering practices, culture, and tooling that let Google sustain software development across decades and huge teams.
 
-#### ***Courses*** :computer:
+# ***Courses*** :computer:
 
 [DevOps Complete Course](https://learning.oreilly.com/course/devops-complete-course/9781804615508/)
 

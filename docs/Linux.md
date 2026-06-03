@@ -4,9 +4,9 @@
 
 From first commands to kernel internals — a path through using, administering, and programming Linux. :star: marks standout, widely recommended titles.
 
-### Fundamentals & Command Line
+# ***Books*** :books:
 
-#### ***Books*** :books:
+### Fundamentals & Command Line
 
 [How Linux Works, 3rd Edition](https://learning.oreilly.com/library/view/how-linux-works/9781098128913/) :star:
 
@@ -34,8 +34,6 @@ From first commands to kernel internals — a path through using, administering,
 
 ### System Administration & Performance
 
-#### ***Books*** :books:
-
 [UNIX and Linux System Administration Handbook, 5th Edition](https://learning.oreilly.com/library/view/unix-and-linux/9780134278308/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780134278308/files/image/Front-Cover.jpg" width="380" height="550" />
@@ -49,8 +47,6 @@ From first commands to kernel internals — a path through using, administering,
 > Brendan Gregg's masterwork on analyzing and tuning performance across CPU, memory, disk, and network — methodology and tools.
 
 ### Systems Programming & Kernel
-
-#### ***Books*** :books:
 
 [Linux System Programming, 2nd Edition](https://learning.oreilly.com/library/view/linux-system-programming/9781449341527/) :star:
 
@@ -82,7 +78,7 @@ From first commands to kernel internals — a path through using, administering,
 
 > A hands-on guide to writing kernel modules and drivers, covering the modern kernel build, memory, and synchronization.
 
-#### ***Courses*** :computer:
+# ***Courses*** :computer:
 
 [Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/) :star:
 

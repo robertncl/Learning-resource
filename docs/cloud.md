@@ -4,11 +4,11 @@
 
 Resources for designing, building, and running cloud systems — with a primary focus on **Microsoft Azure**, followed by AWS, Google Cloud, vendor-neutral multicloud foundations, and the cost discipline of FinOps. :star: marks standout, widely recommended titles.
 
+# ***Books*** :books:
+
 ### Azure :star:
 
 The primary focus of this collection. Work top-down: start with fundamentals and architecture, then developer/administration tracks, then data, AI, and security.
-
-#### ***Books*** :books:
 
 [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
 
@@ -76,7 +76,113 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 > A worked-example guide to building data-integration and ETL pipelines with Azure Data Factory.
 
-#### ***Courses*** :computer:
+### AWS
+
+[AWS for Solutions Architects - Third Edition](https://learning.oreilly.com/library/view/-/9781836641933/)
+
+<img src="https://learning.oreilly.com/covers/9781836641933/" width="380" height="550" />
+
+> A broad, up-to-date guide to designing well-architected AWS solutions — networking, storage, security, and the Well-Architected Framework.
+
+[System Design on AWS](https://learning.oreilly.com/library/view/-/9781098146887/)
+
+<img src="https://learning.oreilly.com/covers/9781098146887/" width="380" height="550" />
+
+> Maps classic system-design building blocks (caching, queues, databases, scaling) directly onto AWS services with worked examples.
+
+[AWS Cookbook](https://learning.oreilly.com/library/view/aws-cookbook/9781492092599/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492092599/files/assets/cover.png" width="380" height="550" />
+
+> Practical, copy-and-go recipes for common AWS tasks across compute, networking, storage, and security.
+
+[Generative AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098159214/files/assets/cover.png" width="380" height="550" />
+
+> Build and deploy generative-AI workloads on AWS with Bedrock, SageMaker, and foundation models.
+
+### Google cloud
+
+[Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://learning.oreilly.com/library/view/official-google-cloud/9781119944461/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119944461/files/images/9781119981565.jpg" width="380" height="550" />
+
+> The official preparation guide for Google Cloud's Professional ML Engineer certification.
+
+[GenAI on Google Cloud](https://learning.oreilly.com/library/view/-/9798341623842/)
+
+<img src="https://learning.oreilly.com/covers/9798341623842/" width="380" height="550" />
+
+> Build generative-AI applications on Google Cloud with Vertex AI and the Gemini family of models.
+
+### Multicloud
+
+[Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/-/9781491903063/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781491903063/" width="380" height="550" />
+
+> Martin Kleppmann's modern classic on the principles behind reliable, scalable, maintainable data systems — essential reading for any cloud architect.
+
+[Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition](https://learning.oreilly.com/library/view/cloud-computing-concepts/9780138052287/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780138052287/files/graphics/9780138052188.jpg" width="380" height="550" />
+
+> A thorough, vendor-neutral textbook on cloud fundamentals — service models, virtualization, security, and architecture.
+
+[Multi-Cloud Strategy for Cloud Architects - Second Edition](https://learning.oreilly.com/library/view/multi-cloud-strategy-for/9781804616734/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804616734/files/Images/Cover.png" width="380" height="550" />
+
+> A practical playbook for planning, governing, and operating workloads across more than one cloud provider.
+
+[Designing Cloud Data Platforms](https://learning.oreilly.com/library/view/designing-cloud-data/9781617296444/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617296444/files/OEBPS/Images/cover.jpeg" width="380" height="550" />
+
+> A layered reference architecture for building scalable, cloud-agnostic data platforms and lakehouses.
+
+[Enterprise-Grade Hybrid and Multi-Cloud Strategies](https://learning.oreilly.com/library/view/enterprise-grade-hybrid-and/9781804615119/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
+
+> Strategies for blending on-premises, hybrid, and multi-cloud estates without losing control of cost or security.
+
+[An Insider’s Guide to Cloud Computing](https://learning.oreilly.com/library/view/an-insiders-guide/9780137935819/) :star:
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137935819/files/graphics/9780137935789.jpg" width="380" height="550" />
+
+> David Linthicum's candid look at what cloud providers really deliver — cutting through hype to help you make sound decisions.
+
+[Mastering OpenTelemetry and Observability](https://learning.oreilly.com/library/view/mastering-opentelemetry-and/9781394253128/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781394253128/files/images/9781394253135.jpg" width="380" height="550" />
+
+> A deep dive into instrumenting distributed cloud systems with the vendor-neutral OpenTelemetry standard.
+
+### Finops
+
+[Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/) :star:
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492098348/files/assets/cover.png" width="380" height="550" />
+
+> The definitive guide to the FinOps discipline — bringing finance, engineering, and product together to manage cloud spend.
+
+[Scaling Cloud FinOps: Proven Strategies to Accelerate Financial Success](https://learning.oreilly.com/library/view/scaling-cloud-finops/9798868803888/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803888/files/images/979-8-8688-0388-8_CoverFigure.jpg" width="380" height="550" />
+
+> How to grow a FinOps practice across a large organization — operating models, automation, and culture.
+
+[FinOps Handbook for Microsoft Azure](https://learning.oreilly.com/library/view/finops-handbook-for/9781801810166/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781801810166/files/image/Cover.png" width="380" height="550" />
+
+> A focused, Azure-specific handbook for implementing FinOps cost management and optimization.
+
+# ***Courses*** :computer:
+
+### Azure :star:
 
 [Microsoft Azure Fundamentals (AZ-900) Certification Course, 2nd Edition](https://learning.oreilly.com/videos/-/0642572070052/)
 
@@ -140,34 +246,6 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 ### AWS
 
-#### ***Books*** :books:
-
-[AWS for Solutions Architects - Third Edition](https://learning.oreilly.com/library/view/-/9781836641933/)
-
-<img src="https://learning.oreilly.com/covers/9781836641933/" width="380" height="550" />
-
-> A broad, up-to-date guide to designing well-architected AWS solutions — networking, storage, security, and the Well-Architected Framework.
-
-[System Design on AWS](https://learning.oreilly.com/library/view/-/9781098146887/)
-
-<img src="https://learning.oreilly.com/covers/9781098146887/" width="380" height="550" />
-
-> Maps classic system-design building blocks (caching, queues, databases, scaling) directly onto AWS services with worked examples.
-
-[AWS Cookbook](https://learning.oreilly.com/library/view/aws-cookbook/9781492092599/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492092599/files/assets/cover.png" width="380" height="550" />
-
-> Practical, copy-and-go recipes for common AWS tasks across compute, networking, storage, and security.
-
-[Generative AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098159214/files/assets/cover.png" width="380" height="550" />
-
-> Build and deploy generative-AI workloads on AWS with Bedrock, SageMaker, and foundation models.
-
-#### ***Courses*** :computer:
-
 [Amazon Web Services (AWS), 3rd Edition](https://learning.oreilly.com/course/amazon-web-services/9780137928521/)
 
 <img src="https://learning.oreilly.com/covers/9780137928521/" width="380" height="550" />
@@ -194,22 +272,6 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 ### Google cloud
 
-#### ***Books*** :books:
-
-[Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://learning.oreilly.com/library/view/official-google-cloud/9781119944461/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119944461/files/images/9781119981565.jpg" width="380" height="550" />
-
-> The official preparation guide for Google Cloud's Professional ML Engineer certification.
-
-[GenAI on Google Cloud](https://learning.oreilly.com/library/view/-/9798341623842/)
-
-<img src="https://learning.oreilly.com/covers/9798341623842/" width="380" height="550" />
-
-> Build generative-AI applications on Google Cloud with Vertex AI and the Gemini family of models.
-
-#### ***Courses*** :computer:
-
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 
 <img src="https://learning.oreilly.com/covers/9780138041106/" width="380" height="550" />
@@ -221,71 +283,3 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 <img src="https://learning.oreilly.com/covers/9780138300241/" width="380" height="550" />
 
 > Hands-on prep for the Associate Cloud Engineer certification — deploying and operating GCP workloads.
-
-### Multicloud
-
-#### ***Books*** :books:
-
-[Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/-/9781491903063/) :star:
-
-<img src="https://learning.oreilly.com/covers/9781491903063/" width="380" height="550" />
-
-> Martin Kleppmann's modern classic on the principles behind reliable, scalable, maintainable data systems — essential reading for any cloud architect.
-
-[Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition](https://learning.oreilly.com/library/view/cloud-computing-concepts/9780138052287/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780138052287/files/graphics/9780138052188.jpg" width="380" height="550" />
-
-> A thorough, vendor-neutral textbook on cloud fundamentals — service models, virtualization, security, and architecture.
-
-[Multi-Cloud Strategy for Cloud Architects - Second Edition](https://learning.oreilly.com/library/view/multi-cloud-strategy-for/9781804616734/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804616734/files/Images/Cover.png" width="380" height="550" />
-
-> A practical playbook for planning, governing, and operating workloads across more than one cloud provider.
-
-[Designing Cloud Data Platforms](https://learning.oreilly.com/library/view/designing-cloud-data/9781617296444/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617296444/files/OEBPS/Images/cover.jpeg" width="380" height="550" />
-
-> A layered reference architecture for building scalable, cloud-agnostic data platforms and lakehouses.
-
-[Enterprise-Grade Hybrid and Multi-Cloud Strategies](https://learning.oreilly.com/library/view/enterprise-grade-hybrid-and/9781804615119/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781804615119/files/image/9781804615119.png" width="380" height="550" />
-
-> Strategies for blending on-premises, hybrid, and multi-cloud estates without losing control of cost or security.
-
-[An Insider’s Guide to Cloud Computing](https://learning.oreilly.com/library/view/an-insiders-guide/9780137935819/) :star:
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137935819/files/graphics/9780137935789.jpg" width="380" height="550" />
-
-> David Linthicum's candid look at what cloud providers really deliver — cutting through hype to help you make sound decisions.
-
-[Mastering OpenTelemetry and Observability](https://learning.oreilly.com/library/view/mastering-opentelemetry-and/9781394253128/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781394253128/files/images/9781394253135.jpg" width="380" height="550" />
-
-> A deep dive into instrumenting distributed cloud systems with the vendor-neutral OpenTelemetry standard.
-
-### Finops
-
-#### ***Books*** :books:
-
-[Cloud FinOps, 2nd Edition](https://learning.oreilly.com/library/view/cloud-finops-2nd/9781492098348/) :star:
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492098348/files/assets/cover.png" width="380" height="550" />
-
-> The definitive guide to the FinOps discipline — bringing finance, engineering, and product together to manage cloud spend.
-
-[Scaling Cloud FinOps: Proven Strategies to Accelerate Financial Success](https://learning.oreilly.com/library/view/scaling-cloud-finops/9798868803888/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9798868803888/files/images/979-8-8688-0388-8_CoverFigure.jpg" width="380" height="550" />
-
-> How to grow a FinOps practice across a large organization — operating models, automation, and culture.
-
-[FinOps Handbook for Microsoft Azure](https://learning.oreilly.com/library/view/finops-handbook-for/9781801810166/)
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781801810166/files/image/Cover.png" width="380" height="550" />
-
-> A focused, Azure-specific handbook for implementing FinOps cost management and optimization.
