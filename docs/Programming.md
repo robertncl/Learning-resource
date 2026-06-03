@@ -54,6 +54,8 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [Clean Code Fundamentals](https://learning.oreilly.com/course/clean-code-fundamentals/9780134661742/) :star:
 
+<img src="https://learning.oreilly.com/covers/9780134661742/" width="380" height="550" />
+
 > Uncle Bob's classic video series on writing readable, maintainable, professional-grade code.
 
 ### Python
@@ -100,17 +102,25 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
 
+<img src="https://learning.oreilly.com/covers/9780135917411/" width="380" height="550" />
+
 > A thorough, example-rich video introduction to the Python language and standard library.
 
 [Python for Software Engineering Bootcamp](https://learning.oreilly.com/videos/-/9781804617205/)
+
+<img src="https://learning.oreilly.com/covers/9781804617205/" width="380" height="550" />
 
 > A long-form, project-based bootcamp that takes you from Python basics to writing professional, tested software.
 
 [Learn to Code with Python](https://learning.oreilly.com/videos/-/9781807307813/)
 
+<img src="https://learning.oreilly.com/covers/9781807307813/" width="380" height="550" />
+
 > Boris Paskhaver's friendly, comprehensive course covering Python syntax, data structures, OOP, and functional programming.
 
 [The Complete Python Course](https://learning.oreilly.com/course/the-complete-python/9781839217289/)
+
+<img src="https://learning.oreilly.com/covers/9781839217289/" width="380" height="550" />
 
 > A broad, hands-on course spanning Python fundamentals through web scraping, APIs, and automation.
 
@@ -194,13 +204,19 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [Modern JavaScript from the Beginning - Second Edition](https://learning.oreilly.com/course/modern-javascript-from/9781805127826/) :star:
 
+<img src="https://learning.oreilly.com/covers/9781805127826/" width="380" height="550" />
+
 > Brad Traversy's hands-on course building real projects with vanilla modern JavaScript — no frameworks, just the language.
 
 [Learn JavaScript: Write Modern Code with JavaScript ESNext, 2nd Edition](https://learning.oreilly.com/course/learn-javascript-write/9780135397398/)
 
+<img src="https://learning.oreilly.com/covers/9780135397398/" width="380" height="550" />
+
 > A practical course on writing clean, modern ES2015+ JavaScript.
 
 [Expert JavaScript](https://learning.oreilly.com/course/expert-javascript/9780137333134/)
+
+<img src="https://learning.oreilly.com/covers/9780137333134/" width="380" height="550" />
 
 > Advanced techniques and deeper language internals for experienced JavaScript developers.
 
@@ -210,13 +226,19 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition](https://learning.oreilly.com/course/react-the/9781801812603/)
 
+<img src="https://learning.oreilly.com/covers/9781801812603/" width="380" height="550" />
+
 > The comprehensive React course covering hooks, routing, and state management with Redux.
 
 [React Native - The Practical Guide](https://learning.oreilly.com/course/react-native/9781789139747/)
 
+<img src="https://learning.oreilly.com/covers/9781789139747/" width="380" height="550" />
+
 > Build native iOS and Android apps from a single React Native codebase.
 
 [Vue - The Complete Guide (Including Vue Router, Vuex, and Composition API)](https://learning.oreilly.com/course/vue-the/9781788992817/)
+
+<img src="https://learning.oreilly.com/covers/9781788992817/" width="380" height="550" />
 
 > A full Vue course covering the Composition API, routing, and state management.
 
@@ -270,9 +292,13 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [The Complete Java Developer Course: From Beginner to Master](https://learning.oreilly.com/course/the-complete-java/9781801075190/)
 
+<img src="https://learning.oreilly.com/covers/9781801075190/" width="380" height="550" />
+
 > An end-to-end course taking you from Java basics to building real applications, including Spring fundamentals.
 
 [Java Multithreading and Parallel Programming Masterclass](https://learning.oreilly.com/videos/-/9781804619377/)
+
+<img src="https://learning.oreilly.com/covers/9781804619377/" width="380" height="550" />
 
 > A focused, hands-on course on Java threads, synchronization, the concurrency utilities, and parallel streams.
 
@@ -314,12 +340,18 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [Ultimate Go Programming, Second Edition](https://learning.oreilly.com/course/ultimate-go-programming/9780135261651/) :star:
 
+<img src="https://learning.oreilly.com/covers/9780135261651/" width="380" height="550" />
+
 > William Kennedy's renowned deep dive into how Go really works — memory, data semantics, and concurrency.
 
 [Ultimate Go: Advanced Concepts](https://learning.oreilly.com/course/ultimate-go-advanced/9780135339503/)
 
+<img src="https://learning.oreilly.com/covers/9780135339503/" width="380" height="550" />
+
 > The advanced follow-up covering concurrency patterns, profiling, and tracing for production Go.
 
 [Go (Golang) for the Absolute Beginners - Hands-On](https://learning.oreilly.com/videos/-/9781806029631/)
+
+<img src="https://learning.oreilly.com/covers/9781806029631/" width="380" height="550" />
 
 > A gentle, hands-on introduction that gets newcomers writing Go quickly.

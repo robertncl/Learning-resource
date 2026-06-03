@@ -46,12 +46,18 @@ Designing, building, and evolving fine-grained, independently deployable service
 
 [Design Microservices Architecture with Patterns and Principles](https://learning.oreilly.com/course/design-microservices-architecture/9781805126782/)
 
+<img src="https://learning.oreilly.com/covers/9781805126782/" width="380" height="550" />
+
 > An architecture-focused course on decomposing systems and applying core microservice patterns and principles.
 
 [Master Microservices with Spring Boot and Spring Cloud](https://learning.oreilly.com/course/master-microservices-with/9781789132779/)
 
+<img src="https://learning.oreilly.com/covers/9781789132779/" width="380" height="550" />
+
 > Build microservices hands-on with the Spring Boot and Spring Cloud stack — service discovery, config, and resilience.
 
 [Building Microservices API in Go](https://learning.oreilly.com/videos/-/9781805124429/)
+
+<img src="https://learning.oreilly.com/covers/9781805124429/" width="380" height="550" />
 
 > Implement microservice APIs in Go with a focus on practical, production-minded design.

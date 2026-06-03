@@ -92,28 +92,42 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 [DevOps Complete Course](https://learning.oreilly.com/course/devops-complete-course/9781804615508/)
 
+<img src="https://learning.oreilly.com/covers/9781804615508/" width="380" height="550" />
+
 > A broad, hands-on video course that walks through the core DevOps toolchain from end to end.
 
 [Practical DevOps Bootcamp for All](https://learning.oreilly.com/videos/-/9781806026418/)
+
+<img src="https://learning.oreilly.com/covers/9781806026418/" width="380" height="550" />
 
 > A project-based bootcamp covering the modern DevOps workflow — version control, CI/CD, containers, and IaC — for newcomers.
 
 [CI/CD Pipelines with Jenkins Certification Training Course](https://learning.oreilly.com/videos/-/9781804616918/)
 
+<img src="https://learning.oreilly.com/covers/9781804616918/" width="380" height="550" />
+
 > Focused training on designing, building, and operating Jenkins CI/CD pipelines, with certification prep.
 
 [Argo CD for the Absolute Beginners - Hands-On DevOps](https://learning.oreilly.com/videos/-/9781806025510/)
+
+<img src="https://learning.oreilly.com/covers/9781806025510/" width="380" height="550" />
 
 > A hands-on introduction to GitOps-style continuous delivery on Kubernetes using Argo CD.
 
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
+<img src="https://learning.oreilly.com/covers/9781837023332/" width="380" height="550" />
+
 > An end-to-end tour of building and running cloud-native systems across microservices, Kubernetes, and service mesh.
 
 [DevOps to MLOps Bootcamp: Build & Deploy ML Systems End-to-End](https://learning.oreilly.com/videos/-/9781806118694/)
 
+<img src="https://learning.oreilly.com/covers/9781806118694/" width="380" height="550" />
+
 > Extends familiar DevOps practices to building, deploying, and operating machine-learning systems (MLOps).
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)
+
+<img src="https://learning.oreilly.com/covers/0636920964124/" width="380" height="550" />
 
 > Career-focused guidance and a practical roadmap for landing your first DevOps engineering role.

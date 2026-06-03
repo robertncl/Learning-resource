@@ -80,41 +80,61 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 [Microsoft Azure Fundamentals (AZ-900) Certification Course, 2nd Edition](https://learning.oreilly.com/videos/-/0642572070052/)
 
+<img src="https://learning.oreilly.com/covers/0642572070052/" width="380" height="550" />
+
 > Reza Salehi's popular, beginner-friendly video course covering everything on the AZ-900 fundamentals exam.
 
 [Exam AZ-900: Microsoft Azure Fundamentals (Video), 2nd Edition](https://learning.oreilly.com/course/exam-az-900-microsoft/9780137307005/)
+
+<img src="https://learning.oreilly.com/covers/9780137307005/" width="380" height="550" />
 
 > An alternative video prep for the entry-level AZ-900 cloud fundamentals certification.
 
 [Azure Administration Mastery – Hands-On AZ-104 Labs and Scenarios](https://learning.oreilly.com/videos/-/9781807789794/)
 
+<img src="https://learning.oreilly.com/covers/9781807789794/" width="380" height="550" />
+
 > A lab-heavy AZ-104 course that builds administrator skills through realistic hands-on scenarios.
 
 [Exam AZ-104 Microsoft Azure Administrator (Video), 2nd Edition](https://learning.oreilly.com/videos/-/9780137590001/)
+
+<img src="https://learning.oreilly.com/covers/9780137590001/" width="380" height="550" />
 
 > Administration training mapped to the AZ-104 exam — identity, storage, compute, and networking.
 
 [AZ-204 Developing Solutions for Microsoft Azure](https://learning.oreilly.com/course/az-204-developing-solutions/9781838989293/)
 
+<img src="https://learning.oreilly.com/covers/9781838989293/" width="380" height="550" />
+
 > Developer-focused prep for AZ-204 — building, deploying, and securing apps on Azure services.
 
 [Designing Microsoft Azure Infrastructure Solutions (AZ-305)](https://learning.oreilly.com/course/designing-microsoft-azure/9781836200659/)
+
+<img src="https://learning.oreilly.com/covers/9781836200659/" width="380" height="550" />
 
 > Architect-level training for AZ-305, covering compute, storage, networking, and governance design.
 
 [Azure Network Engineer Associate (AZ-700) Certification Course: Designing and Implementing Azure Networking Solutions](https://learning.oreilly.com/videos/-/0642572086336/)
 
+<img src="https://learning.oreilly.com/covers/0642572086336/" width="380" height="550" />
+
 > A deep dive into Azure networking — virtual networks, load balancing, private connectivity, and the AZ-700 exam.
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/)
+
+<img src="https://learning.oreilly.com/covers/9781836207214/" width="380" height="550" />
 
 > Security-focused training for AZ-500, covering identity protection, platform security, and threat management.
 
 [Azure Kubernetes Service (AKS) Essentials: Cloud Kubernetes for Developers and IT Professionals](https://learning.oreilly.com/course/azure-kubernetes-service/0636920982777/)
 
+<img src="https://learning.oreilly.com/covers/0636920982777/" width="380" height="550" />
+
 > A practical course on deploying and operating Kubernetes workloads on Azure's managed AKS.
 
 [Exam AI-900 Microsoft Azure AI Fundamentals](https://learning.oreilly.com/course/exam-ai-900-microsoft/9780138202781/)
+
+<img src="https://learning.oreilly.com/covers/9780138202781/" width="380" height="550" />
 
 > Introduces core AI and Azure AI service concepts for the AI-900 certification.
 
@@ -150,17 +170,25 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 [Amazon Web Services (AWS), 3rd Edition](https://learning.oreilly.com/course/amazon-web-services/9780137928521/)
 
+<img src="https://learning.oreilly.com/covers/9780137928521/" width="380" height="550" />
+
 > A comprehensive video tour of core AWS services and how they fit together.
 
 [AWS Certified Cloud Practitioner (CLF-C02)](https://learning.oreilly.com/videos/-/9780138314934/)
+
+<img src="https://learning.oreilly.com/covers/9780138314934/" width="380" height="550" />
 
 > Exam-focused prep for the entry-level CLF-C02 certification covering cloud concepts, billing, and core services.
 
 [AWS Certified Solutions Architect Associate (SAA-C03)](https://learning.oreilly.com/course/aws-certified-solutions/9780138057374/)
 
+<img src="https://learning.oreilly.com/covers/9780138057374/" width="380" height="550" />
+
 > Prepares you to design resilient, cost-optimized AWS architectures for the popular SAA-C03 exam.
 
 [Amazon S3 Deep Dive: The Ultimate Guide to AWS Cloud Storage](https://learning.oreilly.com/course/amazon-s3-deep/9781836203414/)
+
+<img src="https://learning.oreilly.com/covers/9781836203414/" width="380" height="550" />
 
 > An in-depth course on S3 — storage classes, security, lifecycle, performance, and cost optimization.
 
@@ -184,9 +212,13 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 [Google Cloud Platform Professional Cloud Architect](https://learning.oreilly.com/course/google-cloud-platform/9780138041106/)
 
+<img src="https://learning.oreilly.com/covers/9780138041106/" width="380" height="550" />
+
 > Architect-level training for designing and managing solutions on Google Cloud, mapped to the certification.
 
 [Google Cloud Platform Associate Cloud Engineer](https://learning.oreilly.com/videos/-/9780138300241/)
+
+<img src="https://learning.oreilly.com/covers/9780138300241/" width="380" height="550" />
 
 > Hands-on prep for the Associate Cloud Engineer certification — deploying and operating GCP workloads.
 

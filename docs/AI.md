@@ -138,16 +138,24 @@ A curated path through modern artificial intelligence — from the math foundati
 
 [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 
+<img src="https://learning.oreilly.com/covers/9780137903245/" width="380" height="550" />
+
 > Jon Krohn's comprehensive video masterclass on the math and CS foundations underpinning machine learning.
 
 [Introduction to Generative AI](https://learning.oreilly.com/videos/-/28468307VIDEOPAIML/)
+
+<img src="https://learning.oreilly.com/covers/28468307VIDEOPAIML/" width="380" height="550" />
 
 > A concise, practical on-ramp to generative-AI concepts, tooling, and workflows.
 
 [Modern AI Agents: Building Practical Single- and Multi-Agent Systems with MCP and LLMs, 2nd Edition](https://learning.oreilly.com/videos/-/9780135882634/)
 
+<img src="https://learning.oreilly.com/covers/9780135882634/" width="380" height="550" />
+
 > Sinan Ozdemir's hands-on course on building single- and multi-agent systems with the Model Context Protocol (MCP) and LLMs.
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
+
+<img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.

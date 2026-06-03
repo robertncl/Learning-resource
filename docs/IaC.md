@@ -60,24 +60,36 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [HashiCorp Certified Terraform Associate (004)](https://learning.oreilly.com/videos/-/9780135909560/) :star:
 
+<img src="https://learning.oreilly.com/covers/9780135909560/" width="380" height="550" />
+
 > The latest exam-prep course for the Terraform Associate certification, with hands-on labs.
 
 [HashiCorp Certified Terraform Associate (003)](https://learning.oreilly.com/videos/-/9780138195366/)
+
+<img src="https://learning.oreilly.com/covers/9780138195366/" width="380" height="550" />
 
 > Exam preparation for the 003 version of the Terraform Associate certification.
 
 [Terraform in AWS from Basics to Guru (Video Collection)](https://learning.oreilly.com/videos/-/9780135378618/)
 
+<img src="https://learning.oreilly.com/covers/9780135378618/" width="380" height="550" />
+
 > A practical video path to provisioning and managing AWS infrastructure with Terraform.
 
 [Ansible: From Basics to Guru, 2nd Edition](https://learning.oreilly.com/videos/-/9780135460771/)
+
+<img src="https://learning.oreilly.com/covers/9780135460771/" width="380" height="550" />
 
 > Sander van Vugt's complete path from your first playbook to advanced Ansible automation.
 
 [Dive Into Ansible - From Beginner to Expert in Ansible](https://learning.oreilly.com/videos/-/9781801076937/)
 
+<img src="https://learning.oreilly.com/covers/9781801076937/" width="380" height="550" />
+
 > A highly rated, hands-on Ansible course that takes you from zero to expert.
 
 [AI-Driven Infrastructure as Code (IaC) and Cloud Automation](https://learning.oreilly.com/videos/-/9781806673216/)
+
+<img src="https://learning.oreilly.com/covers/9781806673216/" width="380" height="550" />
 
 > Use AI assistants to accelerate writing, refactoring, and maintaining IaC and cloud automation.

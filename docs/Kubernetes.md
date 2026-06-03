@@ -70,33 +70,49 @@ Container orchestration with Kubernetes — from first pods to production operat
 
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
 
+<img src="https://learning.oreilly.com/covers/9780138268510/" width="380" height="550" />
+
 > A progressive video course that takes you from Kubernetes basics to advanced operational mastery.
 
 [Certified Kubernetes Administrator (CKA), 4th Edition](https://learning.oreilly.com/videos/-/9780135375129/) :star:
+
+<img src="https://learning.oreilly.com/covers/9780135375129/" width="380" height="550" />
 
 > Sander van Vugt's hands-on preparation for the CKA exam — cluster administration, networking, and troubleshooting.
 
 [Certified Kubernetes Application Developer (CKAD), 4th Edition](https://learning.oreilly.com/videos/-/9780135349700/)
 
+<img src="https://learning.oreilly.com/covers/9780135349700/" width="380" height="550" />
+
 > Exam-focused, lab-driven training for developers deploying and operating apps on Kubernetes.
 
 [Certified Kubernetes Security Specialist (CKS)](https://learning.oreilly.com/videos/-/9780138296537/)
+
+<img src="https://learning.oreilly.com/covers/9780138296537/" width="380" height="550" />
 
 > Advanced cluster-hardening and runtime-security training for the CKS certification (requires CKA).
 
 [Automating Kubernetes with GitOps](https://learning.oreilly.com/videos/-/9780138230258/)
 
+<img src="https://learning.oreilly.com/covers/9780138230258/" width="380" height="550" />
+
 > Manage clusters declaratively with GitOps — Argo CD/Flux workflows where Git is the source of truth.
 
 [Helm Masterclass - From Beginner to Advanced](https://learning.oreilly.com/course/helm-masterclass/9781837025374/)
+
+<img src="https://learning.oreilly.com/covers/9781837025374/" width="380" height="550" />
 
 > A complete, hands-on path to mastering Helm charts, templating, and releases.
 
 [Docker and Kubernetes Masterclass: From Beginner to Advanced](https://learning.oreilly.com/course/docker-and-kubernetes/9781837025077/)
 
+<img src="https://learning.oreilly.com/covers/9781837025077/" width="380" height="550" />
+
 > Learn containers and orchestration together, from Docker fundamentals to deploying on Kubernetes.
 
 [Practical Kubernetes - Beyond CKA and CKAD Hands-on](https://learning.oreilly.com/course/practical-kubernetes/9781837023035/)
+
+<img src="https://learning.oreilly.com/covers/9781837023035/" width="380" height="550" />
 
 > Real-world Kubernetes practice that goes past the certification syllabus into production scenarios.
 

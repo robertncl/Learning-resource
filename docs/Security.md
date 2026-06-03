@@ -122,25 +122,37 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/) :star:
 
+<img src="https://learning.oreilly.com/covers/9781836207214/" width="380" height="550" />
+
 > Hands-on Azure security training — identity and access, platform protection, data security, and security operations.
 
 [SC-200 Microsoft Security Operations Analyst](https://learning.oreilly.com/videos/-/9781836201632/)
+
+<img src="https://learning.oreilly.com/covers/9781836201632/" width="380" height="550" />
 
 > Security-operations training for Microsoft Sentinel and the Defender suite, mapped to the SC-200 exam.
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
+<img src="https://learning.oreilly.com/covers/9780138170622/" width="380" height="550" />
+
 > Video preparation for the vendor-neutral CCSP cloud-security certification.
 
 [CompTIA Security+ SY0-701](https://learning.oreilly.com/course/comptia-security-sy0-701/9780138251062/)
+
+<img src="https://learning.oreilly.com/covers/9780138251062/" width="380" height="550" />
 
 > The standard entry-level certification covering core defensive security concepts.
 
 [CISSP, 4th Edition](https://learning.oreilly.com/course/cissp-4th-edition/9780135328613/)
 
+<img src="https://learning.oreilly.com/covers/9780135328613/" width="380" height="550" />
+
 > Comprehensive preparation for the gold-standard CISSP information-security certification.
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
+
+<img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.
 

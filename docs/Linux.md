@@ -86,24 +86,36 @@ From first commands to kernel internals — a path through using, administering,
 
 [Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/) :star:
 
+<img src="https://learning.oreilly.com/covers/9780138293321/" width="380" height="550" />
+
 > A deep video course on how Linux works internally — ideal for engineers who want more than surface-level command knowledge.
 
 [Linux Fundamentals, 3rd Edition](https://learning.oreilly.com/videos/-/9780135465363/)
+
+<img src="https://learning.oreilly.com/covers/9780135465363/" width="380" height="550" />
 
 > Sander van Vugt's well-regarded, up-to-date introduction to working productively on Linux.
 
 [RHCSA (RHEL 9) Complete Course with Exam Labs (Video Collection)](https://learning.oreilly.com/course/rhcsa-rhel-9/9780135397237/)
 
+<img src="https://learning.oreilly.com/covers/9780135397237/" width="380" height="550" />
+
 > Full preparation for the Red Hat Certified System Administrator exam on RHEL 9, with hands-on labs.
 
 [Red Hat RHCSA RHEL 10 with Exam Labs - Pearson Cert Prep (Video)](https://learning.oreilly.com/videos/-/9780135493137/)
+
+<img src="https://learning.oreilly.com/covers/9780135493137/" width="380" height="550" />
 
 > The latest RHCSA prep on RHEL 10, with exam-style labs and scenarios.
 
 [Linux Foundation Certified System Administrator (LFCS), 3rd Edition](https://learning.oreilly.com/videos/-/9780138230678/)
 
+<img src="https://learning.oreilly.com/covers/9780138230678/" width="380" height="550" />
+
 > Distribution-neutral administration training mapped to the vendor-neutral LFCS certification.
 
 [CompTIA Linux+ (XK0-005)](https://learning.oreilly.com/course/comptia-linux-xk0-005/9781835884768/)
+
+<img src="https://learning.oreilly.com/covers/9781835884768/" width="380" height="550" />
 
 > Prepares you for the vendor-neutral CompTIA Linux+ certification covering administration, scripting, and security.
