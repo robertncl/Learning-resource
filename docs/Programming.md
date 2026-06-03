@@ -222,6 +222,8 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 [Angular - The Complete Guide [2024 Edition]](https://learning.oreilly.com/course/angular-the/9781788998437/)
 
+<img src="https://learning.oreilly.com/covers/9781788998437/" width="380" height="550" />
+
 > Maximilian Schwarzmüller's flagship, end-to-end Angular course from fundamentals to advanced topics.
 
 [React - The Complete Guide (Includes Hooks, React Router, and Redux) - Second Edition](https://learning.oreilly.com/course/react-the/9781801812603/)
