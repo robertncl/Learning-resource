@@ -1,6 +1,6 @@
 # Site settings
 title: Learning resources
-description: The Criterion Collection
+description: My learning resources for programming, data science, machine learning, deep learning, and more
 baseurl: "/Learning-resource" # the subpath of your site, e.g. /blog
 url: "https://robertncl.github.io" # the base hostname & protocol for your site
 

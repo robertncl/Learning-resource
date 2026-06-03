@@ -2,49 +2,103 @@
 
 # Kubernetes
 
+Container orchestration with Kubernetes — from first pods to production operations, patterns, networking, and the CKA/CKAD/CKS certifications. :star: marks standout, widely recommended titles.
+
 # ***Books*** :books:
-
-[Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/) :star:
-
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617293726/files/Images/cover.jpeg" width="380" height="550" />
 
 [Kubernetes: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/kubernetes-up-and/9781098110192/) :star:
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098110192/files/assets/cover.png" width="380" height="550" />
 
-[Kubernetes – An Enterprise Guide - Third Edition](https://learning.oreilly.com/library/view/kubernetes-an/9781838086957/)
+> Co-written by Kubernetes co-founders, the fastest way to get productive — core concepts, objects, and day-to-day operations.
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835086957/files/Images/9781835086957_Cover.png" width="380" height="550" />
+[Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/) :star:
 
-[Kubernetes Patterns, 2nd Edition](https://learning.oreilly.com/library/view/kubernetes-patterns-2nd/9781098131678/)
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617293726/files/Images/cover.jpeg" width="380" height="550" />
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098131678/files/assets/cover.png" width="380" height="550" />
+> Marko Luksa's beloved, deeply practical walkthrough of Kubernetes from the ground up — still a community favourite.
 
 [The Book of Kubernetes](https://learning.oreilly.com/library/view/the-book-of/9781098141394/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098141394/files/images/Book_Kubernetes_HB_front.png" width="380" height="550" />
 
+> Builds understanding from the container runtime up, so Kubernetes feels like a logical consequence rather than magic.
+
+[Kubernetes Patterns, 2nd Edition](https://learning.oreilly.com/library/view/kubernetes-patterns-2nd/9781098131678/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098131678/files/assets/cover.png" width="380" height="550" />
+
+> A catalog of reusable patterns for designing cloud-native applications that run well on Kubernetes.
+
+[Networking and Kubernetes](https://learning.oreilly.com/library/view/-/9781492081647/)
+
+<img src="https://learning.oreilly.com/covers/9781492081647/" width="380" height="550" />
+
+> Demystifies the Kubernetes networking model — pods, services, CNI, ingress, and how packets really flow.
+
+[Kubernetes – An Enterprise Guide - Third Edition](https://learning.oreilly.com/library/view/kubernetes-an/9781838086957/)
+
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835086957/files/Images/9781835086957_Cover.png" width="380" height="550" />
+
+> Enterprise-grade concerns — identity, multitenancy, security, and platform building — for running Kubernetes at scale.
+
+[Certified Kubernetes Application Developer (CKAD) Study Guide, 2nd Edition](https://learning.oreilly.com/library/view/-/9781098152857/)
+
+<img src="https://learning.oreilly.com/covers/9781098152857/" width="380" height="550" />
+
+> Benjamin Muschko's focused, exercise-driven preparation for the hands-on CKAD certification.
+
 [Learning Helm](https://learning.oreilly.com/library/view/learning-helm/9781492083641/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492083641/files/assets/cover.png" width="380" height="550" />
+
+> Package, template, and manage Kubernetes applications with Helm, the de facto Kubernetes package manager.
 
 [Docker Deep Dive - Fifth Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781806024032/)
 
 <img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781806024032/files/images/Covers.jpg" width="380" height="550" />
 
+> Nigel Poulton's clear, thorough guide to the container fundamentals that underpin Kubernetes.
+
+[Generative AI on Kubernetes](https://learning.oreilly.com/library/view/-/9781098171919/)
+
+<img src="https://learning.oreilly.com/covers/9781098171919/" width="380" height="550" />
+
+> Run and serve LLMs and generative-AI workloads on Kubernetes — GPUs, model serving, and scaling.
+
 # ***Courses*** :computer:
 
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
 
+> A progressive video course that takes you from Kubernetes basics to advanced operational mastery.
+
+[Certified Kubernetes Administrator (CKA), 4th Edition](https://learning.oreilly.com/videos/-/9780135375129/) :star:
+
+> Sander van Vugt's hands-on preparation for the CKA exam — cluster administration, networking, and troubleshooting.
+
+[Certified Kubernetes Application Developer (CKAD), 4th Edition](https://learning.oreilly.com/videos/-/9780135349700/)
+
+> Exam-focused, lab-driven training for developers deploying and operating apps on Kubernetes.
+
+[Certified Kubernetes Security Specialist (CKS)](https://learning.oreilly.com/videos/-/9780138296537/)
+
+> Advanced cluster-hardening and runtime-security training for the CKS certification (requires CKA).
+
 [Automating Kubernetes with GitOps](https://learning.oreilly.com/videos/-/9780138230258/)
+
+> Manage clusters declaratively with GitOps — Argo CD/Flux workflows where Git is the source of truth.
 
 [Helm Masterclass - From Beginner to Advanced](https://learning.oreilly.com/course/helm-masterclass/9781837025374/)
 
+> A complete, hands-on path to mastering Helm charts, templating, and releases.
+
 [Docker and Kubernetes Masterclass: From Beginner to Advanced](https://learning.oreilly.com/course/docker-and-kubernetes/9781837025077/)
 
-[Docker Deep Dive - Third Edition](https://learning.oreilly.com/library/view/docker-deep-dive/9781835884386/)
+> Learn containers and orchestration together, from Docker fundamentals to deploying on Kubernetes.
 
 [Practical Kubernetes - Beyond CKA and CKAD Hands-on](https://learning.oreilly.com/course/practical-kubernetes/9781837023035/)
+
+> Real-world Kubernetes practice that goes past the certification syllabus into production scenarios.
 
 # ***Resources*** :bookmark_tabs:
 
