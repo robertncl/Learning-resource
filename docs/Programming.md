@@ -351,3 +351,22 @@ A focused collection for the four languages this repo prioritises — **Python, 
 <img src="https://learning.oreilly.com/covers/9781806029631/" width="380" height="550" />
 
 > A gentle, hands-on introduction that gets newcomers writing Go quickly.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above, focused on **Python, JavaScript/TypeScript, Java & Go**. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [freeCodeCamp.org — YouTube channel](https://www.youtube.com/@freecodecamp) :star: — full-length, free courses for every major language and framework.
+* [Python Full Course for Beginners (freeCodeCamp)](https://www.freecodecamp.org/news/python-programming-course/) — a complete, hands-on introduction to Python.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [The Odin Project](https://www.theodinproject.com/) :star: — a free, project-based full-stack curriculum (JavaScript & Ruby tracks).
+* [Python — official tutorial](https://docs.python.org/3/tutorial/) — the authoritative starting point for the language.
+* [JavaScript — MDN Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) :star: — the web's reference guide to modern JavaScript.
+* [TypeScript — official Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) — the canonical guide to typing JavaScript.
+* [Java — dev.java (Oracle's learning hub)](https://dev.java/learn/) — official tutorials and learning paths for Java.
+* [Go — A Tour of Go](https://go.dev/tour/) & [Go by Example](https://gobyexample.com/) — the interactive tour plus annotated, runnable examples.
+* [Developer roadmaps (roadmap.sh)](https://roadmap.sh/) — community-curated learning paths for Python, JavaScript, Java, Go, and more.

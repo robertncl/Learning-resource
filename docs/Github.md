@@ -139,3 +139,19 @@ GitHub's AI pair programmer — these books and courses cover prompting, chat, a
 <img src="https://learning.oreilly.com/covers/10202023VIDEOPAIML/" width="380" height="550" />
 
 > Certification-focused video training for administering GitHub Enterprise.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [GitHub Actions: The Full Course (CoderDave)](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY) :star: — a hands-on, learn-by-doing playlist covering CI/CD with GitHub Actions.
+* [GitHub Copilot Series (YouTube)](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt) — short videos showing Copilot in action across languages and workflows.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [GitHub Skills](https://skills.github.com/) :star: — free, hands-on courses run inside real repositories, from Git basics to Copilot.
+* [GitHub Copilot tutorials (official docs)](https://docs.github.com/en/copilot/tutorials) — practical, task-focused guides straight from GitHub.
+* [Pass the GitHub Actions Certification (freeCodeCamp)](https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/) — a free full course mapped to the official exam objectives.
+* [GitHub Copilot Bootcamp — free 4-week curriculum](https://dev.to/pwd9000/github-copilot-bootcamp-a-free-4-week-training-curriculum-to-master-ai-powered-development-h5b) — a structured, self-paced path to master AI-powered development.

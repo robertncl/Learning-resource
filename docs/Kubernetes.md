@@ -162,3 +162,19 @@ Container orchestration with Kubernetes — from first pods to production operat
 * [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 * [Fluent Bit with Kubernetes](https://www.manning.com/books/fluent-bit-with-kubernetes) by [Phil Wilkins](https://www.linkedin.com/in/philwilkins/)
 * [Kubernetes from scratch](https://medium.com/@ghumare64/kubernetes-from-scratch-part-1-4b40cb6c1aba) by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [Kubernetes Tutorial for Beginners — Full Course in 4 Hours (TechWorld with Nana)](https://www.classcentral.com/course/youtube-kubernetes-tutorial-for-beginners-full-course-in-4-hours-108866) :star: — the most-recommended free crash course on Kubernetes.
+* [The Ultimate Kubernetes Administrator (CKA) Course (TechWorld with Nana)](https://www.youtube.com/watch?v=eYPUUkFZ2hw) — a hands-on, exam-aligned path to the CKA certification.
+* [Docker & Kubernetes — Full Course (freeCodeCamp)](https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/) — a 4-hour hands-on intro to containers and orchestration.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [Kubernetes official tutorials](https://kubernetes.io/docs/tutorials/) :star: — the canonical, always-current tutorials including the interactive "Kubernetes Basics".
+* [Kubernetes roadmap (roadmap.sh)](https://roadmap.sh/kubernetes) — a visual learning path from fundamentals to production.
+* [Killercoda — free interactive Kubernetes scenarios](https://killercoda.com/) — browser-based labs with real clusters, no setup required.

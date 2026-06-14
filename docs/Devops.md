@@ -127,3 +127,20 @@ DevOps unites development and operations through automation, fast feedback, and 
 <img src="https://learning.oreilly.com/covers/0636920964124/" width="380" height="550" />
 
 > Career-focused guidance and a practical roadmap for landing your first DevOps engineering role.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [How I would learn DevOps (TechWorld with Nana)](https://www.youtube.com/watch?v=Ss-5qdrMz2Q) :star: — a clear, practical roadmap of what to learn and in what order.
+* [DevOps Full Roadmap with resources](https://www.youtube.com/watch?v=v7kowsVqxeY) — an end-to-end walkthrough of the DevOps skill set with free resources for each step.
+* [TechWorld with Nana — YouTube channel](https://www.youtube.com/@TechWorldwithNana) — one of the best free channels for DevOps, containers, and CI/CD.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [DevOps roadmap (roadmap.sh)](https://roadmap.sh/devops) :star: — the community-standard visual learning path for DevOps.
+* [Google SRE Book — full free text](https://sre.google/sre-book/table-of-contents/) :star: — the foundational, freely readable book on Site Reliability Engineering.
+* [Dynamic DevOps Roadmap](https://devopsroadmap.io/) — a free, pragmatic, cloud-native learning path.
+* [Learn DevOps for free — best YouTube channels](https://linuxhandbook.com/blog/devops-learn-youtube-channels/) — a curated list of high-quality free DevOps channels.

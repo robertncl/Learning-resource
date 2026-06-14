@@ -172,3 +172,18 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 &nbsp;&nbsp; <a href="https://sekurak.pl/"><b>Sekurak</b></a> - about security, penetration tests, vulnerabilities and many others (PL/EN).<br>
 &nbsp;&nbsp; <a href="https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
 </p>
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and hands-on labs to complement the books and courses above, focused on **application security** and practical skills. :star: marks standouts.
+
+### :tv: Videos & Hands-On Labs
+
+* [PortSwigger Web Security Academy](https://portswigger.net/web-security) :star: — 200+ free interactive labs and write-ups covering every OWASP Top 10 vulnerability; the single best free way to learn web hacking.
+* [Solving XSS challenges from the Web Security Academy (NahamSec)](https://www.classcentral.com/course/youtube-solving-xss-challenges-from-portswigger-s-web-academy-179293) — video walkthroughs of real cross-site scripting labs.
+
+### :page_facing_up: Articles, Docs & Practice
+
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) :star: — a deliberately insecure web app for safely practising attacks and defences.
+* [TryHackMe](https://tryhackme.com/) — guided, hands-on security rooms with a generous free tier.
+* [Cyber Security roadmap (roadmap.sh)](https://roadmap.sh/cyber-security) — a community-curated learning path covering AppSec, networking, and more.

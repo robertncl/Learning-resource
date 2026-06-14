@@ -61,3 +61,18 @@ Designing, building, and evolving fine-grained, independently deployable service
 <img src="https://learning.oreilly.com/covers/9781805124429/" width="380" height="550" />
 
 > Implement microservice APIs in Go with a focus on practical, production-minded design.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [Microservice Architecture & System Design with Python & Kubernetes (freeCodeCamp)](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/) :star: — build a distributed system end-to-end with RabbitMQ, MongoDB, and Kubernetes.
+* [Microservices Full Course — Microservices Explained](https://www.youtube.com/watch?v=iWJzmV0xRVE) — a broad overview of microservice concepts and trade-offs.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [Microservices.io — Chris Richardson's pattern catalog](https://microservices.io/) :star: — the canonical, free reference for microservice patterns (sagas, API composition, and more).
+* [Microservices — Martin Fowler](https://martinfowler.com/articles/microservices.html) :star: — the foundational article that defined the architectural style.
+* [The Twelve-Factor App](https://12factor.net/) — the classic methodology for building portable, scalable service-based applications.

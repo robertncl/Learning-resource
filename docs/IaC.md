@@ -87,3 +87,19 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 <img src="https://learning.oreilly.com/covers/9781806673216/" width="380" height="550" />
 
 > Use AI assistants to accelerate writing, refactoring, and maintaining IaC and cloud automation.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [Terraform Associate Certification — full course (freeCodeCamp / Andrew Brown)](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/) :star: — a complete, exam-aligned Terraform course.
+* [Terraform Associate — full course (Rahul Wagh)](https://www.classcentral.com/course/youtube-hashicorp-terraform-associate-certification-course-003-full-course-pass-exam-327523) — a hands-on walkthrough of variables, state, modules, and more.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [Terraform Tutorials (official HashiCorp)](https://developer.hashicorp.com/terraform/tutorials) :star: — official hands-on tutorials for AWS, Azure, and GCP.
+* [Ansible — Getting Started (official docs)](https://docs.ansible.com/ansible/latest/getting_started/index.html) — the official path into configuration management with Ansible.
+* [Pulumi — Learn (official)](https://www.pulumi.com/learn/) — guided tutorials for IaC in real programming languages.
+* [Best free Terraform learning resources](https://blog.jahirultusar.com/best-free-terraform-learning-resources/) — a curated roundup of free Terraform courses, labs, and articles.

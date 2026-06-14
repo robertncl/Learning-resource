@@ -149,3 +149,20 @@ A curated path through modern artificial intelligence — from the math foundati
 <img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [3Blue1Brown — Neural Networks](https://www.3blue1brown.com/topics/neural-networks) :star: — the famous visual series that builds real intuition for how deep learning works.
+* [Andrej Karpathy — LLM course ("Deep Dive into LLMs like ChatGPT")](https://karpathy.ai/llm-course/) :star: — a leading researcher explains how LLMs are built and trained, from the ground up.
+* [Generative AI — Full Course playlist (freeCodeCamp)](https://www.youtube.com/playlist?list=PLkz_y24mlSJY7hlQ-GyDgUCWz8TyIX_S3) — long-form, hands-on generative-AI tutorials.
+* [Free GenAI 65-Hour Bootcamp (freeCodeCamp)](https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/) — a full bootcamp covering prompt engineering, RAG, and agents.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) :star: — Google's free, interactive intro to ML with exercises.
+* [Generative AI for Beginners (Microsoft)](https://microsoft.github.io/generative-ai-for-beginners/) — a free, lesson-based course on building with generative AI.
+* [AI Engineer roadmap (roadmap.sh)](https://roadmap.sh/ai-engineer) — a community-curated learning path from fundamentals to production AI.

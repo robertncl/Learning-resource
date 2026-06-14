@@ -283,3 +283,20 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 <img src="https://learning.oreilly.com/covers/9780138300241/" width="380" height="550" />
 
 > Hands-on prep for the Associate Cloud Engineer certification — deploying and operating GCP workloads.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above — **Azure** first, then AWS and GCP. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [Azure Fundamentals (AZ-900) — full course (freeCodeCamp / ExamPro)](https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/) :star: — a complete, exam-aligned intro to Azure.
+* [AZ-900 free full course & study guide (Adam Marczak)](https://marczak.io/az-900/) — a beloved, clearly-explained Azure Fundamentals series.
+* [AWS Certified Cloud Practitioner — full course (freeCodeCamp)](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/) — exam prep for the entry-level AWS certification.
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [Microsoft Learn — Azure training paths](https://learn.microsoft.com/en-us/training/azure/) :star: — free, official, hands-on learning modules for every Azure service.
+* [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) — Microsoft's official guidance for planning and governing cloud adoption.
+* [AWS — free digital training](https://aws.amazon.com/training/digital/) — hundreds of free self-paced AWS courses.
+* [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) — official GCP labs and learning paths (with free content).

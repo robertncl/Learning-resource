@@ -115,3 +115,18 @@ From first commands to kernel internals — a path through using, administering,
 <img src="https://learning.oreilly.com/covers/9781835884768/" width="380" height="550" />
 
 > Prepares you for the vendor-neutral CompTIA Linux+ certification covering administration, scripting, and security.
+
+# ***Free Learning Resources*** :free:
+
+Top free, community-recommended videos and articles to complement the books and courses above. :star: marks standouts.
+
+### :tv: Videos & YouTube
+
+* [The 50 Most Popular Linux & Terminal Commands (Colt Steele, freeCodeCamp)](https://www.youtube.com/watch?v=ZtqBQ68cfJc) :star: — the fastest way to get comfortable at the command line.
+* [Introduction to Linux — Full Course for Beginners (freeCodeCamp)](https://www.freecodecamp.org/news/introduction-to-linux/) — a comprehensive beginner course (article + video).
+
+### :page_facing_up: Articles, Docs & Hands-On
+
+* [The Linux Command Line — free PDF book (William Shotts)](https://linuxcommand.org/tlcl.php) :star: — the definitive, freely downloadable book on the shell and scripting.
+* [Linux Journey — free interactive lessons](https://linuxjourney.com/) — bite-sized, hands-on lessons from basics to networking and the kernel.
+* [Linux command line tutorial (freeCodeCamp)](https://www.freecodecamp.org/news/linux-command-line-tutorial/) — a concise reference to the most-used commands and operators.
