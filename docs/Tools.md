@@ -272,3 +272,16 @@ from https://github.com/trimstray/the-book-of-secret-knowledge
 &nbsp;&nbsp; <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp; <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
 </p>
+
+#### Free Learning Resources
+
+Top free videos and articles for mastering the command line and the tools above.
+
+<p>
+&nbsp;&nbsp; <a href="https://missing.csail.mit.edu/"><b>MIT — The Missing Semester of Your CS Education</b></a> - the gold-standard free course on the shell, scripting, editors, and command-line tooling.<br>
+&nbsp;&nbsp; <a href="https://commandlinepoweruser.com/"><b>Command Line Power User (Wes Bos)</b></a> - a free video series on a modern command-line workflow with Zsh, z, and friends.<br>
+&nbsp;&nbsp; <a href="https://github.com/jlevy/the-art-of-command-line"><b>The Art of Command Line</b></a> - a famously concise, free guide to becoming fluent on the command line.<br>
+&nbsp;&nbsp; <a href="https://github.com/ibraheemdev/modern-unix"><b>modern-unix</b></a> - a curated list of modern replacements for classic Unix commands (with links and demos).<br>
+&nbsp;&nbsp; <a href="https://github.com/agarrharr/awesome-cli-apps"><b>Awesome CLI Apps</b></a> - a large, community-curated directory of useful command-line applications.<br>
+&nbsp;&nbsp; <a href="https://learnxinyminutes.com/docs/bash/"><b>Learn Bash in Y Minutes</b></a> - a fast, example-driven reference for Bash scripting.<br>
+</p>

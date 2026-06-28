@@ -330,3 +330,14 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://keyserver.ubuntu.com/"><b>SKS OpenPGP Key server</b></a> - services for the SKS keyservers used by OpenPGP.<br>
 </p>
+
+#### Free Learning Resources
+
+Top free videos and articles for learning the GUI tools above.
+
+<p>
+&nbsp;&nbsp; <a href="https://www.wireshark.org/learn"><b>Wireshark — Learn (official)</b></a> - official tutorials, sample captures, and videos for the world's leading network protocol analyzer.<br>
+&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=a_4MjV_-7Sw"><b>Mastering Wireshark — The Complete Tutorial (YouTube)</b></a> - a free, hands-on video walkthrough of network analysis with Wireshark.<br>
+&nbsp;&nbsp; <a href="https://github.com/luong-komorebi/Awesome-Linux-Software"><b>Awesome Linux Software</b></a> - a curated directory of free and open-source GUI applications for Linux.<br>
+&nbsp;&nbsp; <a href="https://github.com/jaywcjlove/awesome-mac"><b>Awesome Mac</b></a> - a curated directory of excellent macOS GUI applications, many free and open-source.<br>
+</p>
