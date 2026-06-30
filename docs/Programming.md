@@ -360,6 +360,7 @@ Top free, community-recommended videos and articles to complement the books and 
 
 * [freeCodeCamp.org — YouTube channel](https://www.youtube.com/@freecodecamp) :star: — full-length, free courses for every major language and framework.
 * [Python Full Course for Beginners (freeCodeCamp)](https://www.freecodecamp.org/news/python-programming-course/) — a complete, hands-on introduction to Python.
+* [CS50: Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/) :star: — the legendary, free CS foundations course with full video lectures.
 
 ### :page_facing_up: Articles, Docs & Hands-On
 
@@ -370,3 +371,7 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Java — dev.java (Oracle's learning hub)](https://dev.java/learn/) — official tutorials and learning paths for Java.
 * [Go — A Tour of Go](https://go.dev/tour/) & [Go by Example](https://gobyexample.com/) — the interactive tour plus annotated, runnable examples.
 * [Developer roadmaps (roadmap.sh)](https://roadmap.sh/) — community-curated learning paths for Python, JavaScript, Java, Go, and more.
+* [Eloquent JavaScript — free online book](https://eloquentjavascript.net/) :star: — a beloved, deep introduction to JavaScript with interactive exercises.
+* [Automate the Boring Stuff with Python — free online book](https://automatetheboringstuff.com/) :star: — the classic practical Python book for beginners.
+* [JavaScript.info — The Modern JavaScript Tutorial](https://javascript.info/) :star: — a thorough, up-to-date guide to JavaScript from basics to advanced.
+* [Exercism](https://exercism.org/) :star: — free, mentored coding practice with tracks in 70+ languages.

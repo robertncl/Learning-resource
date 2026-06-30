@@ -155,3 +155,7 @@ Top free, community-recommended videos and articles to complement the books and 
 * [GitHub Copilot tutorials (official docs)](https://docs.github.com/en/copilot/tutorials) — practical, task-focused guides straight from GitHub.
 * [Pass the GitHub Actions Certification (freeCodeCamp)](https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/) — a free full course mapped to the official exam objectives.
 * [GitHub Copilot Bootcamp — free 4-week curriculum](https://dev.to/pwd9000/github-copilot-bootcamp-a-free-4-week-training-curriculum-to-master-ai-powered-development-h5b) — a structured, self-paced path to master AI-powered development.
+* [Pro Git — the official book (free)](https://git-scm.com/book/en/v2) :star: — the complete, authoritative reference to Git, readable online for free.
+* [Learn Git Branching](https://learngitbranching.js.org/) :star: — an interactive, visual game for mastering Git branching and merging.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) — clear, well-illustrated tutorials covering Git from basics to advanced workflows.
+* [GitHub Docs — Get started](https://docs.github.com/en/get-started) — the official onboarding guide to GitHub's core features.

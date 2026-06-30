@@ -340,4 +340,6 @@ Top free videos and articles for learning the GUI tools above.
 &nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=a_4MjV_-7Sw"><b>Mastering Wireshark — The Complete Tutorial (YouTube)</b></a> - a free, hands-on video walkthrough of network analysis with Wireshark.<br>
 &nbsp;&nbsp; <a href="https://github.com/luong-komorebi/Awesome-Linux-Software"><b>Awesome Linux Software</b></a> - a curated directory of free and open-source GUI applications for Linux.<br>
 &nbsp;&nbsp; <a href="https://github.com/jaywcjlove/awesome-mac"><b>Awesome Mac</b></a> - a curated directory of excellent macOS GUI applications, many free and open-source.<br>
+&nbsp;&nbsp; <a href="https://wiki.wireshark.org/SampleCaptures"><b>Wireshark Sample Captures</b></a> - downloadable .pcap files to practice packet and protocol analysis.<br>
+&nbsp;&nbsp; <a href="https://github.com/Awesome-Windows/Awesome"><b>Awesome Windows</b></a> - a curated directory of free and open-source GUI applications for Windows.<br>
 </p>

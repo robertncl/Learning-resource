@@ -178,3 +178,7 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Kubernetes official tutorials](https://kubernetes.io/docs/tutorials/) :star: — the canonical, always-current tutorials including the interactive "Kubernetes Basics".
 * [Kubernetes roadmap (roadmap.sh)](https://roadmap.sh/kubernetes) — a visual learning path from fundamentals to production.
 * [Killercoda — free interactive Kubernetes scenarios](https://killercoda.com/) — browser-based labs with real clusters, no setup required.
+* [Kubernetes the Hard Way (Kelsey Hightower)](https://github.com/kelseyhightower/kubernetes-the-hard-way) :star: — bootstrap a cluster by hand to truly understand how Kubernetes works.
+* [KodeKloud — free Kubernetes labs & courses](https://kodekloud.com/free-courses) — hands-on, CKA/CKAD/CKS-aligned practice environments.
+* [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises) — a popular set of practice tasks for the Certified Kubernetes Application Developer exam.
+* [Play with Kubernetes](https://labs.play-with-k8s.com/) — a free, in-browser playground for spinning up throwaway clusters.

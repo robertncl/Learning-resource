@@ -181,9 +181,12 @@ Top free, community-recommended videos and hands-on labs to complement the books
 
 * [PortSwigger Web Security Academy](https://portswigger.net/web-security) :star: — 200+ free interactive labs and write-ups covering every OWASP Top 10 vulnerability; the single best free way to learn web hacking.
 * [Solving XSS challenges from the Web Security Academy (NahamSec)](https://www.classcentral.com/course/youtube-solving-xss-challenges-from-portswigger-s-web-academy-179293) — video walkthroughs of real cross-site scripting labs.
+* [Hacker101 (HackerOne)](https://www.hacker101.com/) :star: — a free web-security class with video lessons, guides, and a hands-on CTF.
 
 ### :page_facing_up: Articles, Docs & Practice
 
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) :star: — a deliberately insecure web app for safely practising attacks and defences.
 * [TryHackMe](https://tryhackme.com/) — guided, hands-on security rooms with a generous free tier.
 * [Cyber Security roadmap (roadmap.sh)](https://roadmap.sh/cyber-security) — a community-curated learning path covering AppSec, networking, and more.
+* [OWASP Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) :star: — the premier free, community-driven web application testing methodology.
+* [Microsoft SC-900 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-900) — the official prep path for Security, Compliance & Identity Fundamentals (Azure security).

@@ -284,4 +284,9 @@ Top free videos and articles for mastering the command line and the tools above.
 &nbsp;&nbsp; <a href="https://github.com/ibraheemdev/modern-unix"><b>modern-unix</b></a> - a curated list of modern replacements for classic Unix commands (with links and demos).<br>
 &nbsp;&nbsp; <a href="https://github.com/agarrharr/awesome-cli-apps"><b>Awesome CLI Apps</b></a> - a large, community-curated directory of useful command-line applications.<br>
 &nbsp;&nbsp; <a href="https://learnxinyminutes.com/docs/bash/"><b>Learn Bash in Y Minutes</b></a> - a fast, example-driven reference for Bash scripting.<br>
+&nbsp;&nbsp; <a href="https://overthewire.org/wargames/bandit/"><b>OverTheWire: Bandit</b></a> - learn the shell and command line by playing a guided, level-by-level wargame.<br>
+&nbsp;&nbsp; <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a> - a huge curated list of command-line frameworks, plugins, and tools.<br>
+&nbsp;&nbsp; <a href="https://devhints.io/bash"><b>Bash cheatsheet (devhints.io)</b></a> - a concise, scannable reference for Bash scripting syntax.<br>
+&nbsp;&nbsp; <a href="https://explainshell.com/"><b>explainshell</b></a> - paste any command and see each part and flag explained.<br>
+&nbsp;&nbsp; <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs and pitfalls in your shell scripts.<br>
 </p>

@@ -137,6 +137,8 @@ Top free, community-recommended videos and articles to complement the books and 
 * [How I would learn DevOps (TechWorld with Nana)](https://www.youtube.com/watch?v=Ss-5qdrMz2Q) :star: — a clear, practical roadmap of what to learn and in what order.
 * [DevOps Full Roadmap with resources](https://www.youtube.com/watch?v=v7kowsVqxeY) — an end-to-end walkthrough of the DevOps skill set with free resources for each step.
 * [TechWorld with Nana — YouTube channel](https://www.youtube.com/@TechWorldwithNana) — one of the best free channels for DevOps, containers, and CI/CD.
+* [Docker — Full Course (freeCodeCamp)](https://www.freecodecamp.org/news/docker-full-course/) — a comprehensive, hands-on intro to containerizing applications.
+* [Ansible 101 (Jeff Geerling)](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) — the definitive free video series on configuration management with Ansible.
 
 ### :page_facing_up: Articles, Docs & Hands-On
 
@@ -144,3 +146,6 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Google SRE Book — full free text](https://sre.google/sre-book/table-of-contents/) :star: — the foundational, freely readable book on Site Reliability Engineering.
 * [Dynamic DevOps Roadmap](https://devopsroadmap.io/) — a free, pragmatic, cloud-native learning path.
 * [Learn DevOps for free — best YouTube channels](https://linuxhandbook.com/blog/devops-learn-youtube-channels/) — a curated list of high-quality free DevOps channels.
+* [Docker — Get Started (official docs)](https://docs.docker.com/get-started/) — the official, hands-on path into containers and images.
+* [Get started with Grafana & Prometheus (official)](https://grafana.com/docs/grafana/latest/fundamentals/getting-started/first-dashboards/get-started-grafana-prometheus/) — build your first metrics dashboards and alerts.
+* [KodeKloud — free DevOps courses & labs](https://kodekloud.com/free-courses) — hands-on labs for Docker, Kubernetes, Git, Linux, and more.

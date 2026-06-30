@@ -160,9 +160,13 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Andrej Karpathy — LLM course ("Deep Dive into LLMs like ChatGPT")](https://karpathy.ai/llm-course/) :star: — a leading researcher explains how LLMs are built and trained, from the ground up.
 * [Generative AI — Full Course playlist (freeCodeCamp)](https://www.youtube.com/playlist?list=PLkz_y24mlSJY7hlQ-GyDgUCWz8TyIX_S3) — long-form, hands-on generative-AI tutorials.
 * [Free GenAI 65-Hour Bootcamp (freeCodeCamp)](https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/) — a full bootcamp covering prompt engineering, RAG, and agents.
+* [fast.ai — Practical Deep Learning for Coders](https://course.fast.ai/) :star: — Jeremy Howard's renowned free, top-down course that gets you training real models fast.
+* [DeepLearning.AI — free short courses (Andrew Ng)](https://www.deeplearning.ai/courses/) — bite-sized, hands-on courses on LLMs, RAG, agents, and more.
 
 ### :page_facing_up: Articles, Docs & Hands-On
 
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) :star: — Google's free, interactive intro to ML with exercises.
 * [Generative AI for Beginners (Microsoft)](https://microsoft.github.io/generative-ai-for-beginners/) — a free, lesson-based course on building with generative AI.
 * [AI Engineer roadmap (roadmap.sh)](https://roadmap.sh/ai-engineer) — a community-curated learning path from fundamentals to production AI.
+* [Hugging Face — Learn](https://huggingface.co/learn) :star: — free hands-on courses on LLMs, NLP, agents, deep RL, and diffusion models.
+* [Hugging Face — AI Agents Course](https://huggingface.co/learn/agents-course) — a practical, notebook-driven course on building and deploying AI agents.

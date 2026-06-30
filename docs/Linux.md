@@ -130,3 +130,6 @@ Top free, community-recommended videos and articles to complement the books and 
 * [The Linux Command Line — free PDF book (William Shotts)](https://linuxcommand.org/tlcl.php) :star: — the definitive, freely downloadable book on the shell and scripting.
 * [Linux Journey — free interactive lessons](https://linuxjourney.com/) — bite-sized, hands-on lessons from basics to networking and the kernel.
 * [Linux command line tutorial (freeCodeCamp)](https://www.freecodecamp.org/news/linux-command-line-tutorial/) — a concise reference to the most-used commands and operators.
+* [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) :star: — learn the shell by playing a guided wargame, level by level.
+* [Ryan's Tutorials — Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) — a friendly, beginner-focused walkthrough of the command line.
+* [explainshell](https://explainshell.com/) — paste any command and see each flag and argument explained.

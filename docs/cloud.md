@@ -293,6 +293,7 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Azure Fundamentals (AZ-900) — full course (freeCodeCamp / ExamPro)](https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/) :star: — a complete, exam-aligned intro to Azure.
 * [AZ-900 free full course & study guide (Adam Marczak)](https://marczak.io/az-900/) — a beloved, clearly-explained Azure Fundamentals series.
 * [AWS Certified Cloud Practitioner — full course (freeCodeCamp)](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/) — exam prep for the entry-level AWS certification.
+* [AWS Certified Solutions Architect – Associate — full course (freeCodeCamp)](https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/) — a deep, hands-on course for the most popular AWS certification.
 
 ### :page_facing_up: Articles, Docs & Hands-On
 
@@ -300,3 +301,7 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) — Microsoft's official guidance for planning and governing cloud adoption.
 * [AWS — free digital training](https://aws.amazon.com/training/digital/) — hundreds of free self-paced AWS courses.
 * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) — official GCP labs and learning paths (with free content).
+* [AZ-104: Azure Administrator — training path (Microsoft Learn)](https://learn.microsoft.com/en-us/training/courses/az-104t00) :star: — free, official, role-based training for administering Azure.
+* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) — AWS's free guidance on the pillars of well-designed cloud workloads.
+* [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) — reference architectures, patterns, and best practices for Azure.
+* [Google Cloud — Training resources](https://cloud.google.com/learn/training) — official GCP learning paths, labs, and certification prep.

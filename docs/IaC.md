@@ -96,6 +96,7 @@ Top free, community-recommended videos and articles to complement the books and 
 
 * [Terraform Associate Certification — full course (freeCodeCamp / Andrew Brown)](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/) :star: — a complete, exam-aligned Terraform course.
 * [Terraform Associate — full course (Rahul Wagh)](https://www.classcentral.com/course/youtube-hashicorp-terraform-associate-certification-course-003-full-course-pass-exam-327523) — a hands-on walkthrough of variables, state, modules, and more.
+* [Ansible 101 (Jeff Geerling)](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) :star: — the definitive free video series on automating infrastructure with Ansible.
 
 ### :page_facing_up: Articles, Docs & Hands-On
 
@@ -103,3 +104,5 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Ansible — Getting Started (official docs)](https://docs.ansible.com/ansible/latest/getting_started/index.html) — the official path into configuration management with Ansible.
 * [Pulumi — Learn (official)](https://www.pulumi.com/learn/) — guided tutorials for IaC in real programming languages.
 * [Best free Terraform learning resources](https://blog.jahirultusar.com/best-free-terraform-learning-resources/) — a curated roundup of free Terraform courses, labs, and articles.
+* [Terraform Best Practices (free online book)](https://www.terraform-best-practices.com/) — a community-maintained book of indisputable Terraform conventions and patterns.
+* [Ansible for DevOps — example code (Jeff Geerling)](https://github.com/geerlingguy/ansible-for-devops) — the freely available playbooks and examples that accompany the book and Ansible 101.

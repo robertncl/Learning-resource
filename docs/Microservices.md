@@ -76,3 +76,5 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Microservices.io — Chris Richardson's pattern catalog](https://microservices.io/) :star: — the canonical, free reference for microservice patterns (sagas, API composition, and more).
 * [Microservices — Martin Fowler](https://martinfowler.com/articles/microservices.html) :star: — the foundational article that defined the architectural style.
 * [The Twelve-Factor App](https://12factor.net/) — the classic methodology for building portable, scalable service-based applications.
+* [.NET Microservices: Architecture for Containerized .NET Applications](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/) :star: — a free, in-depth Microsoft e-book on designing and building microservices.
+* [Microservices architecture style (Azure Architecture Center)](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) — a concise reference on benefits, challenges, and best practices.
