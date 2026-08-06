@@ -84,7 +84,49 @@ A curated path through modern artificial intelligence — from the math foundati
 
 > A practitioner's tour of integrating generative AI into real products and enterprise workflows.
 
+[Context Engineering with DSPy](https://learning.oreilly.com/library/view/-/0642572261603/)
+
+<img src="https://learning.oreilly.com/covers/0642572261603/" width="380" height="550" />
+
+> Mike Taylor on moving beyond hand-tuned prompts — programming and optimizing LLM context with the DSPy framework.
+
 ### AI Agents
+
+[An Illustrated Guide to AI Agents](https://learning.oreilly.com/library/view/-/9798341662681/) :star:
+
+<img src="https://learning.oreilly.com/covers/9798341662681/" width="380" height="550" />
+
+> The follow-up to *Hands-On Large Language Models* — Grootendorst and Alammar's visual deep dive into how agents reason, plan, and use tools.
+
+[Agent Memory](https://learning.oreilly.com/library/view/-/0642572370473/)
+
+<img src="https://learning.oreilly.com/covers/0642572370473/" width="380" height="550" />
+
+> How to give agents durable short- and long-term memory — storage, retrieval, summarization, and forgetting strategies.
+
+[Skills for AI Agents](https://learning.oreilly.com/library/view/-/0642572327590/)
+
+<img src="https://learning.oreilly.com/covers/0642572327590/" width="380" height="550" />
+
+> Packaging reusable capabilities as agent skills, so agents load the right instructions and tools on demand.
+
+[Building Live Voice Agents](https://learning.oreilly.com/library/view/-/9798341661110/)
+
+<img src="https://learning.oreilly.com/covers/9798341661110/" width="380" height="550" />
+
+> Building real-time, speech-to-speech voice agents — latency budgets, interruption handling, and production deployment.
+
+[Building Agentic Solutions with Microsoft Foundry](https://learning.oreilly.com/library/view/-/0642572309817/)
+
+<img src="https://learning.oreilly.com/covers/0642572309817/" width="380" height="550" />
+
+> Designing, orchestrating, and governing enterprise agents on Microsoft Foundry (Azure AI Foundry).
+
+[AI Agents with Java](https://learning.oreilly.com/library/view/-/0642572245856/)
+
+<img src="https://learning.oreilly.com/covers/0642572245856/" width="380" height="550" />
+
+> Agentic development for the JVM — LangChain4j, Quarkus, and MCP for Java teams building on existing enterprise stacks.
 
 [Building Applications with AI Agents](https://learning.oreilly.com/library/view/-/9781098176495/)
 
@@ -124,6 +166,36 @@ A curated path through modern artificial intelligence — from the math foundati
 
 > Use generative AI to design, generate, and maintain better software tests.
 
+[Agentic Engineering at Scale](https://learning.oreilly.com/library/view/-/0642572344306/)
+
+<img src="https://learning.oreilly.com/covers/0642572344306/" width="380" height="550" />
+
+> Chris Ford on what changes when whole engineering teams work through coding agents — workflows, review, and quality at scale.
+
+[Scalable AI Systems](https://learning.oreilly.com/library/view/-/0642572342883/)
+
+<img src="https://learning.oreilly.com/covers/0642572342883/" width="380" height="550" />
+
+> Architecting AI platforms that hold up under real traffic — serving, scaling, cost control, and reliability.
+
+[Data Management for Agentic Systems](https://learning.oreilly.com/library/view/-/9798341649545/)
+
+<img src="https://learning.oreilly.com/covers/9798341649545/" width="380" height="550" />
+
+> A short report on the data layer agents depend on — context stores, retrieval, lineage, and governance.
+
+[From Cloud Native to AI Native](https://learning.oreilly.com/library/view/-/9781807785239/)
+
+<img src="https://learning.oreilly.com/covers/9781807785239/" width="380" height="550" />
+
+> How cloud-native platform practices evolve for AI workloads — architecture, org design, and the migration path.
+
+[AI Security Engineering](https://learning.oreilly.com/library/view/-/0642572359133/)
+
+<img src="https://learning.oreilly.com/covers/0642572359133/" width="380" height="550" />
+
+> Threat-modelling and defending LLM and agent systems — prompt injection, tool abuse, data exfiltration, and red teaming.
+
 # ***Courses*** :computer:
 
 [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
@@ -149,6 +221,36 @@ A curated path through modern artificial intelligence — from the math foundati
 <img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.
+
+[Cisco AI Technical Practitioner 810-110 AITECH](https://learning.oreilly.com/videos/-/9780135941546/)
+
+<img src="https://learning.oreilly.com/covers/9780135941546/" width="380" height="550" />
+
+> Omar Santos's full video prep for Cisco's AI Technical Practitioner certification — AI fundamentals, infrastructure, and operations.
+
+[GenAI Foundation — Maths of Attention Mechanism](https://learning.oreilly.com/videos/-/9781808653230/)
+
+<img src="https://learning.oreilly.com/covers/9781808653230/" width="380" height="550" />
+
+> A 12-hour deep dive into the mathematics behind attention and transformers, worked through step by step.
+
+[GenAI Prompt to Product Showcase: Agent Skills](https://learning.oreilly.com/videos/-/0642572397593/)
+
+<img src="https://learning.oreilly.com/covers/0642572397593/" width="380" height="550" />
+
+> Practitioner talks on building and shipping agent skills — reusable capability packages for production agents.
+
+[AI Superstream: AI Harnesses](https://learning.oreilly.com/videos/-/0642572389741/)
+
+<img src="https://learning.oreilly.com/covers/0642572389741/" width="380" height="550" />
+
+> A short conference-style session on the harnesses around models — scaffolding, evaluation, and control loops for agentic systems.
+
+[AI Catalyst: Driving ROI from AI Deployments (O'Reilly Special Event)](https://learning.oreilly.com/videos/-/9780135979952/)
+
+<img src="https://learning.oreilly.com/covers/9780135979952/" width="380" height="550" />
+
+> Jon Krohn hosts practitioners on turning AI pilots into measurable business return.
 
 # ***Free Learning Resources*** :free:
 
