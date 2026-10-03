@@ -42,6 +42,24 @@ Designing, building, and evolving fine-grained, independently deployable service
 
 > Uses business-driven architecture and domain-driven design to decide when monoliths or microservices actually serve you better.
 
+[Building Resilient Distributed Systems](https://learning.oreilly.com/library/view/-/9781098163532/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781098163532/" width="380" height="550" />
+
+> Sam Newman on designing distributed systems that degrade gracefully — timeouts, retries, isolation, and recovering from failure.
+
+[Software Architecture Patterns, Antipatterns, and Pitfalls](https://learning.oreilly.com/library/view/-/0642572221119/)
+
+<img src="https://learning.oreilly.com/covers/0642572221119/" width="380" height="550" />
+
+> Richards, Ford, and Gandhi catalogue the architecture styles and the mistakes that most often undermine them.
+
+[Architecture as Code](https://learning.oreilly.com/library/view/-/9798341640368/)
+
+<img src="https://learning.oreilly.com/covers/9798341640368/" width="380" height="550" />
+
+> Neal Ford and Mark Richards on expressing and enforcing architecture decisions as code with fitness functions.
+
 # ***Courses*** :computer:
 
 [Design Microservices Architecture with Patterns and Principles](https://learning.oreilly.com/course/design-microservices-architecture/9781805126782/)
@@ -61,6 +79,18 @@ Designing, building, and evolving fine-grained, independently deployable service
 <img src="https://learning.oreilly.com/covers/9781805124429/" width="380" height="550" />
 
 > Implement microservice APIs in Go with a focus on practical, production-minded design.
+
+[Hands-on Microservices with SpringBoot](https://learning.oreilly.com/videos/-/9781808083730/)
+
+<img src="https://learning.oreilly.com/covers/9781808083730/" width="380" height="550" />
+
+> Josh Long and Simon Martinelli build microservices with modern Spring Boot, live and hands-on.
+
+[Microservices Patterns Fundamentals](https://learning.oreilly.com/videos/-/9781808811692/)
+
+<img src="https://learning.oreilly.com/covers/9781808811692/" width="380" height="550" />
+
+> A short primer on the core microservice patterns — decomposition, communication, data, and resilience.
 
 # ***Free Learning Resources*** :free:
 

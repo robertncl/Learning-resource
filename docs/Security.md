@@ -38,6 +38,18 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 > Codify and automate security and compliance guardrails (e.g. with OPA) so policy is enforced continuously across pipelines.
 
+[Threat-Driven Software Development: Defending online services from modern threat actors](https://learning.oreilly.com/library/view/-/9780135567289/) :star:
+
+<img src="https://learning.oreilly.com/covers/9780135567289/" width="380" height="550" />
+
+> Michael Howard and Microsoft colleagues on designing and building services around how real attackers operate.
+
+[Authorization in Action](https://learning.oreilly.com/library/view/-/9781633435179/)
+
+<img src="https://learning.oreilly.com/covers/9781633435179/" width="380" height="550" />
+
+> Phillip Windley on designing application authorization — RBAC, ABAC, ReBAC, and policy engines.
+
 ### Azure Cloud Security
 
 [Microsoft Cybersecurity Architect Exam Ref SC-100 - Second Edition](https://learning.oreilly.com/library/view/-/9781836208518/) :star:
@@ -114,6 +126,12 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 > A comprehensive academic foundation spanning the breadth of information security.
 
+[Adversarial Cloud Security](https://learning.oreilly.com/library/view/-/9783112232620/)
+
+<img src="https://learning.oreilly.com/covers/9783112232620/" width="380" height="550" />
+
+> Cloud security from the attacker's perspective — attack paths through identity, misconfiguration, and workloads, and how to defend them.
+
 # ***Courses*** :computer:
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/) :star:
@@ -151,6 +169,30 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 <img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.
+
+[Microsoft Sentinel Security Operations - SC-200, KQL, SIEM & Security Copilot](https://learning.oreilly.com/videos/-/9781808653292/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781808653292/" width="380" height="550" />
+
+> Hands-on Microsoft Sentinel for SC-200 — KQL hunting, analytics rules, automation, and Security Copilot.
+
+[Application Security Essentials for Vibe Coders](https://learning.oreilly.com/videos/-/9781808651052/)
+
+<img src="https://learning.oreilly.com/covers/9781808651052/" width="380" height="550" />
+
+> Security essentials for developers shipping AI-generated code — common vulnerabilities and how to catch them.
+
+[Secure Software Maturity: CMMI, Secure-by-Design, and DevSecOps Foundations](https://learning.oreilly.com/videos/-/9781808825118/)
+
+<img src="https://learning.oreilly.com/covers/9781808825118/" width="380" height="550" />
+
+> Building a secure software development program with CMMI, Secure-by-Design principles, and DevSecOps practices.
+
+[Agentic AI for Cybersecurity](https://learning.oreilly.com/videos/-/9780135887837/)
+
+<img src="https://learning.oreilly.com/covers/9780135887837/" width="380" height="550" />
+
+> Omar Santos on applying AI agents to security operations — and on securing those agents.
 
 # ***Resources*** :bookmark_tabs:
 

@@ -90,6 +90,18 @@ A curated path through modern artificial intelligence — from the math foundati
 
 > Mike Taylor on moving beyond hand-tuned prompts — programming and optimizing LLM context with the DSPy framework.
 
+[Evals for AI Engineers](https://learning.oreilly.com/library/view/-/9798341660717/) :star:
+
+<img src="https://learning.oreilly.com/covers/9798341660717/" width="380" height="550" />
+
+> Shreya Shankar and Hamel Husain's practical playbook for evaluating LLM applications — error analysis, LLM-as-judge, and eval-driven iteration.
+
+[Fine-Tuning AI](https://learning.oreilly.com/library/view/-/0642572310455/)
+
+<img src="https://learning.oreilly.com/covers/0642572310455/" width="380" height="550" />
+
+> Laurence Moroney on when and how to fine-tune models — data preparation, parameter-efficient methods, and evaluating the results.
+
 ### AI Agents
 
 [An Illustrated Guide to AI Agents](https://learning.oreilly.com/library/view/-/9798341662681/) :star:
@@ -139,6 +151,30 @@ A curated path through modern artificial intelligence — from the math foundati
 <img src="https://learning.oreilly.com/covers/9781835087060/" width="380" height="550" />
 
 > Combine LLMs, retrieval, and knowledge graphs to build capable, well-grounded autonomous agents.
+
+[AI Agents: The Definitive Guide](https://learning.oreilly.com/library/view/-/0642572247775/) :star:
+
+<img src="https://learning.oreilly.com/covers/0642572247775/" width="380" height="550" />
+
+> Nicole Koenigstein's comprehensive reference on agent architectures, planning, tool use, memory, and multi-agent coordination.
+
+[AI Agents with MCP](https://learning.oreilly.com/library/view/-/9798341639546/)
+
+<img src="https://learning.oreilly.com/covers/9798341639546/" width="380" height="550" />
+
+> Building agents on the Model Context Protocol — writing MCP servers and clients and wiring tools and data into agents.
+
+[Agentic GraphRAG](https://learning.oreilly.com/library/view/-/9798341623163/)
+
+<img src="https://learning.oreilly.com/covers/9798341623163/" width="380" height="550" />
+
+> Combining knowledge graphs with agentic retrieval so agents can reason over connected, structured enterprise data.
+
+[Building AI Agent Platforms](https://learning.oreilly.com/library/view/-/0642572243906/)
+
+<img src="https://learning.oreilly.com/covers/0642572243906/" width="380" height="550" />
+
+> Designing the shared platform layer for agents at an organization — runtimes, tool registries, identity, observability, and governance.
 
 ### AI Engineering & Production
 
@@ -196,6 +232,36 @@ A curated path through modern artificial intelligence — from the math foundati
 
 > Threat-modelling and defending LLM and agent systems — prompt injection, tool abuse, data exfiltration, and red teaming.
 
+[Agentic Engineering](https://learning.oreilly.com/library/view/-/0642572392291/) :star:
+
+<img src="https://learning.oreilly.com/covers/0642572392291/" width="380" height="550" />
+
+> Addy Osmani on the discipline of building software with coding agents — specs, context, review loops, and keeping quality high.
+
+[AI-Native Software Engineering](https://learning.oreilly.com/library/view/-/0642572352530/)
+
+<img src="https://learning.oreilly.com/covers/0642572352530/" width="380" height="550" />
+
+> How the software development lifecycle changes when AI is built in from the start — design, testing, and team workflows.
+
+[Building Reliable AI Systems](https://learning.oreilly.com/library/view/-/9781633436732/)
+
+<img src="https://learning.oreilly.com/covers/9781633436732/" width="380" height="550" />
+
+> Engineering LLM applications for production reliability — guardrails, fallbacks, monitoring, and failure-mode testing.
+
+[Data Engineering for Multimodal AI](https://learning.oreilly.com/library/view/-/9781098190774/)
+
+<img src="https://learning.oreilly.com/covers/9781098190774/" width="380" height="550" />
+
+> Building data pipelines for text, image, audio, and video that feed multimodal model training and retrieval.
+
+[AI Engineering Interviews](https://learning.oreilly.com/library/view/-/9798341623521/)
+
+<img src="https://learning.oreilly.com/covers/9798341623521/" width="380" height="550" />
+
+> Interview preparation for AI/ML engineering roles — LLM fundamentals, system design, and worked practice questions.
+
 # ***Courses*** :computer:
 
 [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
@@ -251,6 +317,36 @@ A curated path through modern artificial intelligence — from the math foundati
 <img src="https://learning.oreilly.com/covers/9780135979952/" width="380" height="550" />
 
 > Jon Krohn hosts practitioners on turning AI pilots into measurable business return.
+
+[Introduction to Transformer Models for NLP, 2nd Edition](https://learning.oreilly.com/videos/-/9780135565124/)
+
+<img src="https://learning.oreilly.com/covers/9780135565124/" width="380" height="550" />
+
+> Sinan Ozdemir's updated video course on transformers — attention, BERT/GPT-style models, fine-tuning, and modern LLM usage.
+
+[Build an AI Agent (from Scratch): Coding Video](https://learning.oreilly.com/videos/-/10000MNVC2026113/)
+
+<img src="https://learning.oreilly.com/covers/10000MNVC2026113/" width="380" height="550" />
+
+> Code a working AI agent step by step without frameworks, so you understand the loop, tools, and memory under the hood.
+
+[AI On-Prem Deployment](https://learning.oreilly.com/videos/-/9780135894217/)
+
+<img src="https://learning.oreilly.com/covers/9780135894217/" width="380" height="550" />
+
+> Sander van Vugt on running models on your own infrastructure — hardware, serving stacks, and operating local LLMs.
+
+[Software Development Superstream: From AI Conductor to AI Orchestrator](https://learning.oreilly.com/videos/-/0642572361594/)
+
+<img src="https://learning.oreilly.com/covers/0642572361594/" width="380" height="550" />
+
+> Sam Newman, Addy Osmani, Chris Ford and others on moving from pairing with one AI assistant to orchestrating fleets of agents.
+
+[AI Codecon: Building with Open Source AI](https://learning.oreilly.com/videos/-/0642572416713/)
+
+<img src="https://learning.oreilly.com/covers/0642572416713/" width="380" height="550" />
+
+> Tim O'Reilly, Addy Osmani, Gene Kim and others on building with open-weight models and open-source AI tooling.
 
 # ***Free Learning Resources*** :free:
 

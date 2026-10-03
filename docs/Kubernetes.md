@@ -66,6 +66,18 @@ Container orchestration with Kubernetes — from first pods to production operat
 
 > Run and serve LLMs and generative-AI workloads on Kubernetes — GPUs, model serving, and scaling.
 
+[Kubernetes Everywhere: Managing Professional Kubernetes Clusters and Applications](https://learning.oreilly.com/library/view/-/9780137944040/)
+
+<img src="https://learning.oreilly.com/covers/9780137944040/" width="380" height="550" />
+
+> Christopher Negus on running production Kubernetes across clouds, on-prem, and the edge.
+
+[Certified Kubernetes Networking Engineer (CKNE) Study Guide](https://learning.oreilly.com/library/view/-/0642572383350/)
+
+<img src="https://learning.oreilly.com/covers/0642572383350/" width="380" height="550" />
+
+> Preparation for the new CKNE certification — CNI, services, ingress and Gateway API, network policy, and service mesh.
+
 # ***Courses*** :computer:
 
 [Kubernetes: From Basics to Guru](https://learning.oreilly.com/course/kubernetes-from-basics/9780138268510/)
@@ -115,6 +127,18 @@ Container orchestration with Kubernetes — from first pods to production operat
 <img src="https://learning.oreilly.com/covers/9781837023035/" width="380" height="550" />
 
 > Real-world Kubernetes practice that goes past the certification syllabus into production scenarios.
+
+[Build & Scale AI Workloads on Kubernetes](https://learning.oreilly.com/videos/-/9781808652479/)
+
+<img src="https://learning.oreilly.com/covers/9781808652479/" width="380" height="550" />
+
+> Deploying and autoscaling AI and LLM workloads on Kubernetes — GPUs, model serving, and resource management.
+
+[Hands-On Amazon EKS with Terraform – Build, Secure, and Operate Kubernetes Clusters on AWS](https://learning.oreilly.com/videos/-/9781808817311/)
+
+<img src="https://learning.oreilly.com/covers/9781808817311/" width="380" height="550" />
+
+> Provision, secure, and operate EKS clusters end to end with Terraform.
 
 # ***Resources*** :bookmark_tabs:
 

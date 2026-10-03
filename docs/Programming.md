@@ -88,6 +88,12 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > Zed Shaw's drill-based approach that builds programming muscle memory through deliberate, repeated practice.
 
+[AI-Assisted Python for Nonprogrammers](https://learning.oreilly.com/library/view/-/9798341661622/)
+
+<img src="https://learning.oreilly.com/covers/9798341661622/" width="380" height="550" />
+
+> Reuven Lerner teaches Python to newcomers with an AI assistant at their side — prompting for code and still understanding it.
+
 ### JavaScript & TypeScript
 
 [Eloquent JavaScript, 4th Edition](https://learning.oreilly.com/library/view/eloquent-javascript-4th/9781098182502/) :star:
@@ -162,6 +168,24 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > A gentle, practical start with Vue 3 and the Composition API for building reactive interfaces.
 
+[Fluent Web Development](https://learning.oreilly.com/library/view/-/9798341608672/)
+
+<img src="https://learning.oreilly.com/covers/9798341608672/" width="380" height="550" />
+
+> Stefan Baumgartner on modern, standards-based web development with today's platform features.
+
+[React Design Patterns and Best Practices - Fifth Edition](https://learning.oreilly.com/library/view/-/9781806108251/)
+
+<img src="https://learning.oreilly.com/covers/9781806108251/" width="380" height="550" />
+
+> Patterns for structuring modern React apps — components, hooks, state management, and performance.
+
+[Real-World Next.js - Second Edition](https://learning.oreilly.com/library/view/-/9781807424459/)
+
+<img src="https://learning.oreilly.com/covers/9781807424459/" width="380" height="550" />
+
+> Building production Next.js apps — rendering strategies, data fetching, routing, and deployment.
+
 ### Java
 
 [Learning Java, 6th Edition](https://learning.oreilly.com/library/view/learning-java-6th/9781098145521/) :star:
@@ -206,6 +230,18 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > Scott Oaks on diagnosing and tuning JVM performance — garbage collection, JIT, threading, and memory.
 
+[Java in a Nutshell, 9th Edition](https://learning.oreilly.com/library/view/-/0642572255992/)
+
+<img src="https://learning.oreilly.com/covers/0642572255992/" width="380" height="550" />
+
+> The updated quick reference to the Java language and core platform, covering the latest LTS releases.
+
+[Learning Spring Boot 4 - Fourth Edition](https://learning.oreilly.com/library/view/-/9781807427115/)
+
+<img src="https://learning.oreilly.com/covers/9781807427115/" width="380" height="550" />
+
+> Getting productive with Spring Boot 4 — web apps, data access, security, testing, and deployment.
+
 ### Go
 
 [Learning Go, 2nd Edition](https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/) :star:
@@ -238,6 +274,18 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 > Build secure, performant networked services in Go, from sockets and protocols up to production concerns.
 
+[Learning Go, 3rd Edition](https://learning.oreilly.com/library/view/-/0642572348533/) :star:
+
+<img src="https://learning.oreilly.com/covers/0642572348533/" width="380" height="550" />
+
+> Jon Bodner's idiomatic introduction to Go, updated for the latest language features.
+
+[Go in Action, Second Edition](https://learning.oreilly.com/library/view/-/9781633439702/)
+
+<img src="https://learning.oreilly.com/covers/9781633439702/" width="380" height="550" />
+
+> The updated Manning classic from Bill Kennedy and coauthors — Go's types, concurrency, and standard library in practice.
+
 # ***Courses*** :computer:
 
 ### General & Foundations
@@ -250,7 +298,7 @@ A focused collection for the four languages this repo prioritises — **Python, 
 
 ### Python
 
-[Python Fundamentals with Paul Deitel](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
+[Python Fundamentals with Paul Deitel, 2nd Edition](https://learning.oreilly.com/videos/-/9780135917411/)
 
 <img src="https://learning.oreilly.com/covers/9780135917411/" width="380" height="550" />
 
@@ -273,6 +321,12 @@ A focused collection for the four languages this repo prioritises — **Python, 
 <img src="https://learning.oreilly.com/covers/9781839217289/" width="380" height="550" />
 
 > A broad, hands-on course spanning Python fundamentals through web scraping, APIs, and automation.
+
+[Complete Python Developer in 2026: Zero to Mastery](https://learning.oreilly.com/videos/-/9781808659133/)
+
+<img src="https://learning.oreilly.com/covers/9781808659133/" width="380" height="550" />
+
+> Andrei Neagoie's long-form bootcamp from Python basics to web development, automation, and testing.
 
 ### JavaScript & TypeScript
 
@@ -317,6 +371,18 @@ A focused collection for the four languages this repo prioritises — **Python, 
 <img src="https://learning.oreilly.com/covers/9781788992817/" width="380" height="550" />
 
 > A full Vue course covering the Composition API, routing, and state management.
+
+[The Ultimate 2026 Fullstack Web Development Bootcamp](https://learning.oreilly.com/videos/-/9781808653391/)
+
+<img src="https://learning.oreilly.com/covers/9781808653391/" width="380" height="550" />
+
+> A full-stack bootcamp covering HTML, CSS, JavaScript, back-end services, and deployment.
+
+[Playwright Testing with JavaScript Zero to Hero](https://learning.oreilly.com/videos/-/9781808728419/)
+
+<img src="https://learning.oreilly.com/covers/9781808728419/" width="380" height="550" />
+
+> End-to-end browser testing with Playwright and JavaScript, from first test to CI integration.
 
 ### Java
 
