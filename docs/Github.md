@@ -112,6 +112,12 @@ GitHub's AI pair programmer — these books and courses cover prompting, chat, a
 
 > A practical, lab-driven course that builds real-world CI/CD pipelines with GitHub Actions step by step.
 
+[Python Test Automation with Pytest and GitHub Actions CI/CD](https://learning.oreilly.com/videos/-/9781808767937/)
+
+<img src="https://learning.oreilly.com/covers/9781808767937/" width="380" height="550" />
+
+> Write pytest suites and run them automatically in GitHub Actions pipelines.
+
 ### GitHub Copilot
 
 [Learn GitHub Copilot by Example](https://learning.oreilly.com/videos/-/9780135315651/) :star:
@@ -131,6 +137,18 @@ GitHub's AI pair programmer — these books and courses cover prompting, chat, a
 <img src="https://learning.oreilly.com/covers/9781806382279/" width="380" height="550" />
 
 > A concise, hands-on course on applying Copilot to real coding workflows.
+
+[Master AI-Assisted Development with GitHub Copilot](https://learning.oreilly.com/videos/-/9781808498497/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781808498497/" width="380" height="550" />
+
+> Michelle Sandford's focused course on getting real productivity from Copilot — chat, agent mode, and workflow habits.
+
+[AI Software Testing: ChatGPT & GitHub Copilot for QA](https://learning.oreilly.com/videos/-/9781808722554/)
+
+<img src="https://learning.oreilly.com/covers/9781808722554/" width="380" height="550" />
+
+> Using Copilot and ChatGPT to generate test cases, automation scripts, and test data for QA work.
 
 ### GitHub Enterprise & Administration
 

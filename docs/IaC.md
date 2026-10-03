@@ -34,6 +34,12 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 > Builds real infrastructure with Terraform through practical, project-driven chapters and patterns.
 
+[Terraform at Scale](https://learning.oreilly.com/library/view/-/9798341649705/) :star:
+
+<img src="https://learning.oreilly.com/covers/9798341649705/" width="380" height="550" />
+
+> Robert Glenn on running Terraform across many teams and environments — module design, state strategy, testing, and governance.
+
 ### Configuration Management (Ansible)
 
 [Ansible: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098109141/) :star:
@@ -87,6 +93,36 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 <img src="https://learning.oreilly.com/covers/9781806673216/" width="380" height="550" />
 
 > Use AI assistants to accelerate writing, refactoring, and maintaining IaC and cloud automation.
+
+[Terraform: The Complete Training](https://learning.oreilly.com/videos/-/9780135936276/)
+
+<img src="https://learning.oreilly.com/covers/9780135936276/" width="380" height="550" />
+
+> Dave Prowse's comprehensive Terraform course, from first configuration to modules, state, and workflows.
+
+[Terraform Infrastructure Automation](https://learning.oreilly.com/videos/-/9780135936450/)
+
+<img src="https://learning.oreilly.com/covers/9780135936450/" width="380" height="550" />
+
+> Automating infrastructure delivery with Terraform — pipelines, remote state, and reusable modules.
+
+[Terraform Essentials for AWS](https://learning.oreilly.com/videos/-/9780135936290/)
+
+<img src="https://learning.oreilly.com/covers/9780135936290/" width="380" height="550" />
+
+> Provisioning core AWS services with Terraform — networking, compute, storage, and IAM.
+
+[Terragrunt for DevOps: Scale Your Terraform Workflows](https://learning.oreilly.com/videos/-/9781808659379/)
+
+<img src="https://learning.oreilly.com/covers/9781808659379/" width="380" height="550" />
+
+> Using Terragrunt to keep multi-environment Terraform code DRY and manageable.
+
+[Red Hat Ansible Automation Training – RHEL 9 (RH294)](https://learning.oreilly.com/videos/-/9781808657559/)
+
+<img src="https://learning.oreilly.com/covers/9781808657559/" width="380" height="550" />
+
+> Ansible automation for RHEL 9 following the RH294 curriculum — playbooks, roles, and managing fleets.
 
 # ***Free Learning Resources*** :free:
 

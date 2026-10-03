@@ -76,6 +76,24 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 > A worked-example guide to building data-integration and ETL pipelines with Azure Data Factory.
 
+[Learning Microsoft Azure, 2nd Edition](https://learning.oreilly.com/library/view/-/0642572274276/)
+
+<img src="https://learning.oreilly.com/covers/0642572274276/" width="380" height="550" />
+
+> The updated edition of Jonah Carrio Andersson's Azure introduction, now covering Azure's AI services.
+
+[Serverless Distributed Systems in Modern .NET and Azure](https://learning.oreilly.com/library/view/-/9798868828393/)
+
+<img src="https://learning.oreilly.com/covers/9798868828393/" width="380" height="550" />
+
+> Building resilient, event-driven .NET applications with Azure Functions, Service Bus, and Event Grid.
+
+[Building Trusted Data Platforms with Azure Databricks and GenAI - Second Edition](https://learning.oreilly.com/library/view/-/9781806679775/)
+
+<img src="https://learning.oreilly.com/covers/9781806679775/" width="380" height="550" />
+
+> Designing governed lakehouse data platforms on Azure Databricks, with generative AI built in.
+
 ### AWS
 
 [AWS for Solutions Architects - Third Edition](https://learning.oreilly.com/library/view/-/9781836641933/)
@@ -102,6 +120,12 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 > Build and deploy generative-AI workloads on AWS with Bedrock, SageMaker, and foundation models.
 
+[AWS Certified CloudOps Engineer Study Guide](https://learning.oreilly.com/library/view/-/9781394419135/)
+
+<img src="https://learning.oreilly.com/covers/9781394419135/" width="380" height="550" />
+
+> Sybex study guide for the AWS CloudOps Engineer – Associate exam, the successor to SysOps Administrator.
+
 ### Google cloud
 
 [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://learning.oreilly.com/library/view/official-google-cloud/9781119944461/)
@@ -115,6 +139,12 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 <img src="https://learning.oreilly.com/covers/9798341623842/" width="380" height="550" />
 
 > Build generative-AI applications on Google Cloud with Vertex AI and the Gemini family of models.
+
+[Google Professional Cloud Architect Study Guide](https://learning.oreilly.com/library/view/-/9781098154752/)
+
+<img src="https://learning.oreilly.com/covers/9781098154752/" width="380" height="550" />
+
+> Patrick Haggerty's study guide for the Professional Cloud Architect exam — designing, securing, and operating GCP solutions.
 
 ### Multicloud
 
@@ -244,6 +274,18 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 
 > Introduces core AI and Azure AI service concepts for the AI-900 certification.
 
+[Modern AI Agent Development Using LangChain and Microsoft Azure](https://learning.oreilly.com/videos/-/9781808659737/)
+
+<img src="https://learning.oreilly.com/covers/9781808659737/" width="380" height="550" />
+
+> Houssem Dellai builds AI agents with LangChain on Azure OpenAI and the surrounding Azure services.
+
+[Azure Fabric Data Engineer CERT (DP-700) + PRACTICE QNS](https://learning.oreilly.com/videos/-/9781808654893/)
+
+<img src="https://learning.oreilly.com/covers/9781808654893/" width="380" height="550" />
+
+> DP-700 exam preparation for Microsoft Fabric data engineering, with practice questions.
+
 ### AWS
 
 [Amazon Web Services (AWS), 3rd Edition](https://learning.oreilly.com/course/amazon-web-services/9780137928521/)
@@ -269,6 +311,12 @@ The primary focus of this collection. Work top-down: start with fundamentals and
 <img src="https://learning.oreilly.com/covers/9781836203414/" width="380" height="550" />
 
 > An in-depth course on S3 — storage classes, security, lifecycle, performance, and cost optimization.
+
+[AWS Core Infrastructure Services (Video Collection)](https://learning.oreilly.com/videos/-/9780136176626/)
+
+<img src="https://learning.oreilly.com/covers/9780136176626/" width="380" height="550" />
+
+> Chad Smith's video collection on AWS core infrastructure — compute, storage, networking, and databases.
 
 ### Google cloud
 
