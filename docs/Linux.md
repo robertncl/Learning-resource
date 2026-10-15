@@ -10,31 +10,37 @@ From first commands to kernel internals — a path through using, administering,
 
 [How Linux Works, 3rd Edition](https://learning.oreilly.com/library/view/how-linux-works/9781098128913/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098128913/files/image_fi/book_art/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098128913/800w/" width="380" height="550" />
 
 > Brian Ward's clear, modern explanation of what's actually happening under the hood — boot, processes, filesystems, and networking.
 
-[The Linux Command Line, 2nd Edition](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/)
+[The Linux Command Line, 3rd Edition](https://learning.oreilly.com/library/view/-/0642572230227/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781492071235/files/images/9781593279530.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/0642572230227/800w/" width="380" height="550" />
 
-> The friendliest path to real command-line fluency — shell, pipelines, and scripting from the ground up.
+> William Shotts's friendliest path to real command-line fluency — shell, pipelines, and scripting from the ground up, freshly updated.
+
+[Linux Pocket Guide, 4th Edition](https://learning.oreilly.com/library/view/-/9781098157951/)
+
+<img src="https://learning.oreilly.com/covers/9781098157951/800w/" width="380" height="550" />
+
+> Daniel J. Barrett's compact, task-organized reference to the most useful Linux commands — ideal to keep at hand.
 
 [Learning Modern Linux](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098108939/files/assets/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098108939/800w/" width="380" height="550" />
 
 > Michael Hausenblas brings Linux up to date for the cloud-native era — containers, systemd, and modern tooling.
 
 [Linux Basics for Hackers, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341655102/)
 
-<img src="https://learning.oreilly.com/covers/9798341655102/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798341655102/800w/" width="380" height="550" />
 
 > A hands-on, security-flavored introduction to Linux for aspiring pentesters and ethical hackers.
 
 [CompTIA Linux+ Study Guide](https://learning.oreilly.com/library/view/-/9798341647107/)
 
-<img src="https://learning.oreilly.com/covers/9798341647107/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798341647107/800w/" width="380" height="550" />
 
 > O'Reilly's study guide for the CompTIA Linux+ exam — system management, security, scripting, and troubleshooting.
 
@@ -42,31 +48,31 @@ From first commands to kernel internals — a path through using, administering,
 
 [UNIX and Linux System Administration Handbook, 5th Edition](https://learning.oreilly.com/library/view/unix-and-linux/9780134278308/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780134278308/files/image/Front-Cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780134278308/800w/" width="380" height="550" />
 
 > The definitive, wide-ranging reference for system administrators — the book that lives on every sysadmin's desk.
 
 [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780136821694/files/graphics/9780136821656.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780136821694/800w/" width="380" height="550" />
 
 > Brendan Gregg's masterwork on analyzing and tuning performance across CPU, memory, disk, and network — methodology and tools.
 
 [Linux for Networking Professionals - Second Edition](https://learning.oreilly.com/library/view/-/9781835881101/)
 
-<img src="https://learning.oreilly.com/covers/9781835881101/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781835881101/800w/" width="380" height="550" />
 
 > Using Linux as a network platform — configuration, diagnostics, services, and securing network infrastructure.
 
 [DevSecOps and DevOps for Linux: The Foundations](https://learning.oreilly.com/library/view/-/9798868820779/)
 
-<img src="https://learning.oreilly.com/covers/9798868820779/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798868820779/800w/" width="380" height="550" />
 
 > Building secure, automated Linux environments as the foundation for DevOps and DevSecOps practices.
 
 [Agentic AI for Linux Administration](https://learning.oreilly.com/library/view/-/9781808724794/)
 
-<img src="https://learning.oreilly.com/covers/9781808724794/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808724794/800w/" width="380" height="550" />
 
 > A short guide to using AI agents for routine Linux administration, diagnosis, and automation.
 
@@ -74,31 +80,25 @@ From first commands to kernel internals — a path through using, administering,
 
 [Linux System Programming, 2nd Edition](https://learning.oreilly.com/library/view/linux-system-programming/9781449341527/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781449341527/files/orm_front_cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781449341527/800w/" width="380" height="550" />
 
 > A superb introduction to programming directly against the Linux system call interface — files, processes, signals, and memory.
 
 [The Linux Programming Interface](https://learning.oreilly.com/library/view/the-linux-programming/9781593272203/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781593272203/files/images/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781593272203/800w/" width="380" height="550" />
 
 > Michael Kerrisk's monumental, exhaustive reference to Linux and UNIX system programming — the definitive syscall encyclopedia.
 
 [System Programming in Linux](https://learning.oreilly.com/library/view/-/0642572230128/)
 
-<img src="https://learning.oreilly.com/covers/0642572230128/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/0642572230128/800w/" width="380" height="550" />
 
 > A modern, comprehensive course in Linux system programming, with deep coverage of processes, IPC, threads, and I/O.
 
-[Understanding the Linux Kernel, 3rd Edition](https://learning.oreilly.com/library/view/-/0596005652/)
-
-<img src="https://learning.oreilly.com/covers/0596005652/" width="380" height="550" />
-
-> A classic guided tour of how the kernel actually works — scheduling, memory management, and the virtual filesystem.
-
 [Linux Kernel Programming - Second Edition](https://learning.oreilly.com/library/view/-/9781803232225/)
 
-<img src="https://learning.oreilly.com/covers/9781803232225/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781803232225/800w/" width="380" height="550" />
 
 > A hands-on guide to writing kernel modules and drivers, covering the modern kernel build, memory, and synchronization.
 
@@ -106,43 +106,37 @@ From first commands to kernel internals — a path through using, administering,
 
 [Linux Under the Hood, 2nd Edition](https://learning.oreilly.com/course/linux-under-the/9780138293321/) :star:
 
-<img src="https://learning.oreilly.com/covers/9780138293321/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780138293321/800w/" width="380" height="550" />
 
 > A deep video course on how Linux works internally — ideal for engineers who want more than surface-level command knowledge.
 
 [Linux Fundamentals, 3rd Edition](https://learning.oreilly.com/videos/-/9780135465363/)
 
-<img src="https://learning.oreilly.com/covers/9780135465363/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135465363/800w/" width="380" height="550" />
 
 > Sander van Vugt's well-regarded, up-to-date introduction to working productively on Linux.
 
-[RHCSA (RHEL 9) Complete Course with Exam Labs (Video Collection)](https://learning.oreilly.com/course/rhcsa-rhel-9/9780135397237/)
-
-<img src="https://learning.oreilly.com/covers/9780135397237/" width="380" height="550" />
-
-> Full preparation for the Red Hat Certified System Administrator exam on RHEL 9, with hands-on labs.
-
 [Red Hat RHCSA RHEL 10 with Exam Labs - Pearson Cert Prep (Video)](https://learning.oreilly.com/videos/-/9780135493137/)
 
-<img src="https://learning.oreilly.com/covers/9780135493137/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135493137/800w/" width="380" height="550" />
 
 > The latest RHCSA prep on RHEL 10, with exam-style labs and scenarios.
 
 [Linux Foundation Certified System Administrator (LFCS), 3rd Edition](https://learning.oreilly.com/videos/-/9780138230678/)
 
-<img src="https://learning.oreilly.com/covers/9780138230678/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780138230678/800w/" width="380" height="550" />
 
 > Distribution-neutral administration training mapped to the vendor-neutral LFCS certification.
 
-[CompTIA Linux+ (XK0-005)](https://learning.oreilly.com/course/comptia-linux-xk0-005/9781835884768/)
+[CompTIA Linux+ (XK0-006) - The Total Course](https://learning.oreilly.com/videos/-/9781807782795/)
 
-<img src="https://learning.oreilly.com/covers/9781835884768/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781807782795/800w/" width="380" height="550" />
 
-> Prepares you for the vendor-neutral CompTIA Linux+ certification covering administration, scripting, and security.
+> Total Seminars' complete video prep for the current XK0-006 Linux+ exam — administration, security, scripting, and troubleshooting.
 
 [Red Hat Training and Certification - RHEL 9 (RH134)](https://learning.oreilly.com/videos/-/9781808651090/)
 
-<img src="https://learning.oreilly.com/covers/9781808651090/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808651090/800w/" width="380" height="550" />
 
 > The RH134 System Administration II curriculum for RHEL 9 — storage, scripting, SELinux, and networking.
 
@@ -158,7 +152,7 @@ Top free, community-recommended videos and articles to complement the books and 
 ### :page_facing_up: Articles, Docs & Hands-On
 
 * [The Linux Command Line — free PDF book (William Shotts)](https://linuxcommand.org/tlcl.php) :star: — the definitive, freely downloadable book on the shell and scripting.
-* [Linux Journey — free interactive lessons](https://linuxjourney.com/) — bite-sized, hands-on lessons from basics to networking and the kernel.
+* [Linux Journey — free interactive lessons](https://labex.io/linuxjourney) — bite-sized, hands-on lessons from basics to networking and the kernel.
 * [Linux command line tutorial (freeCodeCamp)](https://www.freecodecamp.org/news/linux-command-line-tutorial/) — a concise reference to the most-used commands and operators.
 * [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) :star: — learn the shell by playing a guided wargame, level by level.
 * [Ryan's Tutorials — Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) — a friendly, beginner-focused walkthrough of the command line.

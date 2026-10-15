@@ -10,49 +10,49 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 [The Phoenix Project](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781457191350/files/image/cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781457191350/800w/" width="380" height="550" />
 
 > The best-selling business novel that follows an IT manager rescuing a doomed project — the story-driven introduction to DevOps thinking and flow.
 
 [The Unicorn Project](https://learning.oreilly.com/library/view/the-unicorn-project/9781098124175/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098124175/files/images/Cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098124175/800w/" width="380" height="550" />
 
 > A companion novel told from a developer's seat, dramatizing the "Five Ideals" of productivity, psychological safety, and modern engineering.
 
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781457191435/files/images/cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781457191435/800w/" width="380" height="550" />
 
 > The research behind high-performing teams — the four DORA metrics and the capabilities that actually drive software delivery performance.
 
 [The DevOps Handbook, 2nd Edition](https://learning.oreilly.com/library/view/the-devops-handbook/9781098182281/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098182281/files/images/Cover.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098182281/800w/" width="380" height="550" />
 
 > The definitive practitioner playbook for the principles of flow, feedback, and continual learning across the whole value stream.
 
 [Fundamentals of DevOps and Software Delivery](https://learning.oreilly.com/library/view/-/9781098174583/)
 
-<img src="https://learning.oreilly.com/covers/9781098174583/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098174583/800w/" width="380" height="550" />
 
 > Yevgeniy Brikman's modern, hands-on walkthrough of taking software from a commit all the way to production — safely and repeatably.
 
 [Lean DevOps: A Practical Guide to On Demand Service Delivery](https://learning.oreilly.com/library/view/lean-devops-a/9780133853643/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780133853643/files/graphics/9780133853667.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780133853643/800w/" width="380" height="550" />
 
 > Applies lean principles to operations to deliver reliable, on-demand services without drowning teams in process.
 
 [The DevOps Solutions Handbook](https://learning.oreilly.com/library/view/-/9781835880722/)
 
-<img src="https://learning.oreilly.com/covers/9781835880722/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781835880722/800w/" width="380" height="550" />
 
 > Michael Cade's problem-and-solution guide to common DevOps challenges across pipelines, platforms, and data protection.
 
 [LLMs for Modern Software Delivery and DevOps](https://learning.oreilly.com/library/view/-/9781807609191/)
 
-<img src="https://learning.oreilly.com/covers/9781807609191/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781807609191/800w/" width="380" height="550" />
 
 > Applying LLMs across the delivery lifecycle — pipeline automation, incident triage, and AI-assisted operations.
 
@@ -60,75 +60,75 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780321670250/files/graphics/9780321670229.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780321670250/800w/" width="380" height="550" />
 
 > The foundational text on automating build, test, and deployment so you can release software reliably and frequently.
 
 [Learning Continuous Integration with Jenkins - Third Edition](https://learning.oreilly.com/library/view/learning-continuous-integration/9781835087732/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781835087732/files/image/Cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781835087732/800w/" width="380" height="550" />
 
 > A hands-on guide to building robust CI/CD pipelines with Jenkins, updated for modern cloud-native workflows.
 
 [Full Stack Testing, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341636934/)
 
-<img src="https://learning.oreilly.com/covers/9798341636934/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798341636934/800w/" width="380" height="550" />
 
 > Gayathri Mohan's updated guide to testing every layer of an application and building those tests into CI/CD.
 
 [Azure DevOps Explained - Second Edition](https://learning.oreilly.com/library/view/-/9781803238937/)
 
-<img src="https://learning.oreilly.com/covers/9781803238937/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781803238937/800w/" width="380" height="550" />
 
 > Boards, Repos, Pipelines, and Artifacts — planning and shipping software end to end with Azure DevOps.
 
 ### SRE, Observability & Platform Engineering
 
-[Site Reliability Engineering](https://learning.oreilly.com/library/view/-/9781491929117/) :star:
+[Observability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/-/9781098179915/)
 
-<img src="https://learning.oreilly.com/covers/9781491929117/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098179915/800w/" width="380" height="550" />
 
-> Google's seminal book on running large-scale production systems with SLOs, error budgets, toil reduction, and automation.
-
-[Observability Engineering](https://learning.oreilly.com/library/view/-/9781492076438/)
-
-<img src="https://learning.oreilly.com/covers/9781492076438/" width="380" height="550" />
-
-> How to instrument modern systems for high-cardinality, event-based observability that goes far beyond traditional dashboards and alerts.
+> Charity Majors, Liz Fong-Jones, and George Miranda's updated guide to high-cardinality, event-based observability that goes far beyond dashboards and alerts.
 
 [Platform Engineering](https://learning.oreilly.com/library/view/-/9781098153632/)
 
-<img src="https://learning.oreilly.com/covers/9781098153632/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098153632/800w/" width="380" height="550" />
 
 > Camille Fournier and Ian Nowland on building internal developer platforms that offer golden paths and self-service to engineering teams.
 
+[Effective Platform Engineering](https://learning.oreilly.com/library/view/-/9781633436497/)
+
+<img src="https://learning.oreilly.com/covers/9781633436497/800w/" width="380" height="550" />
+
+> A practical playbook for designing, building, and evolving an internal developer platform as a product.
+
 [Software Engineering at Google](https://learning.oreilly.com/library/view/-/9781492082781/)
 
-<img src="https://learning.oreilly.com/covers/9781492082781/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781492082781/800w/" width="380" height="550" />
 
 > The engineering practices, culture, and tooling that let Google sustain software development across decades and huge teams.
 
 [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341607675/) :star:
 
-<img src="https://learning.oreilly.com/covers/9798341607675/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798341607675/800w/" width="380" height="550" />
 
 > The long-awaited update to Google's SRE book — a decade of new practice on SLOs, incident response, and reliability at scale.
 
 [Platform Engineering at Google](https://learning.oreilly.com/library/view/-/9781098169428/)
 
-<img src="https://learning.oreilly.com/covers/9781098169428/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098169428/800w/" width="380" height="550" />
 
 > How Google builds and runs internal developer platforms — the principles, team structures, and lessons learned.
 
 [Agentic DevOps with Claude Code](https://learning.oreilly.com/library/view/-/9781808344190/)
 
-<img src="https://learning.oreilly.com/covers/9781808344190/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808344190/800w/" width="380" height="550" />
 
 > Using coding agents for infrastructure and operations work — pipelines, IaC changes, and incident runbooks.
 
 [Agentic AI for Platform Engineering](https://learning.oreilly.com/library/view/-/9781806386659/)
 
-<img src="https://learning.oreilly.com/covers/9781806386659/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781806386659/800w/" width="380" height="550" />
 
 > Adding AI agents to an internal developer platform for self-service provisioning, troubleshooting, and governance.
 
@@ -136,55 +136,55 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 [DevOps Complete Course](https://learning.oreilly.com/course/devops-complete-course/9781804615508/)
 
-<img src="https://learning.oreilly.com/covers/9781804615508/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781804615508/800w/" width="380" height="550" />
 
 > A broad, hands-on video course that walks through the core DevOps toolchain from end to end.
 
 [Practical DevOps Bootcamp for All](https://learning.oreilly.com/videos/-/9781806026418/)
 
-<img src="https://learning.oreilly.com/covers/9781806026418/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781806026418/800w/" width="380" height="550" />
 
 > A project-based bootcamp covering the modern DevOps workflow — version control, CI/CD, containers, and IaC — for newcomers.
 
 [CI/CD Pipelines with Jenkins Certification Training Course](https://learning.oreilly.com/videos/-/9781804616918/)
 
-<img src="https://learning.oreilly.com/covers/9781804616918/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781804616918/800w/" width="380" height="550" />
 
 > Focused training on designing, building, and operating Jenkins CI/CD pipelines, with certification prep.
 
 [Argo CD for the Absolute Beginners - Hands-On DevOps](https://learning.oreilly.com/videos/-/9781806025510/)
 
-<img src="https://learning.oreilly.com/covers/9781806025510/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781806025510/800w/" width="380" height="550" />
 
 > A hands-on introduction to GitOps-style continuous delivery on Kubernetes using Argo CD.
 
 [Cloud-Native - Microservices, Kubernetes, Service Mesh, CI/CD](https://learning.oreilly.com/course/cloud-native-microservices/9781837023332/)
 
-<img src="https://learning.oreilly.com/covers/9781837023332/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781837023332/800w/" width="380" height="550" />
 
 > An end-to-end tour of building and running cloud-native systems across microservices, Kubernetes, and service mesh.
 
 [DevOps to MLOps Bootcamp: Build & Deploy ML Systems End-to-End](https://learning.oreilly.com/videos/-/9781806118694/)
 
-<img src="https://learning.oreilly.com/covers/9781806118694/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781806118694/800w/" width="380" height="550" />
 
 > Extends familiar DevOps practices to building, deploying, and operating machine-learning systems (MLOps).
 
 [Breaking into DevOps Engineering](https://learning.oreilly.com/course/breaking-into-devops/0636920964124/)
 
-<img src="https://learning.oreilly.com/covers/0636920964124/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/0636920964124/800w/" width="380" height="550" />
 
 > Career-focused guidance and a practical roadmap for landing your first DevOps engineering role.
 
 [DevOps, DevSecOps, and Audit](https://learning.oreilly.com/videos/-/9781808657016/)
 
-<img src="https://learning.oreilly.com/covers/9781808657016/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808657016/800w/" width="380" height="550" />
 
 > DevOps and DevSecOps practices from an audit and controls perspective — risk, compliance, and assurance in fast pipelines.
 
 [The Art of Azure DevOps Project Administration and Project Governance (Hands-On)](https://learning.oreilly.com/videos/-/9781808819513/)
 
-<img src="https://learning.oreilly.com/covers/9781808819513/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808819513/800w/" width="380" height="550" />
 
 > A hands-on course on administering Azure DevOps organizations — projects, permissions, process templates, and governance.
 

@@ -10,7 +10,7 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [Infrastructure as Code, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098150341/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781098150341/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098150341/800w/" width="380" height="550" />
 
 > Kief Morris's foundational, tool-agnostic guide to IaC principles and patterns for reliable, change-friendly infrastructure.
 
@@ -18,25 +18,19 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [Terraform: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098116736/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781098116736/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098116736/800w/" width="380" height="550" />
 
 > Yevgeniy Brikman's standard hands-on introduction to Terraform — modules, state, testing, and team workflows.
 
 [Terraform in Depth](https://learning.oreilly.com/library/view/terraform-in-depth/9781633438002/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781633438002/files/OEBPS/Images/cover.jpeg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781633438002/800w/" width="380" height="550" />
 
 > A thorough, modern deep dive into Terraform internals, modules, and advanced real-world usage.
 
-[Terraform in Action](https://learning.oreilly.com/library/view/-/9781617296895/)
-
-<img src="https://learning.oreilly.com/covers/9781617296895/" width="380" height="550" />
-
-> Builds real infrastructure with Terraform through practical, project-driven chapters and patterns.
-
 [Terraform at Scale](https://learning.oreilly.com/library/view/-/9798341649705/) :star:
 
-<img src="https://learning.oreilly.com/covers/9798341649705/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9798341649705/800w/" width="380" height="550" />
 
 > Robert Glenn on running Terraform across many teams and environments — module design, state strategy, testing, and governance.
 
@@ -44,7 +38,7 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [Ansible: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/-/9781098109141/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781098109141/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098109141/800w/" width="380" height="550" />
 
 > The definitive guide to agentless configuration management and automation with Ansible — playbooks, roles, and collections.
 
@@ -52,7 +46,7 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [Infrastructure as Code with Pulumi](https://learning.oreilly.com/library/view/-/9781835467527/)
 
-<img src="https://learning.oreilly.com/covers/9781835467527/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781835467527/800w/" width="380" height="550" />
 
 > Define and manage cloud infrastructure using real programming languages (TypeScript, Python, Go) with Pulumi.
 
@@ -60,67 +54,61 @@ Provision and manage infrastructure through versioned, reviewable code — with 
 
 [HashiCorp Certified Terraform Associate (004)](https://learning.oreilly.com/videos/-/9780135909560/) :star:
 
-<img src="https://learning.oreilly.com/covers/9780135909560/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135909560/800w/" width="380" height="550" />
 
 > The latest exam-prep course for the Terraform Associate certification, with hands-on labs.
 
-[HashiCorp Certified Terraform Associate (003)](https://learning.oreilly.com/videos/-/9780138195366/)
-
-<img src="https://learning.oreilly.com/covers/9780138195366/" width="380" height="550" />
-
-> Exam preparation for the 003 version of the Terraform Associate certification.
-
 [Terraform in AWS from Basics to Guru (Video Collection)](https://learning.oreilly.com/videos/-/9780135378618/)
 
-<img src="https://learning.oreilly.com/covers/9780135378618/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135378618/800w/" width="380" height="550" />
 
 > A practical video path to provisioning and managing AWS infrastructure with Terraform.
 
 [Ansible: From Basics to Guru, 2nd Edition](https://learning.oreilly.com/videos/-/9780135460771/)
 
-<img src="https://learning.oreilly.com/covers/9780135460771/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135460771/800w/" width="380" height="550" />
 
 > Sander van Vugt's complete path from your first playbook to advanced Ansible automation.
 
 [Dive Into Ansible - From Beginner to Expert in Ansible](https://learning.oreilly.com/videos/-/9781801076937/)
 
-<img src="https://learning.oreilly.com/covers/9781801076937/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781801076937/800w/" width="380" height="550" />
 
 > A highly rated, hands-on Ansible course that takes you from zero to expert.
 
 [AI-Driven Infrastructure as Code (IaC) and Cloud Automation](https://learning.oreilly.com/videos/-/9781806673216/)
 
-<img src="https://learning.oreilly.com/covers/9781806673216/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781806673216/800w/" width="380" height="550" />
 
 > Use AI assistants to accelerate writing, refactoring, and maintaining IaC and cloud automation.
 
 [Terraform: The Complete Training](https://learning.oreilly.com/videos/-/9780135936276/)
 
-<img src="https://learning.oreilly.com/covers/9780135936276/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135936276/800w/" width="380" height="550" />
 
 > Dave Prowse's comprehensive Terraform course, from first configuration to modules, state, and workflows.
 
 [Terraform Infrastructure Automation](https://learning.oreilly.com/videos/-/9780135936450/)
 
-<img src="https://learning.oreilly.com/covers/9780135936450/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135936450/800w/" width="380" height="550" />
 
 > Automating infrastructure delivery with Terraform — pipelines, remote state, and reusable modules.
 
 [Terraform Essentials for AWS](https://learning.oreilly.com/videos/-/9780135936290/)
 
-<img src="https://learning.oreilly.com/covers/9780135936290/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135936290/800w/" width="380" height="550" />
 
 > Provisioning core AWS services with Terraform — networking, compute, storage, and IAM.
 
 [Terragrunt for DevOps: Scale Your Terraform Workflows](https://learning.oreilly.com/videos/-/9781808659379/)
 
-<img src="https://learning.oreilly.com/covers/9781808659379/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808659379/800w/" width="380" height="550" />
 
 > Using Terragrunt to keep multi-environment Terraform code DRY and manageable.
 
 [Red Hat Ansible Automation Training – RHEL 9 (RH294)](https://learning.oreilly.com/videos/-/9781808657559/)
 
-<img src="https://learning.oreilly.com/covers/9781808657559/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781808657559/800w/" width="380" height="550" />
 
 > Ansible automation for RHEL 9 following the RH294 curriculum — playbooks, roles, and managing fleets.
 
@@ -131,7 +119,6 @@ Top free, community-recommended videos and articles to complement the books and 
 ### :tv: Videos & YouTube
 
 * [Terraform Associate Certification — full course (freeCodeCamp / Andrew Brown)](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/) :star: — a complete, exam-aligned Terraform course.
-* [Terraform Associate — full course (Rahul Wagh)](https://www.classcentral.com/course/youtube-hashicorp-terraform-associate-certification-course-003-full-course-pass-exam-327523) — a hands-on walkthrough of variables, state, modules, and more.
 * [Ansible 101 (Jeff Geerling)](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) :star: — the definitive free video series on automating infrastructure with Ansible.
 
 ### :page_facing_up: Articles, Docs & Hands-On
@@ -139,6 +126,5 @@ Top free, community-recommended videos and articles to complement the books and 
 * [Terraform Tutorials (official HashiCorp)](https://developer.hashicorp.com/terraform/tutorials) :star: — official hands-on tutorials for AWS, Azure, and GCP.
 * [Ansible — Getting Started (official docs)](https://docs.ansible.com/ansible/latest/getting_started/index.html) — the official path into configuration management with Ansible.
 * [Pulumi — Learn (official)](https://www.pulumi.com/learn/) — guided tutorials for IaC in real programming languages.
-* [Best free Terraform learning resources](https://blog.jahirultusar.com/best-free-terraform-learning-resources/) — a curated roundup of free Terraform courses, labs, and articles.
 * [Terraform Best Practices (free online book)](https://www.terraform-best-practices.com/) — a community-maintained book of indisputable Terraform conventions and patterns.
 * [Ansible for DevOps — example code (Jeff Geerling)](https://github.com/geerlingguy/ansible-for-devops) — the freely available playbooks and examples that accompany the book and Ansible 101.
