@@ -10,31 +10,43 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 [Software Security for Developers](https://learning.oreilly.com/library/view/-/9781617298585/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781617298585/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781617298585/800w/" width="380" height="550" />
 
 > A developer-first guide to building security in — common vulnerability classes, secure coding, and defensive design patterns.
 
+[Web Application Security, 2nd Edition](https://learning.oreilly.com/library/view/-/9781098143923/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781098143923/800w/" width="380" height="550" />
+
+> Andrew Hoffman's modern guide to how web apps are attacked and defended — recon, offensive techniques, and secure architecture.
+
+[Threat-Driven Software Development](https://learning.oreilly.com/library/view/-/9780135567289/)
+
+<img src="https://learning.oreilly.com/covers/9780135567289/800w/" width="380" height="550" />
+
+> Microsoft security veterans, led by Michael Howard, on building online services that withstand modern threat actors.
+
 [Hacking APIs](https://learning.oreilly.com/library/view/-/9781098130244/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781098130244/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098130244/800w/" width="380" height="550" />
 
 > Corey Ball's hands-on guide to discovering and exploiting API vulnerabilities — the go-to book for testing and hardening APIs.
 
 [Secure APIs](https://learning.oreilly.com/library/view/-/9781633436633/)
 
-<img src="https://learning.oreilly.com/covers/9781633436633/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781633436633/800w/" width="380" height="550" />
 
 > Patterns and practices for designing and operating secure APIs — authentication, tokens, authorization, and gateways.
 
 [Software Supply Chain Security](https://learning.oreilly.com/library/view/software-supply-chain/9781098133696/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098133696/files/assets/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098133696/800w/" width="380" height="550" />
 
 > Securing the modern build-and-release pipeline — dependency risk, SBOMs, artifact signing, and provenance.
 
 [Policy as Code](https://learning.oreilly.com/library/view/policy-as-code/9781098139179/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098139179/files/assets/cover_final.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098139179/800w/" width="380" height="550" />
 
 > Codify and automate security and compliance guardrails (e.g. with OPA) so policy is enforced continuously across pipelines.
 
@@ -42,37 +54,49 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 [Microsoft Cybersecurity Architect Exam Ref SC-100 - Second Edition](https://learning.oreilly.com/library/view/-/9781836208518/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781836208518/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781836208518/800w/" width="380" height="550" />
 
 > Design end-to-end security strategy across Azure and Microsoft 365 — Zero Trust, identity, and governance — for the SC-100 architect exam.
 
 [Microsoft Defender for Cloud Cookbook](https://learning.oreilly.com/library/view/-/9781801076135/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781801076135/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781801076135/800w/" width="380" height="550" />
 
 > Recipe-driven coverage of securing workloads with Microsoft Defender for Cloud — posture management (CSPM) and workload protection.
 
 [Exam Ref SC-200 Microsoft Security Operations Analyst, 2nd Edition](https://learning.oreilly.com/library/view/-/9780135590805/)
 
-<img src="https://learning.oreilly.com/covers/9780135590805/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135590805/800w/" width="380" height="550" />
 
 > Threat detection and response with Microsoft Sentinel and the Defender suite, mapped to the SC-200 security-operations exam.
 
+[Unified SecOps Playbook](https://learning.oreilly.com/library/view/-/9781837632862/)
+
+<img src="https://learning.oreilly.com/covers/9781837632862/800w/" width="380" height="550" />
+
+> A practical playbook for Microsoft's unified security-operations platform, bringing Sentinel and Defender XDR together for detection and response.
+
+[Microsoft Identity and Access Administrator SC-300 Exam Guide - Second Edition](https://learning.oreilly.com/library/view/-/9781836200390/)
+
+<img src="https://learning.oreilly.com/covers/9781836200390/800w/" width="380" height="550" />
+
+> Identity, access, and governance with Microsoft Entra ID — the foundation of Azure security — mapped to the SC-300 exam.
+
 [Microsoft Defender for Endpoint in Depth - Second Edition](https://learning.oreilly.com/library/view/-/9781837026111/)
 
-<img src="https://learning.oreilly.com/covers/9781837026111/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781837026111/800w/" width="380" height="550" />
 
 > A deep, practical guide to deploying, tuning, and operating Microsoft Defender for Endpoint at scale.
 
 [Mastering Cloud Security Posture Management (CSPM)](https://learning.oreilly.com/library/view/mastering-cloud-security/9781837638406/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781837638406/files/image/Cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781837638406/800w/" width="380" height="550" />
 
 > Continuously find and fix cloud misconfigurations — the discipline behind Defender for Cloud and similar posture tools.
 
 [Enhancing Your Cloud Security with a CNAPP Solution](https://learning.oreilly.com/library/view/enhancing-your-cloud/9781836204879/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781836204879/files/Images/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781836204879/800w/" width="380" height="550" />
 
 > How cloud-native application protection platforms (CNAPP) unify posture, workload, and runtime security in one place.
 
@@ -80,37 +104,49 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 [Practical Cloud Security, 2nd Edition](https://learning.oreilly.com/library/view/practical-cloud-security/9781098148164/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098148164/files/assets/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098148164/800w/" width="380" height="550" />
 
 > A pragmatic, provider-agnostic guide to securing cloud workloads — identity, data protection, detection, and response.
 
+[Learning Cloud Security](https://learning.oreilly.com/library/view/-/9781098179410/)
+
+<img src="https://learning.oreilly.com/covers/9781098179410/800w/" width="380" height="550" />
+
+> Ric Messier's approachable, provider-neutral introduction to securing cloud workloads — identity, data, networking, and monitoring.
+
+[Certificate of Cloud Security Knowledge (CCSK v5) Study Guide](https://learning.oreilly.com/library/view/-/9781098173401/)
+
+<img src="https://learning.oreilly.com/covers/9781098173401/800w/" width="380" height="550" />
+
+> Prep for the Cloud Security Alliance's vendor-neutral CCSK v5 certificate — cloud security fundamentals and best practices.
+
 [Security Architecture for Hybrid Cloud](https://learning.oreilly.com/library/view/security-architecture-for/9781098157760/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098157760/files/assets/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098157760/800w/" width="380" height="550" />
 
 > A Zero Trust-based reference architecture for securing hybrid and multicloud environments end to end.
 
 [Cloud Native Security Cookbook](https://learning.oreilly.com/library/view/cloud-native-security/9781098106294/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098106294/files/assets/cover.png" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781098106294/800w/" width="380" height="550" />
 
 > Hands-on recipes for securing cloud-native systems across AWS, Azure, and GCP.
 
 [Cybersecurity Myths and Misconceptions](https://learning.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/) :star:
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137929214/files/graphics/9780137929153.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780137929214/800w/" width="380" height="550" />
 
 > Debunks the dangerous misunderstandings that quietly derail security programs — hard-won wisdom from Spafford, Metcalf, and Dykstra.
 
 [(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition](https://learning.oreilly.com/library/view/isc-2-ccsp-certified/9781119909378/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781119909378/files/images/9781119909392.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781119909378/800w/" width="380" height="550" />
 
 > The official preparation guide for the vendor-neutral CCSP cloud-security certification.
 
 [Security in Computing, 6th Edition](https://learning.oreilly.com/library/view/security-in-computing/9780137891375/)
 
-<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9780137891375/files/graphics/9780137891252.jpg" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780137891375/800w/" width="380" height="550" />
 
 > A comprehensive academic foundation spanning the breadth of information security.
 
@@ -118,37 +154,37 @@ Focused on the two areas this repo prioritises — **Application Security** (sec
 
 [AZ-500: Microsoft Azure Security Technologies](https://learning.oreilly.com/course/az-500-microsoft-azure/9781836207214/) :star:
 
-<img src="https://learning.oreilly.com/covers/9781836207214/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781836207214/800w/" width="380" height="550" />
 
 > Hands-on Azure security training — identity and access, platform protection, data security, and security operations.
 
 [SC-200 Microsoft Security Operations Analyst](https://learning.oreilly.com/videos/-/9781836201632/)
 
-<img src="https://learning.oreilly.com/covers/9781836201632/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9781836201632/800w/" width="380" height="550" />
 
 > Security-operations training for Microsoft Sentinel and the Defender suite, mapped to the SC-200 exam.
 
 [Certified Cloud Security Professional (CCSP)](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
-<img src="https://learning.oreilly.com/covers/9780138170622/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780138170622/800w/" width="380" height="550" />
 
 > Video preparation for the vendor-neutral CCSP cloud-security certification.
 
 [CompTIA Security+ SY0-701](https://learning.oreilly.com/course/comptia-security-sy0-701/9780138251062/)
 
-<img src="https://learning.oreilly.com/covers/9780138251062/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780138251062/800w/" width="380" height="550" />
 
 > The standard entry-level certification covering core defensive security concepts.
 
 [CISSP, 4th Edition](https://learning.oreilly.com/course/cissp-4th-edition/9780135328613/)
 
-<img src="https://learning.oreilly.com/covers/9780135328613/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780135328613/800w/" width="380" height="550" />
 
 > Comprehensive preparation for the gold-standard CISSP information-security certification.
 
 [AI Security and Responsible AI Practices](https://learning.oreilly.com/course/ai-security-and/9780138361600/)
 
-<img src="https://learning.oreilly.com/covers/9780138361600/" width="380" height="550" />
+<img src="https://learning.oreilly.com/covers/9780138361600/800w/" width="380" height="550" />
 
 > Securing AI systems and applying responsible-AI principles — safety, bias mitigation, and governance.
 
