@@ -44,6 +44,18 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 > Applies lean principles to operations to deliver reliable, on-demand services without drowning teams in process.
 
+[The DevOps Solutions Handbook](https://learning.oreilly.com/library/view/-/9781835880722/)
+
+<img src="https://learning.oreilly.com/covers/9781835880722/800w/" width="380" height="550" />
+
+> Michael Cade's problem-and-solution guide to common DevOps challenges across pipelines, platforms, and data protection.
+
+[LLMs for Modern Software Delivery and DevOps](https://learning.oreilly.com/library/view/-/9781807609191/)
+
+<img src="https://learning.oreilly.com/covers/9781807609191/800w/" width="380" height="550" />
+
+> Applying LLMs across the delivery lifecycle — pipeline automation, incident triage, and AI-assisted operations.
+
 ### Continuous Delivery & CI/CD
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
@@ -58,13 +70,19 @@ DevOps unites development and operations through automation, fast feedback, and 
 
 > A hands-on guide to building robust CI/CD pipelines with Jenkins, updated for modern cloud-native workflows.
 
+[Full Stack Testing, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341636934/)
+
+<img src="https://learning.oreilly.com/covers/9798341636934/800w/" width="380" height="550" />
+
+> Gayathri Mohan's updated guide to testing every layer of an application and building those tests into CI/CD.
+
+[Azure DevOps Explained - Second Edition](https://learning.oreilly.com/library/view/-/9781803238937/)
+
+<img src="https://learning.oreilly.com/covers/9781803238937/800w/" width="380" height="550" />
+
+> Boards, Repos, Pipelines, and Artifacts — planning and shipping software end to end with Azure DevOps.
+
 ### SRE, Observability & Platform Engineering
-
-[Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341607675/) :star:
-
-<img src="https://learning.oreilly.com/covers/9798341607675/800w/" width="380" height="550" />
-
-> The fully revised edition of Google's seminal book on running large-scale production systems — SLOs, error budgets, toil reduction, and automation.
 
 [Observability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/-/9781098179915/)
 
@@ -89,6 +107,30 @@ DevOps unites development and operations through automation, fast feedback, and 
 <img src="https://learning.oreilly.com/covers/9781492082781/800w/" width="380" height="550" />
 
 > The engineering practices, culture, and tooling that let Google sustain software development across decades and huge teams.
+
+[Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/-/9798341607675/) :star:
+
+<img src="https://learning.oreilly.com/covers/9798341607675/800w/" width="380" height="550" />
+
+> The long-awaited update to Google's SRE book — a decade of new practice on SLOs, incident response, and reliability at scale.
+
+[Platform Engineering at Google](https://learning.oreilly.com/library/view/-/9781098169428/)
+
+<img src="https://learning.oreilly.com/covers/9781098169428/800w/" width="380" height="550" />
+
+> How Google builds and runs internal developer platforms — the principles, team structures, and lessons learned.
+
+[Agentic DevOps with Claude Code](https://learning.oreilly.com/library/view/-/9781808344190/)
+
+<img src="https://learning.oreilly.com/covers/9781808344190/800w/" width="380" height="550" />
+
+> Using coding agents for infrastructure and operations work — pipelines, IaC changes, and incident runbooks.
+
+[Agentic AI for Platform Engineering](https://learning.oreilly.com/library/view/-/9781806386659/)
+
+<img src="https://learning.oreilly.com/covers/9781806386659/800w/" width="380" height="550" />
+
+> Adding AI agents to an internal developer platform for self-service provisioning, troubleshooting, and governance.
 
 # ***Courses*** :computer:
 
@@ -133,6 +175,18 @@ DevOps unites development and operations through automation, fast feedback, and 
 <img src="https://learning.oreilly.com/covers/0636920964124/800w/" width="380" height="550" />
 
 > Career-focused guidance and a practical roadmap for landing your first DevOps engineering role.
+
+[DevOps, DevSecOps, and Audit](https://learning.oreilly.com/videos/-/9781808657016/)
+
+<img src="https://learning.oreilly.com/covers/9781808657016/800w/" width="380" height="550" />
+
+> DevOps and DevSecOps practices from an audit and controls perspective — risk, compliance, and assurance in fast pipelines.
+
+[The Art of Azure DevOps Project Administration and Project Governance (Hands-On)](https://learning.oreilly.com/videos/-/9781808819513/)
+
+<img src="https://learning.oreilly.com/covers/9781808819513/800w/" width="380" height="550" />
+
+> A hands-on course on administering Azure DevOps organizations — projects, permissions, process templates, and governance.
 
 # ***Free Learning Resources*** :free:
 

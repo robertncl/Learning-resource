@@ -30,12 +30,6 @@ Designing, building, and evolving fine-grained, independently deployable service
 
 > Adam Bellemare's guide to designing microservices around event streams — data contracts, eventual consistency, and stream processing at scale.
 
-[Building Resilient Distributed Systems](https://learning.oreilly.com/library/view/-/9781098163532/)
-
-<img src="https://learning.oreilly.com/covers/9781098163532/800w/" width="380" height="550" />
-
-> Sam Newman on keeping distributed systems working when parts of them fail — timeouts, retries, idempotency, and graceful degradation.
-
 [Designing Distributed Systems, 2nd Edition](https://learning.oreilly.com/library/view/-/9781098156343/) :star:
 
 <img src="https://learning.oreilly.com/covers/9781098156343/800w/" width="380" height="550" />
@@ -66,6 +60,24 @@ Designing, building, and evolving fine-grained, independently deployable service
 
 > Dominik Tornow builds a clear mental model of distributed systems — failure, consistency, replication, and coordination.
 
+[Building Resilient Distributed Systems](https://learning.oreilly.com/library/view/-/9781098163532/) :star:
+
+<img src="https://learning.oreilly.com/covers/9781098163532/800w/" width="380" height="550" />
+
+> Sam Newman on designing distributed systems that degrade gracefully — timeouts, retries, isolation, and recovering from failure.
+
+[Software Architecture Patterns, Antipatterns, and Pitfalls](https://learning.oreilly.com/library/view/-/0642572221119/)
+
+<img src="https://learning.oreilly.com/covers/0642572221119/800w/" width="380" height="550" />
+
+> Richards, Ford, and Gandhi catalogue the architecture styles and the mistakes that most often undermine them.
+
+[Architecture as Code](https://learning.oreilly.com/library/view/-/9798341640368/)
+
+<img src="https://learning.oreilly.com/covers/9798341640368/800w/" width="380" height="550" />
+
+> Neal Ford and Mark Richards on expressing and enforcing architecture decisions as code with fitness functions.
+
 # ***Courses*** :computer:
 
 [Design Microservices Architecture with Patterns and Principles](https://learning.oreilly.com/course/design-microservices-architecture/9781805126782/)
@@ -85,6 +97,18 @@ Designing, building, and evolving fine-grained, independently deployable service
 <img src="https://learning.oreilly.com/covers/9781805124429/800w/" width="380" height="550" />
 
 > Implement microservice APIs in Go with a focus on practical, production-minded design.
+
+[Hands-on Microservices with SpringBoot](https://learning.oreilly.com/videos/-/9781808083730/)
+
+<img src="https://learning.oreilly.com/covers/9781808083730/800w/" width="380" height="550" />
+
+> Josh Long and Simon Martinelli build microservices with modern Spring Boot, live and hands-on.
+
+[Microservices Patterns Fundamentals](https://learning.oreilly.com/videos/-/9781808811692/)
+
+<img src="https://learning.oreilly.com/covers/9781808811692/800w/" width="380" height="550" />
+
+> A short primer on the core microservice patterns — decomposition, communication, data, and resilience.
 
 # ***Free Learning Resources*** :free:
 

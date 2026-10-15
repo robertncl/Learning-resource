@@ -38,6 +38,12 @@ From first commands to kernel internals — a path through using, administering,
 
 > A hands-on, security-flavored introduction to Linux for aspiring pentesters and ethical hackers.
 
+[CompTIA Linux+ Study Guide](https://learning.oreilly.com/library/view/-/9798341647107/)
+
+<img src="https://learning.oreilly.com/covers/9798341647107/800w/" width="380" height="550" />
+
+> O'Reilly's study guide for the CompTIA Linux+ exam — system management, security, scripting, and troubleshooting.
+
 ### System Administration & Performance
 
 [UNIX and Linux System Administration Handbook, 5th Edition](https://learning.oreilly.com/library/view/unix-and-linux/9780134278308/) :star:
@@ -51,6 +57,24 @@ From first commands to kernel internals — a path through using, administering,
 <img src="https://learning.oreilly.com/covers/9780136821694/800w/" width="380" height="550" />
 
 > Brendan Gregg's masterwork on analyzing and tuning performance across CPU, memory, disk, and network — methodology and tools.
+
+[Linux for Networking Professionals - Second Edition](https://learning.oreilly.com/library/view/-/9781835881101/)
+
+<img src="https://learning.oreilly.com/covers/9781835881101/800w/" width="380" height="550" />
+
+> Using Linux as a network platform — configuration, diagnostics, services, and securing network infrastructure.
+
+[DevSecOps and DevOps for Linux: The Foundations](https://learning.oreilly.com/library/view/-/9798868820779/)
+
+<img src="https://learning.oreilly.com/covers/9798868820779/800w/" width="380" height="550" />
+
+> Building secure, automated Linux environments as the foundation for DevOps and DevSecOps practices.
+
+[Agentic AI for Linux Administration](https://learning.oreilly.com/library/view/-/9781808724794/)
+
+<img src="https://learning.oreilly.com/covers/9781808724794/800w/" width="380" height="550" />
+
+> A short guide to using AI agents for routine Linux administration, diagnosis, and automation.
 
 ### Systems Programming & Kernel
 
@@ -109,6 +133,12 @@ From first commands to kernel internals — a path through using, administering,
 <img src="https://learning.oreilly.com/covers/9781807782795/800w/" width="380" height="550" />
 
 > Total Seminars' complete video prep for the current XK0-006 Linux+ exam — administration, security, scripting, and troubleshooting.
+
+[Red Hat Training and Certification - RHEL 9 (RH134)](https://learning.oreilly.com/videos/-/9781808651090/)
+
+<img src="https://learning.oreilly.com/covers/9781808651090/800w/" width="380" height="550" />
+
+> The RH134 System Administration II curriculum for RHEL 9 — storage, scripting, SELinux, and networking.
 
 # ***Free Learning Resources*** :free:
 
